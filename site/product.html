@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Product / Design - Jobs IA France</title>
+<meta name="description" content="Offres Product / Design dans les startups IA francaises">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,-apple-system,sans-serif;background:#0a0a0a;color:#e0e0e0;line-height:1.6}
+a{color:#60a5fa;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+header{background:#111;border-bottom:1px solid #222;padding:20px 0}
+header h1{font-size:1.8rem;color:#fff}
+header p{color:#888;margin-top:4px}
+nav{background:#111;border-bottom:1px solid #222;padding:10px 0;position:sticky;top:0;z-index:10}
+nav .container{display:flex;gap:8px;flex-wrap:wrap}
+nav a{padding:4px 12px;border-radius:16px;font-size:.85rem;color:#ccc;border:1px solid #333;white-space:nowrap}
+nav a:hover,nav a.active{background:#222;color:#fff;text-decoration:none;border-color:#555}
+.stats{display:flex;gap:20px;padding:20px 0;flex-wrap:wrap}
+.stat{background:#161616;border:1px solid #222;border-radius:8px;padding:16px 20px;flex:1;min-width:140px}
+.stat-value{font-size:1.5rem;font-weight:700;color:#fff}
+.stat-label{font-size:.8rem;color:#888;margin-top:2px}
+.filters{padding:16px 0;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.filters input{background:#161616;border:1px solid #333;color:#e0e0e0;padding:8px 14px;border-radius:8px;font-size:.9rem;width:300px}
+.filters select{background:#161616;border:1px solid #333;color:#e0e0e0;padding:8px 14px;border-radius:8px;font-size:.9rem}
+.job-list{list-style:none;display:flex;flex-direction:column;gap:2px}
+.job{background:#161616;border:1px solid #222;border-radius:6px;padding:14px 18px;display:flex;align-items:center;gap:16px;transition:border-color .15s}
+.job:hover{border-color:#444}
+.job-cat{font-size:.7rem;padding:3px 8px;border-radius:10px;color:#fff;white-space:nowrap;font-weight:600;min-width:60px;text-align:center}
+.job-info{flex:1;min-width:0}
+.job-title{font-weight:500;color:#fff}
+.job-meta{font-size:.8rem;color:#888;margin-top:2px}
+.job-meta span{margin-right:12px}
+.tier{font-size:.65rem;padding:2px 6px;border-radius:4px;font-weight:700}
+.tier-A{background:#166534;color:#4ade80}.tier-B{background:#854d0e;color:#fbbf24}
+.section-title{font-size:1.2rem;font-weight:600;color:#fff;padding:24px 0 12px;border-bottom:1px solid #222;margin-bottom:12px}
+.startup-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;padding:12px 0}
+.startup-card{background:#161616;border:1px solid #222;border-radius:8px;padding:16px}
+.startup-card h3{font-size:1rem;color:#fff;margin-bottom:4px}
+.startup-card .meta{font-size:.8rem;color:#888;margin-bottom:8px}
+.startup-card .tech{display:flex;flex-wrap:wrap;gap:4px}
+.startup-card .tech span{font-size:.7rem;background:#1e293b;color:#94a3b8;padding:2px 8px;border-radius:10px}
+footer{border-top:1px solid #222;padding:20px 0;margin-top:40px;text-align:center;color:#555;font-size:.8rem}
+@media(max-width:640px){
+  .stats{flex-direction:column}
+  .filters input{width:100%}
+  .job{flex-direction:column;align-items:flex-start;gap:8px}
+  nav .container{gap:4px}nav a{font-size:.75rem;padding:3px 8px}
+}
+</style>
+</head>
+<body>
+<header><div class="container">
+<h1>Jobs IA France</h1>
+<p>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</p>
+</div></header>
+<nav><div class="container"><a href="index.html">Toutes</a><a href="ia-ml.html">IA / ML / Data Science</a><a href="dev.html">Dev / Engineering</a><a href="data.html">Data</a><a href="ops.html">Ops / Infra / QA</a><a href="product.html" class="active">Product / Design</a><a href="sales.html">Sales / Business</a><a href="marketing.html">Marketing / Growth</a><a href="management.html">Management / Leadership</a><a href="rh.html">RH / People</a><a href="stages.html">Stage / Alternance</a><a href="autre.html">Autre</a><a href="startups.html">Startups</a></div></nav>
+<main class="container">
+<h2 class="section-title">Product / Design (54 offres)</h2><div class="filters">
+<input type="text" id="search" placeholder="Rechercher par titre, startup, techno...">
+<select id="region-filter"><option value="">Toutes les regions</option><option value="Auvergne-Rhône-Alpes">Auvergne-Rhône-Alpes</option><option value="Occitanie">Occitanie</option><option value="Île-de-France">Île-de-France</option></select>
+<span style="color:#888;font-size:.85rem"><span id="job-count">54</span> offres</span>
+</div>
+<ul class="job-list"><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.ashbyhq.com/adaptive-ml/6831e50b-e5c9-44de-b691-daa4ae0ba288" target="_blank" rel="noopener">Head of Product Marketing</a>
+<div class="job-meta">
+<span>Adaptive ML</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.adaptive-ml.com/about" target="_blank" rel="noopener">Product</a>
+<div class="job-meta">
+<span>Adaptive ML</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/pricing/deploy" target="_blank" rel="noopener">DeployBuild production rating</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/teams/product" target="_blank" rel="noopener">Product3 open positions</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://arcascience.ai/join-us" target="_blank" rel="noopener">Join UsBuild the future of pharmaceutical AI with us.</a>
+<div class="job-meta">
+<span>Arcascience</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://arcascience.ai/news" target="_blank" rel="noopener">NewsStay tuned on product releases and industry news.</a>
+<div class="job-meta">
+<span>Arcascience</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://arcascience.ai/join-us" target="_blank" rel="noopener">Product</a>
+<div class="job-meta">
+<span>Arcascience</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.astriis.com/fr/cookie-policy" target="_blank" rel="noopener">Politique relative aux cookies</a>
+<div class="job-meta">
+<span>Astriis</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.bondzai.io/playground/" target="_blank" rel="noopener">DISCOVER OUR PRODUCT ON THE FIELD</a>
+<div class="job-meta">
+<span>Bondzai</span>
+<span class="tier tier-A">A</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.bondzai.io/products/idetect-5-0/" target="_blank" rel="noopener">PRODUCTS</a>
+<div class="job-meta">
+<span>Bondzai</span>
+<span class="tier tier-A">A</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.bondzai.io/2022/04/29/ux-designer/" target="_blank" rel="noopener">UX Designer</a>
+<div class="job-meta">
+<span>Bondzai</span>
+<span class="tier tier-A">A</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://start.botnation.ai/login" target="_blank" rel="noopener">Tester gratuitement</a>
+<div class="job-meta">
+<span>Botfuel</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://callifly.com/cas-dusage-recrutement-de-candidats/" target="_blank" rel="noopener">@type:&quot;Product&quot;,</a>
+<div class="job-meta">
+<span>Callifly</span>
+<span class="tier tier-B">B</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.cogniwavedynamics.com" target="_blank" rel="noopener">Products</a>
+<div class="job-meta">
+<span>Cogniwave dynamics</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://careers.continuity-tech.ai/en-GB/people/3085007-marguerite-blanc" target="_blank" rel="noopener">Marguerite Blanc ﻿ Product team lead</a>
+<div class="job-meta">
+<span>Continuity</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.continuity-tech.ai/" target="_blank" rel="noopener">continuity-tech.ai</a>
+<div class="job-meta">
+<span>Continuity</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.continuity-tech.ai/" target="_blank" rel="noopener">continuity-tech.ai/</a>
+<div class="job-meta">
+<span>Continuity</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.dasia.ai/nous-rejoindre/" target="_blank" rel="noopener">if (!supportsAnimationTimeline &amp;&amp; document.querySelector('.uicore-animate-scroll')) {</a>
+<div class="job-meta">
+<span>Dasia</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://decisionbrain.com/production-scheduling/" target="_blank" rel="noopener">Production Scheduling</a>
+<div class="job-meta">
+<span>DecisionBrain</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://decisionbrain.com/tactical-production-planning/" target="_blank" rel="noopener">Tactical Production Planning</a>
+<div class="job-meta">
+<span>DecisionBrain</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.linkedin.com/legal/cookie-policy" target="_blank" rel="noopener">Politique relative aux cookies</a>
+<div class="job-meta">
+<span>Footovision</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://constellab.community/bricks/gws_academy/latest/doc/getting-started" target="_blank" rel="noopener">Consult product documentation</a>
+<div class="job-meta">
+<span>Gencovery</span>
+<span class="tier tier-A">A</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://updates.hrflow.ai" target="_blank" rel="noopener">Product updates</a>
+<div class="job-meta">
+<span>HrFlow.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://hylight.aero/careers" target="_blank" rel="noopener">In 3 years : 8+ HyLighter iterations and a certified products.</a>
+<div class="job-meta">
+<span>HyLight</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://hylight.aero/careers" target="_blank" rel="noopener">Stay true, speak your mind, build trust.</a>
+<div class="job-meta">
+<span>HyLight</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.ida.eu/" target="_blank" rel="noopener">Du magasin au grossiste, de la centrale d'achat au producteur agroalimentaire</a>
+<div class="job-meta">
+<span>IDA</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.illuin.tech/produits/dialogue-assistants-et-agents-ia/dialogue/" target="_blank" rel="noopener">Gérez avec facilité des bots de pointe alliant la puissance de la GenAI à la fiabilité d’arbres guidés</a>
+<div class="job-meta">
+<span>Illuin Technology</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.kalrayinc.com/all-products" target="_blank" rel="noopener">Products</a>
+<div class="job-meta">
+<span>Kalray</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.kalrayinc.com/careers/#productupdates" target="_blank" rel="noopener">SUBSCRIBE FOR PRODUCT UPDATES &amp;gt;</a>
+<div class="job-meta">
+<span>Kalray</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.koyeb.com/careers" target="_blank" rel="noopener">We build the fastest way to deploy applications globally.</a>
+<div class="job-meta">
+<span>Koyeb</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.luckycart.com/vos-challenges/portfolio-opportunities" target="_blank" rel="noopener">Accentuez les résultats business de vos marques en exploitant votre portefeuille</a>
+<div class="job-meta">
+<span>Lucky cart</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.makipeople.com/product-overview" target="_blank" rel="noopener">Product Overview</a>
+<div class="job-meta">
+<span>Maki people</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.neuralk-ai.com/frontier-ai-for-product-intelligence-the-best-foundation-model-for-commerce" target="_blank" rel="noopener">Product Intelligence</a>
+<div class="job-meta">
+<span>Neuralk-AI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/technicien-ne-de-laboratoire_le-kremlin-bicetre" target="_blank" rel="noopener">Technicien.ne de laboratoireCDILe Kremlin-Bicêtre, Villejuif</a>
+<div class="job-meta">
+<span>Orakl Oncology</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://osium.ai/technology" target="_blank" rel="noopener">Product</a>
+<div class="job-meta">
+<span>Osium AI</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.prophesee.ai/buy-event-based-products/" target="_blank" rel="noopener">All Products</a>
+<div class="job-meta">
+<span>PROPHESEE</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.prophesee.ai/buy-event-based-products/" target="_blank" rel="noopener">BUY PRODUCTS</a>
+<div class="job-meta">
+<span>PROPHESEE</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.picsellia.com/jobs#what-you-should-know" target="_blank" rel="noopener">About the Product</a>
+<div class="job-meta">
+<span>Picsellia</span>
+<span class="tier tier-A">A</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.picsellia.com/product-overview" target="_blank" rel="noopener">Product Overview</a>
+<div class="job-meta">
+<span>Picsellia</span>
+<span class="tier tier-A">A</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.quant-cube.com/product" target="_blank" rel="noopener">Folder: Product</a>
+<div class="job-meta">
+<span>QuantCube Technology</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.sahar.fr/cookie-policy" target="_blank" rel="noopener">politique relative aux cookies</a>
+<div class="job-meta">
+<span>SAHAR</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://sightengine.com/careers" target="_blank" rel="noopener">Products</a>
+<div class="job-meta">
+<span>Sightengine</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://careers.sipearl.com/fr/jobs/3347733-senior-cpu-package-designer-h-f" target="_blank" rel="noopener">Senior CPU Package Designer (H/F) System Hardware Design &amp;middot; Grenoble, Massy, Maisons-Laffitte &amp;middot; Hybrid</a>
+<div class="job-meta">
+<span>Sipearl</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://stellia.ai/en/product" target="_blank" rel="noopener">The product</a>
+<div class="job-meta">
+<span>Stellia</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://app.timelight.tech/inscription" target="_blank" rel="noopener">Essai gratuit</a>
+<div class="job-meta">
+<span>Timelight</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.trezy.io/cashflow-for-manufacturing" target="_blank" rel="noopener">Manufacturing Optimize production cycles, manage supplier payments, and forecast raw material needs. Learn more →</a>
+<div class="job-meta">
+<span>Trezy</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.trezy.io/changelog" target="_blank" rel="noopener">Product Updates</a>
+<div class="job-meta">
+<span>Trezy</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.linkedin.com/jobs/production-coordinator-jobs?trk=organization_guest_linkster_link" target="_blank" rel="noopener">Offres d’emploi Coordinateur production</a>
+<div class="job-meta">
+<span>crunch dao</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.linkedin.com/jobs/portfolio-manager-jobs?trk=organization_guest_linkster_link" target="_blank" rel="noopener">Offres d’emploi Responsable de portefeuille</a>
+<div class="job-meta">
+<span>crunch dao</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.linkedin.com/jobs/portfolio-manager-jobs?trk=organization_guest-browse_jobs" target="_blank" rel="noopener">Offres d’emploi Responsable de portefeuille 29 983 postes à pourvoir</a>
+<div class="job-meta">
+<span>crunch dao</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://www.linkedin.com/legal/cookie-policy" target="_blank" rel="noopener">Politique relative aux cookies</a>
+<div class="job-meta">
+<span>crunch dao</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/platform/#ai-powered-productivity" target="_blank" rel="noopener">AI powered productivity</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/home/product" target="_blank" rel="noopener">Product</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#f39c12">Product / Design</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/home/solutions/productivity" target="_blank" rel="noopener">Productivity</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li></ul>
+</main>
+<footer><div class="container">
+Mis a jour le 2026-03-05 11:58 UTC &middot;
+Donnees extraites automatiquement des sites des startups
+</div></footer>
+<script>
+document.addEventListener('DOMContentLoaded',()=>{
+  const input=document.getElementById('search');
+  const regionSel=document.getElementById('region-filter');
+  const jobs=document.querySelectorAll('.job');
+  if(!input)return;
+
+  function filter(){
+    const q=input.value.toLowerCase();
+    const r=regionSel?regionSel.value:'';
+    let count=0;
+    jobs.forEach(j=>{
+      const text=j.textContent.toLowerCase();
+      const region=j.dataset.region||'';
+      const show=text.includes(q)&&(!r||region===r);
+      j.style.display=show?'':'none';
+      if(show)count++;
+    });
+    const counter=document.getElementById('job-count');
+    if(counter)counter.textContent=count;
+  }
+
+  input.addEventListener('input',filter);
+  if(regionSel)regionSel.addEventListener('change',filter);
+});
+</script>
+</body>
+</html>

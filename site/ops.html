@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ops / Infra / QA - Jobs IA France</title>
+<meta name="description" content="Offres Ops / Infra / QA dans les startups IA francaises">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,-apple-system,sans-serif;background:#0a0a0a;color:#e0e0e0;line-height:1.6}
+a{color:#60a5fa;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+header{background:#111;border-bottom:1px solid #222;padding:20px 0}
+header h1{font-size:1.8rem;color:#fff}
+header p{color:#888;margin-top:4px}
+nav{background:#111;border-bottom:1px solid #222;padding:10px 0;position:sticky;top:0;z-index:10}
+nav .container{display:flex;gap:8px;flex-wrap:wrap}
+nav a{padding:4px 12px;border-radius:16px;font-size:.85rem;color:#ccc;border:1px solid #333;white-space:nowrap}
+nav a:hover,nav a.active{background:#222;color:#fff;text-decoration:none;border-color:#555}
+.stats{display:flex;gap:20px;padding:20px 0;flex-wrap:wrap}
+.stat{background:#161616;border:1px solid #222;border-radius:8px;padding:16px 20px;flex:1;min-width:140px}
+.stat-value{font-size:1.5rem;font-weight:700;color:#fff}
+.stat-label{font-size:.8rem;color:#888;margin-top:2px}
+.filters{padding:16px 0;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.filters input{background:#161616;border:1px solid #333;color:#e0e0e0;padding:8px 14px;border-radius:8px;font-size:.9rem;width:300px}
+.filters select{background:#161616;border:1px solid #333;color:#e0e0e0;padding:8px 14px;border-radius:8px;font-size:.9rem}
+.job-list{list-style:none;display:flex;flex-direction:column;gap:2px}
+.job{background:#161616;border:1px solid #222;border-radius:6px;padding:14px 18px;display:flex;align-items:center;gap:16px;transition:border-color .15s}
+.job:hover{border-color:#444}
+.job-cat{font-size:.7rem;padding:3px 8px;border-radius:10px;color:#fff;white-space:nowrap;font-weight:600;min-width:60px;text-align:center}
+.job-info{flex:1;min-width:0}
+.job-title{font-weight:500;color:#fff}
+.job-meta{font-size:.8rem;color:#888;margin-top:2px}
+.job-meta span{margin-right:12px}
+.tier{font-size:.65rem;padding:2px 6px;border-radius:4px;font-weight:700}
+.tier-A{background:#166534;color:#4ade80}.tier-B{background:#854d0e;color:#fbbf24}
+.section-title{font-size:1.2rem;font-weight:600;color:#fff;padding:24px 0 12px;border-bottom:1px solid #222;margin-bottom:12px}
+.startup-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;padding:12px 0}
+.startup-card{background:#161616;border:1px solid #222;border-radius:8px;padding:16px}
+.startup-card h3{font-size:1rem;color:#fff;margin-bottom:4px}
+.startup-card .meta{font-size:.8rem;color:#888;margin-bottom:8px}
+.startup-card .tech{display:flex;flex-wrap:wrap;gap:4px}
+.startup-card .tech span{font-size:.7rem;background:#1e293b;color:#94a3b8;padding:2px 8px;border-radius:10px}
+footer{border-top:1px solid #222;padding:20px 0;margin-top:40px;text-align:center;color:#555;font-size:.8rem}
+@media(max-width:640px){
+  .stats{flex-direction:column}
+  .filters input{width:100%}
+  .job{flex-direction:column;align-items:flex-start;gap:8px}
+  nav .container{gap:4px}nav a{font-size:.75rem;padding:3px 8px}
+}
+</style>
+</head>
+<body>
+<header><div class="container">
+<h1>Jobs IA France</h1>
+<p>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</p>
+</div></header>
+<nav><div class="container"><a href="index.html">Toutes</a><a href="ia-ml.html">IA / ML / Data Science</a><a href="dev.html">Dev / Engineering</a><a href="data.html">Data</a><a href="ops.html" class="active">Ops / Infra / QA</a><a href="product.html">Product / Design</a><a href="sales.html">Sales / Business</a><a href="marketing.html">Marketing / Growth</a><a href="management.html">Management / Leadership</a><a href="rh.html">RH / People</a><a href="stages.html">Stage / Alternance</a><a href="autre.html">Autre</a><a href="startups.html">Startups</a></div></nav>
+<main class="container">
+<h2 class="section-title">Ops / Infra / QA (48 offres)</h2><div class="filters">
+<input type="text" id="search" placeholder="Rechercher par titre, startup, techno...">
+<select id="region-filter"><option value="">Toutes les regions</option><option value="Auvergne-Rhône-Alpes">Auvergne-Rhône-Alpes</option><option value="Hauts-de-France">Hauts-de-France</option><option value="Occitanie">Occitanie</option><option value="Pays de la Loire">Pays de la Loire</option><option value="Provence-Alpes-Côte d'Azur">Provence-Alpes-Côte d'Azur</option><option value="Île-de-France">Île-de-France</option></select>
+<span style="color:#888;font-size:.85rem"><span id="job-count">48</span> offres</span>
+</div>
+<ul class="job-list"><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.peakpeople-hr.com/talents/" target="_blank" rel="noopener">&amp;#8211; Utilisation de tests cognitifs ;</a>
+<div class="job-meta">
+<span>(E-)PEAK PEOPLE HR</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.adaptive-ml.com/blog" target="_blank" rel="noopener">more of the latest</a>
+<div class="job-meta">
+<span>Adaptive ML</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/reserving/arius-enterprise" target="_blank" rel="noopener">Arius EnterpriseManage and automate your reserving process with our cloud-based platform</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/teams/it-operations" target="_blank" rel="noopener">Cloud Ops, IT &amp; Security3 open positions</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/news" target="_blank" rel="noopener">Latest news and press releases</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/reserving/latest-releases" target="_blank" rel="noopener">Latest releases</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/reserving/latest-releases" target="_blank" rel="noopener">Latest releasesDiscover our latest release notes and downloadable files</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/security" target="_blank" rel="noopener">Security</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Provence-Alpes-Côte d'Azur">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://avicenna.ai/cybersecurity" target="_blank" rel="noopener">Cybersecurity</a>
+<div class="job-meta">
+<span>Avicenna.AI</span>
+<span class="tier tier-B">B</span>
+<span>Provence-Alpes-Côte d'Azur</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.batvoice.com/challenges/ventes" target="_blank" rel="noopener">Comment tester Batvoice AI ?</a>
+<div class="job-meta">
+<span>BatvoiceAI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.celest.science/contact" target="_blank" rel="noopener">Oops! Something went wrong while submitting the form.</a>
+<div class="job-meta">
+<span>Celest.Science</span>
+<span class="tier tier-A">A</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.dasia.ai/nous-rejoindre/" target="_blank" rel="noopener">use strict;var _createClass=function(){function defineProperties(target,props){for(var i=0;i</a>
+<div class="job-meta">
+<span>Dasia</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://decisionbrain.com/security-compliance/" target="_blank" rel="noopener">Security &amp;#038; Compliance</a>
+<div class="job-meta">
+<span>DecisionBrain</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.flex.ai/any-cloud" target="_blank" rel="noopener">Any Cloud</a>
+<div class="job-meta">
+<span>Flex.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.flex.ai/flexaicloudservices" target="_blank" rel="noopener">FlexAI Cloud Services</a>
+<div class="job-meta">
+<span>Flex.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.flex.ai/flexai-on-neoclouds" target="_blank" rel="noopener">FlexAI for Neoclouds</a>
+<div class="job-meta">
+<span>Flex.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gatewatcher.com/solution/batir-mon-ecosyteme-cyber-sur-la-base-dun-ndr/" target="_blank" rel="noopener">Bâtir mon écosystème cyber</a>
+<div class="job-meta">
+<span>GATEWATCHER</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gatewatcher.com/solution/batir-mon-ecosyteme-cyber-sur-la-base-dun-ndr/" target="_blank" rel="noopener">Bâtir mon écosytème cyber sur la base d’un NDR</a>
+<div class="job-meta">
+<span>GATEWATCHER</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gatewatcher.com/solution/capitaliser-sur-vos-obligations-reglementaires-pour-renforcer-votre-securite/" target="_blank" rel="noopener">Capitaliser sur mes obligations réglementaires pour renforcer ma sécurité</a>
+<div class="job-meta">
+<span>GATEWATCHER</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gatewatcher.com/solution/identifier-proactivement-les-menaces-cyber/" target="_blank" rel="noopener">Identifier proactivement les menaces cyber</a>
+<div class="job-meta">
+<span>GATEWATCHER</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gatewatcher.com/solution/proteger-mes-environnements-cloud/" target="_blank" rel="noopener">Protéger mes environnements cloud</a>
+<div class="job-meta">
+<span>GATEWATCHER</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://developers.hrflow.ai/docs/security" target="_blank" rel="noopener">Security</a>
+<div class="job-meta">
+<span>HrFlow.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://aws.amazon.com/fr/blogs/france/klap-meilleure-architecture-startup-aws-summit-paris-2019/" target="_blank" rel="noopener">TOP8 of well architected infrastructure in France.</a>
+<div class="job-meta">
+<span>HrFlow.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://developers.hrflow.ai/docs/security" target="_blank" rel="noopener">Visit our Security Hub</a>
+<div class="job-meta">
+<span>HrFlow.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://hylight.aero/careers" target="_blank" rel="noopener">Signed contracts with major energy and infrastructure operators.</a>
+<div class="job-meta">
+<span>HyLight</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.koyeb.com/careers" target="_blank" rel="noopener">Koyeb: High-performance Infrastructure for APIs, Inference, and Databases</a>
+<div class="job-meta">
+<span>Koyeb</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.makipeople.com/security" target="_blank" rel="noopener">Trust &amp; Security</a>
+<div class="job-meta">
+<span>Maki people</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Pays de la Loire">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://content.octopize.io/free-trial" target="_blank" rel="noopener">Testez l'app</a>
+<div class="job-meta">
+<span>OCTOPIZE</span>
+<span class="tier tier-B">B</span>
+<span>Pays de la Loire</span>
+</div>
+</div>
+</li><li class="job" data-region="Hauts-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.popsink.com/solutions/use-cases/move-to-cloud" target="_blank" rel="noopener">Move to Cloud</a>
+<div class="job-meta">
+<span>Pop Sink</span>
+<span class="tier tier-B">B</span>
+<span>Hauts-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Hauts-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.popsink.com/solutions/use-cases/move-to-cloud" target="_blank" rel="noopener">Move to Cloud Without Downtime</a>
+<div class="job-meta">
+<span>Pop Sink</span>
+<span class="tier tier-B">B</span>
+<span>Hauts-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.qantev.com/case-studies" target="_blank" rel="noopener">Case studiesDiscover how insurers benefit from adopting the Qantev platform.</a>
+<div class="job-meta">
+<span>Qantev</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.qantev.com/platform" target="_blank" rel="noopener">PlatformOverview of the end to end Qantev claims platform.</a>
+<div class="job-meta">
+<span>Qantev</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.qantev.com/news" target="_blank" rel="noopener">Press and newsThe latest industry news, updates and info.</a>
+<div class="job-meta">
+<span>Qantev</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.qantev.com/security" target="_blank" rel="noopener">Security</a>
+<div class="job-meta">
+<span>Qantev</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.qantev.com/security" target="_blank" rel="noopener">SecurityTop-tier standards and certifications.</a>
+<div class="job-meta">
+<span>Qantev</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.qantev.com/why-qantev" target="_blank" rel="noopener">Why Qantev</a>
+<div class="job-meta">
+<span>Qantev</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://sightengine.com/security" target="_blank" rel="noopener">Security</a>
+<div class="job-meta">
+<span>Sightengine</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Hauts-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://www.viziosense.com/careers" target="_blank" rel="noopener">window.fedops.phaseStarted('missing_polyfills')</a>
+<div class="job-meta">
+<span>VizioSense</span>
+<span class="tier tier-A">A</span>
+<span>Hauts-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Hauts-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://whispeak.io/iso-iec-270012022-a-new-milestone-in-whispeaks-security-commitment/" target="_blank" rel="noopener">ISO/IEC 27001:2022: A New Milestone in Whispeak’s Security Commitment</a>
+<div class="job-meta">
+<span>WHISPEAK</span>
+<span class="tier tier-B">B</span>
+<span>Hauts-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Hauts-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://whispeak.io/whispeak-cyber-challenge-deepfake-detection/" target="_blank" rel="noopener">Whispeak Triumphs in the Cyber Challenge for AI-Generated Speech Detection</a>
+<div class="job-meta">
+<span>WHISPEAK</span>
+<span class="tier tier-B">B</span>
+<span>Hauts-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://wediagnostix.ai/" target="_blank" rel="noopener">Maximisons la sécurité de notre exercice</a>
+<div class="job-meta">
+<span>WeDiagnostiX</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://wediagnostix.ai/" target="_blank" rel="noopener">Programme de bétatesteur</a>
+<div class="job-meta">
+<span>WeDiagnostiX</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://zaion.ai/a-propos/contact/" target="_blank" rel="noopener">Testez Maintenant</a>
+<div class="job-meta">
+<span>Zaion</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/platform/#managed-data-infrastructure" target="_blank" rel="noopener">Hosted infrastructure options</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/platform/#managed-data-infrastructure" target="_blank" rel="noopener">Managed data infrastructure</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/home/security" target="_blank" rel="noopener">Security</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://kentyou.com/deployments/" target="_blank" rel="noopener">Deployments and Testimonies</a>
+<div class="job-meta">
+<span>kentyou</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#9b59b6">Ops / Infra / QA</span>
+<div class="job-info">
+<a class="job-title" href="https://mailto:contact@namla.cloud" target="_blank" rel="noopener">contact@namla.cloud</a>
+<div class="job-meta">
+<span>namla</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li></ul>
+</main>
+<footer><div class="container">
+Mis a jour le 2026-03-05 11:58 UTC &middot;
+Donnees extraites automatiquement des sites des startups
+</div></footer>
+<script>
+document.addEventListener('DOMContentLoaded',()=>{
+  const input=document.getElementById('search');
+  const regionSel=document.getElementById('region-filter');
+  const jobs=document.querySelectorAll('.job');
+  if(!input)return;
+
+  function filter(){
+    const q=input.value.toLowerCase();
+    const r=regionSel?regionSel.value:'';
+    let count=0;
+    jobs.forEach(j=>{
+      const text=j.textContent.toLowerCase();
+      const region=j.dataset.region||'';
+      const show=text.includes(q)&&(!r||region===r);
+      j.style.display=show?'':'none';
+      if(show)count++;
+    });
+    const counter=document.getElementById('job-count');
+    if(counter)counter.textContent=count;
+  }
+
+  input.addEventListener('input',filter);
+  if(regionSel)regionSel.addEventListener('change',filter);
+});
+</script>
+</body>
+</html>

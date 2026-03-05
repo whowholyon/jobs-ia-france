@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sales / Business - Jobs IA France</title>
+<meta name="description" content="Offres Sales / Business dans les startups IA francaises">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,-apple-system,sans-serif;background:#0a0a0a;color:#e0e0e0;line-height:1.6}
+a{color:#60a5fa;text-decoration:none}a:hover{text-decoration:underline}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
+header{background:#111;border-bottom:1px solid #222;padding:20px 0}
+header h1{font-size:1.8rem;color:#fff}
+header p{color:#888;margin-top:4px}
+nav{background:#111;border-bottom:1px solid #222;padding:10px 0;position:sticky;top:0;z-index:10}
+nav .container{display:flex;gap:8px;flex-wrap:wrap}
+nav a{padding:4px 12px;border-radius:16px;font-size:.85rem;color:#ccc;border:1px solid #333;white-space:nowrap}
+nav a:hover,nav a.active{background:#222;color:#fff;text-decoration:none;border-color:#555}
+.stats{display:flex;gap:20px;padding:20px 0;flex-wrap:wrap}
+.stat{background:#161616;border:1px solid #222;border-radius:8px;padding:16px 20px;flex:1;min-width:140px}
+.stat-value{font-size:1.5rem;font-weight:700;color:#fff}
+.stat-label{font-size:.8rem;color:#888;margin-top:2px}
+.filters{padding:16px 0;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.filters input{background:#161616;border:1px solid #333;color:#e0e0e0;padding:8px 14px;border-radius:8px;font-size:.9rem;width:300px}
+.filters select{background:#161616;border:1px solid #333;color:#e0e0e0;padding:8px 14px;border-radius:8px;font-size:.9rem}
+.job-list{list-style:none;display:flex;flex-direction:column;gap:2px}
+.job{background:#161616;border:1px solid #222;border-radius:6px;padding:14px 18px;display:flex;align-items:center;gap:16px;transition:border-color .15s}
+.job:hover{border-color:#444}
+.job-cat{font-size:.7rem;padding:3px 8px;border-radius:10px;color:#fff;white-space:nowrap;font-weight:600;min-width:60px;text-align:center}
+.job-info{flex:1;min-width:0}
+.job-title{font-weight:500;color:#fff}
+.job-meta{font-size:.8rem;color:#888;margin-top:2px}
+.job-meta span{margin-right:12px}
+.tier{font-size:.65rem;padding:2px 6px;border-radius:4px;font-weight:700}
+.tier-A{background:#166534;color:#4ade80}.tier-B{background:#854d0e;color:#fbbf24}
+.section-title{font-size:1.2rem;font-weight:600;color:#fff;padding:24px 0 12px;border-bottom:1px solid #222;margin-bottom:12px}
+.startup-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;padding:12px 0}
+.startup-card{background:#161616;border:1px solid #222;border-radius:8px;padding:16px}
+.startup-card h3{font-size:1rem;color:#fff;margin-bottom:4px}
+.startup-card .meta{font-size:.8rem;color:#888;margin-bottom:8px}
+.startup-card .tech{display:flex;flex-wrap:wrap;gap:4px}
+.startup-card .tech span{font-size:.7rem;background:#1e293b;color:#94a3b8;padding:2px 8px;border-radius:10px}
+footer{border-top:1px solid #222;padding:20px 0;margin-top:40px;text-align:center;color:#555;font-size:.8rem}
+@media(max-width:640px){
+  .stats{flex-direction:column}
+  .filters input{width:100%}
+  .job{flex-direction:column;align-items:flex-start;gap:8px}
+  nav .container{gap:4px}nav a{font-size:.75rem;padding:3px 8px}
+}
+</style>
+</head>
+<body>
+<header><div class="container">
+<h1>Jobs IA France</h1>
+<p>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</p>
+</div></header>
+<nav><div class="container"><a href="index.html">Toutes</a><a href="ia-ml.html">IA / ML / Data Science</a><a href="dev.html">Dev / Engineering</a><a href="data.html">Data</a><a href="ops.html">Ops / Infra / QA</a><a href="product.html">Product / Design</a><a href="sales.html" class="active">Sales / Business</a><a href="marketing.html">Marketing / Growth</a><a href="management.html">Management / Leadership</a><a href="rh.html">RH / People</a><a href="stages.html">Stage / Alternance</a><a href="autre.html">Autre</a><a href="startups.html">Startups</a></div></nav>
+<main class="container">
+<h2 class="section-title">Sales / Business (85 offres)</h2><div class="filters">
+<input type="text" id="search" placeholder="Rechercher par titre, startup, techno...">
+<select id="region-filter"><option value="">Toutes les regions</option><option value="Auvergne-Rhône-Alpes">Auvergne-Rhône-Alpes</option><option value="Bretagne">Bretagne</option><option value="Hauts-de-France">Hauts-de-France</option><option value="Nouvelle-Aquitaine">Nouvelle-Aquitaine</option><option value="Occitanie">Occitanie</option><option value="Île-de-France">Île-de-France</option></select>
+<span style="color:#888;font-size:.85rem"><span id="job-count">85</span> offres</span>
+</div>
+<ul class="job-list"><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.ashbyhq.com/adaptive-ml/3a2caf0f-7022-4451-9be2-35216cd7f5bc" target="_blank" rel="noopener">Account Executive, Enterprise</a>
+<div class="job-meta">
+<span>Adaptive ML</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.adaptive-ml.com/use-case/text-to-sql" target="_blank" rel="noopener">Business Intelligence</a>
+<div class="job-meta">
+<span>Adaptive ML</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.ashbyhq.com/adaptive-ml/b3e24d44-d30b-4966-8267-5dff8bb6a290" target="_blank" rel="noopener">Business Operations, AI Automation &amp; Systems</a>
+<div class="job-meta">
+<span>Adaptive ML</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.adaptive-ml.com/use-case/customer-support" target="_blank" rel="noopener">Customer Support</a>
+<div class="job-meta">
+<span>Adaptive ML</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.aiforalpha.com/careers" target="_blank" rel="noopener">Business Angel and Senior Advisor in Fintech. Founder and Former Deputy CEO at Ossiam</a>
+<div class="job-meta">
+<span>Ai For Alpha</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.aiforalpha.com/careers" target="_blank" rel="noopener">Chief Revenue Officer &amp; Board Member</a>
+<div class="job-meta">
+<span>Ai For Alpha</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/resources/usecases" target="_blank" rel="noopener">Client testimonialsFind out how our clients use Akur8 in their pricing and reserving processes.</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/customers/commercial-lines" target="_blank" rel="noopener">Commercial lines</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/news" target="_blank" rel="noopener">New Customer🏢 Branch Expands Relationship with Akur8 with Adoption of Discover</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/customers" target="_blank" rel="noopener">Our customers</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/customers" target="_blank" rel="noopener">Our customersDiscover our 300+ clients worldwide, in all non-life lines of business</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/teams/sales-partnerships" target="_blank" rel="noopener">Sales3 open positions</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.akur8.com/pricing/use-cases" target="_blank" rel="noopener">Use casesExplore our use cases for all lines of business</a>
+<div class="job-meta">
+<span>Akur8</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://blaxtair.com/support/" target="_blank" rel="noopener">Support client</a>
+<div class="job-meta">
+<span>Arcure</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.batvoice.com/challenges/ventes" target="_blank" rel="noopener">// add a 'use business mail' placeholder</a>
+<div class="job-meta">
+<span>BatvoiceAI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.batvoice.com/challenges/ventes" target="_blank" rel="noopener">Augmentez vos ventes en adaptant une approche centrée client - Batvoice AI</a>
+<div class="job-meta">
+<span>BatvoiceAI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.batvoice.com/challenges/ventes" target="_blank" rel="noopener">Customer Voice</a>
+<div class="job-meta">
+<span>BatvoiceAI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.batvoice.com/challenges/ventes" target="_blank" rel="noopener">email.attr('placeholder','Please enter a business email');</a>
+<div class="job-meta">
+<span>BatvoiceAI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Occitanie">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.celest.science/contact" target="_blank" rel="noopener">Agribusiness</a>
+<div class="job-meta">
+<span>Celest.Science</span>
+<span class="tier tier-A">A</span>
+<span>Occitanie</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://careers.continuity-tech.ai/jobs/7147037-business-analyst-6-months-internship" target="_blank" rel="noopener">Business Analyst | 6-months internship</a>
+<div class="job-meta">
+<span>Continuity</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://careers.continuity-tech.ai/jobs/6874643-business-partner" target="_blank" rel="noopener">Business Partner</a>
+<div class="job-meta">
+<span>Continuity</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://careers.continuity-tech.ai/en-GB/people/3085012-pauline-huesca" target="_blank" rel="noopener">Pauline Huesca ﻿ Customer Care Lead</a>
+<div class="job-meta">
+<span>Continuity</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://careers.continuity-tech.ai/en-GB/people/3085020-thibaut-le-mons" target="_blank" rel="noopener">Thibaut Le Mons Head of Customer Success</a>
+<div class="job-meta">
+<span>Continuity</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://daijobu.ai/use-case-customer-experience-improvement-daijobu-ai/" target="_blank" rel="noopener">Customer</a>
+<div class="job-meta">
+<span>Daijobu AI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.datategy.net/customer-stories/" target="_blank" rel="noopener">Customer stories</a>
+<div class="job-meta">
+<span>Datategy</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.datategy.net/datategy-customers/" target="_blank" rel="noopener">Datategy Customers</a>
+<div class="job-meta">
+<span>Datategy</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.datategy.net/ai-platform-in-sales/" target="_blank" rel="noopener">Sales</a>
+<div class="job-meta">
+<span>Datategy</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.datategy.net/ai-in-sales-marketing/" target="_blank" rel="noopener">Sales &amp;#038; Marketing</a>
+<div class="job-meta">
+<span>Datategy</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://decisionbrain.com/customers/" target="_blank" rel="noopener">Customers</a>
+<div class="job-meta">
+<span>DecisionBrain</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://decisionbrain.com/how-or-and-data-science-teams-create-business-value/" target="_blank" rel="noopener">How OR and Data Science Teams Create Business Value</a>
+<div class="job-meta">
+<span>DecisionBrain</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://decisionbrain.com/sales-operations-planning/" target="_blank" rel="noopener">Sales &amp;#038; Operations Planning</a>
+<div class="job-meta">
+<span>DecisionBrain</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Bretagne">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://deephawk.ai/temp/sales-director-france/" target="_blank" rel="noopener">Sales Director, France</a>
+<div class="job-meta">
+<span>DeepHawk</span>
+<span class="tier tier-B">B</span>
+<span>Bretagne</span>
+</div>
+</div>
+</li><li class="job" data-region="Bretagne">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://deephawk.ai/temp/sales-director-germany/" target="_blank" rel="noopener">Sales Director, Germany</a>
+<div class="job-meta">
+<span>DeepHawk</span>
+<span class="tier tier-B">B</span>
+<span>Bretagne</span>
+</div>
+</div>
+</li><li class="job" data-region="Bretagne">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://deephawk.ai/temp/sales-director-usa/" target="_blank" rel="noopener">Sales Director, USA</a>
+<div class="job-meta">
+<span>DeepHawk</span>
+<span class="tier tier-B">B</span>
+<span>Bretagne</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris" target="_blank" rel="noopener">Enterprise Account Executive - DACH marketFull-TimeParisA few days at home</a>
+<div class="job-meta">
+<span>Giskard AI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris" target="_blank" rel="noopener">Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home</a>
+<div class="job-meta">
+<span>Giskard AI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Bretagne">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/gladia#asset-modal-1127342" target="_blank" rel="noopener">Rencontrez Constant, Head of Sales</a>
+<div class="job-meta">
+<span>Gladia</span>
+<span class="tier tier-B">B</span>
+<span>Bretagne</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gravite.io/analyzing-prospect-objections-with-ai/blog-articles-objection-analysis/strategies-for-handling-objections" target="_blank" rel="noopener">Effective Techniques for Overcoming Sales ObjectionsSyrbain CellierCEO @Gravite</a>
+<div class="job-meta">
+<span>Gravite.io</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gravite.io/integrations/pipedrive" target="_blank" rel="noopener">PipedriveConnect your business data to Gravite</a>
+<div class="job-meta">
+<span>Gravite.io</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gravite.io/integrations/salesforce" target="_blank" rel="noopener">SalesforceSync your business data with Gravite for insights</a>
+<div class="job-meta">
+<span>Gravite.io</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.gravite.io/integrations/zendesk" target="_blank" rel="noopener">ZendeskConverts Zendesk tickets into business action</a>
+<div class="job-meta">
+<span>Gravite.io</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://hrflow.ai/signup/" target="_blank" rel="noopener">Create an account</a>
+<div class="job-meta">
+<span>HrFlow.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://hrflow.ai/customers/" target="_blank" rel="noopener">Customers' stories</a>
+<div class="job-meta">
+<span>HrFlow.ai</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://hylight.aero/careers" target="_blank" rel="noopener">Co fondateur &amp; Directeur commercial</a>
+<div class="job-meta">
+<span>HyLight</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.illuin.tech/produits/analyze-conversations-et-agents/plateforme-ia-de-generation-analyses/speech-analyzer/" target="_blank" rel="noopener">Mobilisez la GenAI pour analyser la voix du client et obtenir des insights inédits</a>
+<div class="job-meta">
+<span>Illuin Technology</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.kalrayinc.com/contact-us" target="_blank" rel="noopener">Contact Sales</a>
+<div class="job-meta">
+<span>Kalray</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.kalrayinc.com/contact-us" target="_blank" rel="noopener">Sales</a>
+<div class="job-meta">
+<span>Kalray</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.koyeb.com/careers" target="_blank" rel="noopener">Founding Sales/CS - Europe</a>
+<div class="job-meta">
+<span>Koyeb</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.koyeb.com/customers" target="_blank" rel="noopener">customer stories</a>
+<div class="job-meta">
+<span>Koyeb</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Nouvelle-Aquitaine">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.lipstip.com/customers/" target="_blank" rel="noopener">Customers</a>
+<div class="job-meta">
+<span>Lipstip</span>
+<span class="tier tier-B">B</span>
+<span>Nouvelle-Aquitaine</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/lixo#asset-modal-1027628" target="_blank" rel="noopener">Rencontrez François, Head of Sales</a>
+<div class="job-meta">
+<span>Lixo</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.luckycart.com/vos-challenges/portfolio-opportunities" target="_blank" rel="noopener">IMPACT BUSINESS</a>
+<div class="job-meta">
+<span>Lucky cart</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.makipeople.com/customers" target="_blank" rel="noopener">Customers</a>
+<div class="job-meta">
+<span>Maki people</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.neuralk-ai.com/frontier-ai-for-customer-intelligence-the-best-foundation-model-for-commerce" target="_blank" rel="noopener">Customer Intelligence</a>
+<div class="job-meta">
+<span>Neuralk-AI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.bfmtv.com/economie/replay-emissions/01-business/video-ia-l-ambition-francaise-avec-neuralk-ai-09-12_VN-202512090984.html" target="_blank" rel="noopener">LEARN MOREBFM Business (Tech&amp;Co)09-Dec-2025Watch it!</a>
+<div class="job-meta">
+<span>Neuralk-AI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.neuralk-ai.com/frontier-ai-for-sales-optimization-the-best-foundation-model-for-commerce" target="_blank" rel="noopener">Sales Optimization</a>
+<div class="job-meta">
+<span>Neuralk-AI</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.prophesee.ai/2025/10/28/centuryarks-launches-first-commercial-event-based-vision-camera-module-with-mipi-interface/" target="_blank" rel="noopener">CenturyArks Launches First Commercial Event-Based Vision Camera Module with MIPI Interface</a>
+<div class="job-meta">
+<span>PROPHESEE</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.sahar.fr/jobs/5879266-customer-success-manager-confirme-e-paris" target="_blank" rel="noopener">Customer Success Manager Confirmé.e - Paris Opérations &amp;middot; Paris &amp;middot; Hybride</a>
+<div class="job-meta">
+<span>SAHAR</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.sahar.fr/jobs/6918673-international-account-executive" target="_blank" rel="noopener">International Account Executive Sales &amp;middot; Paris &amp;middot; Hybride</a>
+<div class="job-meta">
+<span>SAHAR</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.sahar.fr/jobs/6948396-key-account-manager" target="_blank" rel="noopener">Key Account Manager Sales &amp;middot; Paris &amp;middot; Hybride</a>
+<div class="job-meta">
+<span>SAHAR</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://jobs.sahar.fr/jobs/7084665-sales-administration-specialist-adv" target="_blank" rel="noopener">Sales Administration Specialist (ADV) Sales &amp;middot; Paris &amp;middot; Hybride</a>
+<div class="job-meta">
+<span>SAHAR</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.seedext.com/solutions/sales" target="_blank" rel="noopener">Sales</a>
+<div class="job-meta">
+<span>Seedext</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://stellia.ai/en/business" target="_blank" rel="noopener">Business</a>
+<div class="job-meta">
+<span>Stellia</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.trezy.io/customers" target="_blank" rel="noopener">Customer Stories</a>
+<div class="job-meta">
+<span>Trezy</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.trezy.io/customers" target="_blank" rel="noopener">Customers</a>
+<div class="job-meta">
+<span>Trezy</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.trezy.io/cashflow-for-ecommerce" target="_blank" rel="noopener">E-commerce Track multi-channel revenue, manage inventory timing, and forecast sales peaks accurately. Learn more →</a>
+<div class="job-meta">
+<span>Trezy</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Auvergne-Rhône-Alpes">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.voxibot.ai/nos-callbots/support-client/" target="_blank" rel="noopener">Support client</a>
+<div class="job-meta">
+<span>ULEX</span>
+<span class="tier tier-B">B</span>
+<span>Auvergne-Rhône-Alpes</span>
+</div>
+</div>
+</li><li class="job" data-region="Hauts-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.viziosense.com/careers" target="_blank" rel="noopener">, IoT, and business.</a>
+<div class="job-meta">
+<span>VizioSense</span>
+<span class="tier tier-A">A</span>
+<span>Hauts-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/wakeo/jobs/customer-success-manager-large-accounts_paris" target="_blank" rel="noopener">Customer Success Manager - Large Accounts (H/F)</a>
+<div class="job-meta">
+<span>Wakeo</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/wakeo/jobs/sales-lead-generation-6-months-internship_paris" target="_blank" rel="noopener">Sales Lead Generation - 6 months Internship</a>
+<div class="job-meta">
+<span>Wakeo</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/wakeo/jobs/strategic-account-executive-m-f_paris" target="_blank" rel="noopener">Strategic Account Executive (M/F)</a>
+<div class="job-meta">
+<span>Wakeo</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/wakeo/jobs/strategic-account-executive-dach-market-m-f_hamburg" target="_blank" rel="noopener">Strategic Account Executive - DACH Market (M/F)</a>
+<div class="job-meta">
+<span>Wakeo</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/account-executive-senior-h-f_puteaux" target="_blank" rel="noopener">Senior Account Executive (F/H)</a>
+<div class="job-meta">
+<span>XXII</span>
+<span class="tier tier-A">A</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/customers/" target="_blank" rel="noopener">Customers</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/customers/" target="_blank" rel="noopener">Discover customer stories</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/use-cases/amazon-sales-estimates/" target="_blank" rel="noopener">Forecast sales to optimize inventory, benchmark competitors, and plan growth.</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/overview/optimize-growth/" target="_blank" rel="noopener">Grow sales</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/use-cases/agency-analytics/" target="_blank" rel="noopener">Multi-account dashboard with white-label reports, AI alerts, and role-based access.</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/use-cases/amazon-sales-estimates/" target="_blank" rel="noopener">Sales Estimates</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://datahawk.co/marketplaces/walmart-analytics/" target="_blank" rel="noopener">Track sales, ads, SEO, inventory, and more in one place with an approved Walmart Marketplace solution.</a>
+<div class="job-meta">
+<span>datahawk</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/home/contact" target="_blank" rel="noopener">Contact sales</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/customers" target="_blank" rel="noopener">Customer Stories</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/home/solutions/customer-support" target="_blank" rel="noopener">Customer Support</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/home/solutions/sales" target="_blank" rel="noopener">Sales</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li><li class="job" data-region="Île-de-France">
+<span class="job-cat" style="background:#1abc9c">Sales / Business</span>
+<div class="job-info">
+<a class="job-title" href="https://dust.tt/home/contact" target="_blank" rel="noopener">Talk to sales</a>
+<div class="job-meta">
+<span>dust</span>
+<span class="tier tier-B">B</span>
+<span>Île-de-France</span>
+</div>
+</div>
+</li></ul>
+</main>
+<footer><div class="container">
+Mis a jour le 2026-03-05 11:58 UTC &middot;
+Donnees extraites automatiquement des sites des startups
+</div></footer>
+<script>
+document.addEventListener('DOMContentLoaded',()=>{
+  const input=document.getElementById('search');
+  const regionSel=document.getElementById('region-filter');
+  const jobs=document.querySelectorAll('.job');
+  if(!input)return;
+
+  function filter(){
+    const q=input.value.toLowerCase();
+    const r=regionSel?regionSel.value:'';
+    let count=0;
+    jobs.forEach(j=>{
+      const text=j.textContent.toLowerCase();
+      const region=j.dataset.region||'';
+      const show=text.includes(q)&&(!r||region===r);
+      j.style.display=show?'':'none';
+      if(show)count++;
+    });
+    const counter=document.getElementById('job-count');
+    if(counter)counter.textContent=count;
+  }
+
+  input.addEventListener('input',filter);
+  if(regionSel)regionSel.addEventListener('change',filter);
+});
+</script>
+</body>
+</html>
