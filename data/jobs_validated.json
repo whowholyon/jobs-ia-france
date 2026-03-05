@@ -1,0 +1,542 @@
+{
+  "f8657b581cc42a729c63a432d89edb93": {
+    "is_job": true,
+    "category": "Management / Leadership",
+    "title": "CEO & Board Member",
+    "startup": "Ai For Alpha",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "12f31f50442ea8bb8afc6b138a0da595": {
+    "is_job": false,
+    "category": "",
+    "title": "Comparison with Benchmark",
+    "startup": "Ai For Alpha",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "30134b33f7666bd18c63d1284997377a": {
+    "is_job": false,
+    "category": "",
+    "title": "Institutional Investors",
+    "startup": "Ai For Alpha",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "33da78a0b8415c6aa775e08bf82f2122": {
+    "is_job": false,
+    "category": "",
+    "title": "Investment Banks",
+    "startup": "Ai For Alpha",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "8208d9db8943b2cfb1cea7ab47e75ba3": {
+    "is_job": false,
+    "category": "",
+    "title": "Legal Notices",
+    "startup": "Ai For Alpha",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "21f6a70869ca0dfebdae5f90b93fdacd": {
+    "is_job": false,
+    "category": "",
+    "title": "Suggested Replication example",
+    "startup": "Ai For Alpha",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "5009db6572b0ae995e0e5b4eb7bc6011": {
+    "is_job": false,
+    "category": "",
+    "title": "Tactical Decoding",
+    "startup": "Ai For Alpha",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "9c052a872906e7cc381908080ee4c8ce": {
+    "is_job": false,
+    "category": "",
+    "title": "Legal Notice",
+    "startup": "Akur8",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "bec07ee6ca7f113450f7fb9b38547f00": {
+    "is_job": false,
+    "category": "",
+    "title": "Support",
+    "startup": "Akur8",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "036e9eac2d448a893a577c1a5527b80e": {
+    "is_job": false,
+    "category": "",
+    "title": "SupportGet our support documentation and contact information",
+    "startup": "Akur8",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "30570ebd2c06dc3013de39680d8a2f7c": {
+    "is_job": false,
+    "category": "",
+    "title": "Legal",
+    "startup": "Alta Ares",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "3bca0cc42105f21ed9c472ecd21f63f3": {
+    "is_job": false,
+    "category": "",
+    "title": "Legal Information",
+    "startup": "Alta Ares",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "54558e29a796cd313df4d729dc9dd61d": {
+    "is_job": false,
+    "category": "",
+    "title": "JavaScript must be enabled in order to use Notion.",
+    "startup": "Angelaw",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "09536c4b5b67b5c8baa7439b4b883870": {
+    "is_job": false,
+    "category": "",
+    "title": "Please enable JavaScript to continue.",
+    "startup": "Angelaw",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "7e320e968b8ba06f1086d88cd6c522f4": {
+    "is_job": false,
+    "category": "",
+    "title": "Legals",
+    "startup": "Another Brain",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "39bcb38ff0506cdeefc1e9db3ace4893": {
+    "is_job": false,
+    "category": "",
+    "title": "Organic AI",
+    "startup": "Another Brain",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "0d4904ec2ab53df7cd3f1066d4668b6c": {
+    "is_job": false,
+    "category": "",
+    "title": "About UsPioneering AI-powered drug safety since 2018.",
+    "startup": "Arcascience",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "ca006ae4f85450c872b16604ce6c7217": {
+    "is_job": false,
+    "category": "",
+    "title": "Use casePioneering AI-powered drug safety since 2018.",
+    "startup": "Arcascience",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "24aea8ab7874bbcb03dc59df811bcd6a": {
+    "is_job": false,
+    "category": "",
+    "title": "contact@arcascience.ai",
+    "startup": "Arcascience",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "f21f50be716fc7a6f7200191e205d67d": {
+    "is_job": true,
+    "category": "Dev / Engineering",
+    "title": "R&D 2026-01-23 Ingénieur Méthodes – Industrialisation CDD 6 mois Grossoeuvre, France En savoir plus",
+    "startup": "Arcure",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "80ef08545cf34764c29993e98598fcfe": {
+    "is_job": false,
+    "category": "",
+    "title": "Avicenna.AI on LinkedIn",
+    "startup": "Avicenna.AI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "7869294520965b81d0d22f1ce36e4705": {
+    "is_job": false,
+    "category": "",
+    "title": "Avicenna.AI,",
+    "startup": "Avicenna.AI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "aedc1eef271782d7022795d9004a016c": {
+    "is_job": false,
+    "category": "",
+    "title": "contact@avicenna.ai",
+    "startup": "Avicenna.AI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "53b9697e787e89e3a873a9c93b99baaf": {
+    "is_job": false,
+    "category": "",
+    "title": "cutting-edge AI solutions",
+    "startup": "Avicenna.AI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "f65b333a1053ac111a9c29f62a757cba": {
+    "is_job": false,
+    "category": "",
+    "title": "Augmentez vos conversions avec Batvoice AI",
+    "startup": "BatvoiceAI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "49dfc7131c3bf35c4ee9dde44909febe": {
+    "is_job": false,
+    "category": "",
+    "title": "Comment avez-vous entendu parler de Batvoice ai ?",
+    "startup": "BatvoiceAI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "969dce83ded92737408abb350258c1ba": {
+    "is_job": false,
+    "category": "",
+    "title": "Prêt à essayer Batvoice AI ?",
+    "startup": "BatvoiceAI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "84cc7718baa30484a86458b5581da261": {
+    "is_job": false,
+    "category": "",
+    "title": "Text Link",
+    "startup": "Bioptimus",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "85ce07d7a40919d88e6f96e3b58bbce1": {
+    "is_job": false,
+    "category": "",
+    "title": "This is some text inside of a div block.",
+    "startup": "Bioptimus",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "3348d57fc080369d0042aaef887ab325": {
+    "is_job": false,
+    "category": "",
+    "title": "mailto:contact@bondzai.io",
+    "startup": "Bondzai",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "67a1d8d16472a7259bcd4b8214769c6d": {
+    "is_job": false,
+    "category": "",
+    "title": "BOTNATION AI ®",
+    "startup": "Botfuel",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "850d8dc84b952a9112e64d06a34314c6": {
+    "is_job": false,
+    "category": "",
+    "title": "Chatbot juridique",
+    "startup": "Botfuel",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "d1d1e6d41bc18f0f399b6b95c439385f": {
+    "is_job": false,
+    "category": "",
+    "title": "Chatbot support informatique",
+    "startup": "Botfuel",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "1cc74f184d6be3ed04de2fa6e447dd0c": {
+    "is_job": false,
+    "category": "",
+    "title": "SMART AI",
+    "startup": "Botfuel",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "b5902f170c9627771167cc1facd34951": {
+    "is_job": false,
+    "category": "",
+    "title": "_trfd.push({'tccl.baseHost':'secureserver.net'}),",
+    "startup": "Callifly",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "415542f799f3c9a3e2fe81c455a3385a": {
+    "is_job": false,
+    "category": "",
+    "title": "y.parentNode.insertBefore(t, y);",
+    "startup": "Callifly",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "a6dc3c3d3a592c4254d8b2c0b5580b89": {
+    "is_job": false,
+    "category": "",
+    "title": "{'php':'8.2.30'},",
+    "startup": "Callifly",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "c4b5030b79b0356e18735600abfe8495": {
+    "is_job": false,
+    "category": "",
+    "title": "@cobl_ai",
+    "startup": "Cobl",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "4fa835221d2637b547c2c5024b948621": {
+    "is_job": false,
+    "category": "",
+    "title": "AGENTIC AI",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "2089a4efa62bd0c495384376d0544866": {
+    "is_job": false,
+    "category": "",
+    "title": "AI Strategy",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "267719a1b4dab2102c240df83cc97279": {
+    "is_job": false,
+    "category": "",
+    "title": "AI Training",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "6dcffc3723bcbbcf6148818a36642155": {
+    "is_job": false,
+    "category": "",
+    "title": "AI-Powered Financial Consulting",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "e3c6f9eaa2484efd1da14146c1e5a2e3": {
+    "is_job": false,
+    "category": "",
+    "title": "AI/Bank & Insurance",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "52eca9bbb5c029da8a2be45864d57514": {
+    "is_job": false,
+    "category": "",
+    "title": "AI/DATA",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "f223b104083ac909b70f1adbc46a6d1a": {
+    "is_job": false,
+    "category": "",
+    "title": "Finance",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "9bd3211104c7f3c1901295d2b6081abf": {
+    "is_job": false,
+    "category": "",
+    "title": "Tailored Data/AI Projects",
+    "startup": "Cogniwave dynamics",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "06da7aaffe3376cdcc9bc260a78c8510": {
+    "is_job": false,
+    "category": "",
+    "title": "Legal notice",
+    "startup": "Daijobu AI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "2b367a9d164a36d3dcf16de51b1bccee": {
+    "is_job": false,
+    "category": "",
+    "title": "hello@daijobu.ai",
+    "startup": "Daijobu AI",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "e88f9e1de8732b503d48fc560db7bf6c": {
+    "is_job": false,
+    "category": "",
+    "title": "Ecole d’ingénieur",
+    "startup": "Dasia",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "5316602b8fe2e7ec21eb7a974b91c5af": {
+    "is_job": false,
+    "category": "",
+    "title": "const supportsAnimationTimeline = CSS.supports(\"animation-timeline\", \"scroll()\");",
+    "startup": "Dasia",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "da95a993dc48427e092c750eb2e4e974": {
+    "is_job": false,
+    "category": "",
+    "title": "AI Maturity",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "3b5d3280e5908f76a95f1660dd78bf03": {
+    "is_job": false,
+    "category": "",
+    "title": "AI Maturity Assessment",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "64339bba160437f54240424ecaf52beb": {
+    "is_job": false,
+    "category": "",
+    "title": "Big Data &#038; AI Paris 2023",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "49318502bc15e3ef1e2f35066cb4ff7b": {
+    "is_job": false,
+    "category": "",
+    "title": "Datategy Big Data &#038; AI Paris 2024",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "13ff9c5d81ad8fab7aff65f719e22c21": {
+    "is_job": false,
+    "category": "",
+    "title": "Finance",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "f771bea6509709a885e080f190bc4339": {
+    "is_job": false,
+    "category": "",
+    "title": "Legal Information",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "3f1b5458720a9b6211afe43e870aa493": {
+    "is_job": false,
+    "category": "",
+    "title": "Start Your Free AI Project",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "56dc1de38389ea0b0ebefcbf7eea9cb0": {
+    "is_job": false,
+    "category": "",
+    "title": "papAI",
+    "startup": "Datategy",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "4f069a782ee5c0a846f062d1957c6a41": {
+    "is_job": false,
+    "category": "",
+    "title": "Legal",
+    "startup": "DecisionBrain",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  },
+  "32f1ba55b2539626b87d252ab205d149": {
+    "is_job": false,
+    "category": "",
+    "title": "jobs@deephawk.ai",
+    "startup": "DeepHawk",
+    "first_seen": "2026-03-05T13:05:46.006959+00:00",
+    "last_seen": "2026-03-05T13:09:36.431278+00:00",
+    "missed_runs": 0
+  }
+}

@@ -5,11 +5,13 @@ scraping des sites web pour signaux techniques, recherche de pages carrieres,
 extraction des offres d'emploi.
 """
 
+import hashlib
 import json
 import os
 import re
 import csv
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urljoin, urlparse
@@ -25,6 +27,8 @@ OLLAMA_API_KEY = os.environ.get('OLLAMA_API_KEY', '')
 OLLAMA_API_URL = 'https://ollama.com/api/chat'
 OLLAMA_MODEL = 'gemini-3-flash-preview'
 LLM_BATCH_SIZE = 30
+CACHE_PATH = DATA / 'jobs_validated.json'
+MAX_MISSED_RUNS = 3
 
 POSITIVE_SIGNALS = {
     'pytorch': 3, 'tensorflow': 3, 'deep learning': 3, 'neural network': 3,
@@ -271,22 +275,28 @@ def scrapeJobs(careers: list[dict]) -> list[dict]:
     return results
 
 
-def validateJobsWithLlm(jobs: list[dict]) -> list[dict]:
-    if not OLLAMA_API_KEY:
-        print('  OLLAMA_API_KEY absente, validation LLM desactivee')
-        return jobs
+def jobKey(job: dict) -> str:
+    raw = f'{job["startup"]}|{job["title"]}|{job["url"]}'
 
-    print(f'  Validation LLM de {len(jobs)} offres par batch de {LLM_BATCH_SIZE}...')
-    validated = []
+    return hashlib.md5(raw.encode()).hexdigest()
 
-    for i in range(0, len(jobs), LLM_BATCH_SIZE):
-        batch = jobs[i:i + LLM_BATCH_SIZE]
-        titles = '\n'.join(
-            f'{idx}. [{j["startup"]}] {j["title"]}'
-            for idx, j in enumerate(batch)
-        )
 
-        prompt = f"""Voici une liste de textes extraits de pages carrieres de startups.
+def loadCache() -> dict:
+    if not CACHE_PATH.exists():
+        return {}
+
+    with open(CACHE_PATH, encoding='utf-8') as f:
+        return json.load(f)
+
+
+def saveCache(cache: dict) -> None:
+    DATA.mkdir(exist_ok=True)
+    with open(CACHE_PATH, 'w', encoding='utf-8') as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def callLlm(titles: str) -> str:
+    prompt = f"""Voici une liste de textes extraits de pages carrieres de startups.
 Pour chacun, reponds UNIQUEMENT avec le numero suivi de:
 - "OUI | Categorie" si c'est une vraie offre d'emploi (CDI, CDD, stage, alternance, freelance)
 - "NON" si ce n'est PAS une offre (lien de navigation, mention legale, nom de page, description produit, etc.)
@@ -295,35 +305,115 @@ Categories possibles: IA / ML / Data Science, Dev / Engineering, Data, Ops / Inf
 
 {titles}"""
 
+    resp = requests.post(OLLAMA_API_URL, timeout=60, headers={
+        'Authorization': f'Bearer {OLLAMA_API_KEY}',
+        'Content-Type': 'application/json',
+    }, json={
+        'model': OLLAMA_MODEL,
+        'messages': [{'role': 'user', 'content': prompt}],
+        'stream': False,
+    })
+    resp.raise_for_status()
+
+    return resp.json()['message']['content']
+
+
+def validateJobsWithLlm(jobs: list[dict]) -> list[dict]:
+    cache = loadCache()
+    now = datetime.now(timezone.utc).isoformat()
+    currentKeys = set()
+    validated = []
+    toValidate = []
+
+    for job in jobs:
+        key = jobKey(job)
+        currentKeys.add(key)
+
+        if key in cache:
+            entry = cache[key]
+            entry['last_seen'] = now
+            entry['missed_runs'] = 0
+            if entry['is_job']:
+                job['category'] = entry.get('category', job['category'])
+                validated.append(job)
+            continue
+
+        toValidate.append((key, job))
+
+    print(f'  Cache: {len(jobs) - len(toValidate)} deja connues, {len(toValidate)} nouvelles')
+
+    if not OLLAMA_API_KEY:
+        if toValidate:
+            print('  OLLAMA_API_KEY absente, nouvelles offres gardees sans validation')
+            validated.extend(job for _, job in toValidate)
+        saveCache(cache)
+
+        return validated
+
+    if toValidate:
+        print(f'  Validation LLM de {len(toValidate)} nouvelles offres...')
+
+    for i in range(0, len(toValidate), LLM_BATCH_SIZE):
+        batch = toValidate[i:i + LLM_BATCH_SIZE]
+        titles = '\n'.join(
+            f'{idx}. [{job["startup"]}] {job["title"]}'
+            for idx, (_, job) in enumerate(batch)
+        )
+
         try:
-            resp = requests.post(OLLAMA_API_URL, timeout=60, headers={
-                'Authorization': f'Bearer {OLLAMA_API_KEY}',
-                'Content-Type': 'application/json',
-            }, json={
-                'model': OLLAMA_MODEL,
-                'messages': [{'role': 'user', 'content': prompt}],
-                'stream': False,
-            })
-            resp.raise_for_status()
-            answer = resp.json()['message']['content']
+            answer = callLlm(titles)
 
             for line in answer.strip().split('\n'):
                 match = re.match(r'(\d+)\.\s*(OUI|NON)(?:\s*\|\s*(.+))?', line.strip())
                 if not match:
                     continue
                 idx = int(match.group(1))
+                if idx >= len(batch):
+                    continue
                 isJob = match.group(2) == 'OUI'
                 category = (match.group(3) or '').strip()
-                if isJob and idx < len(batch):
+                key, job = batch[idx]
+
+                cache[key] = {
+                    'is_job': isJob,
+                    'category': category if isJob else '',
+                    'title': job['title'],
+                    'startup': job['startup'],
+                    'first_seen': now,
+                    'last_seen': now,
+                    'missed_runs': 0,
+                }
+
+                if isJob:
                     if category:
-                        batch[idx]['category'] = category
-                    validated.append(batch[idx])
+                        job['category'] = category
+                    validated.append(job)
 
         except Exception as e:
             print(f'  Erreur LLM batch {i}: {e}, fallback regex')
-            validated.extend(batch)
+            for key, job in batch:
+                cache[key] = {
+                    'is_job': True, 'category': job['category'],
+                    'title': job['title'], 'startup': job['startup'],
+                    'first_seen': now, 'last_seen': now, 'missed_runs': 0,
+                }
+                validated.append(job)
 
-    print(f'  {len(validated)} offres validees sur {len(jobs)}')
+    expired = []
+    for key, entry in cache.items():
+        if key not in currentKeys:
+            entry['missed_runs'] = entry.get('missed_runs', 0) + 1
+            if entry['missed_runs'] >= MAX_MISSED_RUNS:
+                expired.append(key)
+
+    for key in expired:
+        del cache[key]
+
+    if expired:
+        print(f'  {len(expired)} offres expirees supprimees du cache')
+
+    saveCache(cache)
+    print(f'  {len(validated)} offres validees, {len(cache)} en cache')
 
     return validated
 
