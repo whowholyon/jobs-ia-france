@@ -31,9 +31,9 @@ jobs:
 
       - run: pip install -r scraper/requirements.txt
 
-      - name: Scrape startups & jobs
+      - name: Scrape startups & jobs (mode rapide)
         run: python scraper/scrape.py
-        timeout-minutes: 15
+        timeout-minutes: 30
         env:
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
 

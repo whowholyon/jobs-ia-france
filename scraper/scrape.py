@@ -474,25 +474,80 @@ def saveResults(scrapeResults: list[dict], aiCore: list[dict],
     print(f'  {len(jobs)} offres d\'emploi')
 
 
+def loadExistingData() -> tuple[list[dict], list[dict], list[dict]] | None:
+    aiCorePath = DATA / 'ai_core.tsv'
+    careerPath = DATA / 'career_scan.json'
+    scrapePath = DATA / 'scrape_results.json'
+
+    if not aiCorePath.exists():
+        aiCorePath = ROOT / 'ai_core.tsv'
+    if not careerPath.exists():
+        careerPath = ROOT / 'career_scan.json'
+    if not scrapePath.exists():
+        scrapePath = ROOT / 'scrape_results.json'
+
+    if not aiCorePath.exists() or not careerPath.exists():
+        return None
+
+    aiCore = []
+    with open(aiCorePath, encoding='utf-8') as f:
+        for row in csv.DictReader(f, delimiter='\t'):
+            aiCore.append({
+                'name': row.get('Nom', ''),
+                'url': row.get('URL', ''),
+                'year': row.get('Annee', row.get('Année', '')),
+                'region': row.get('Region', row.get('Région', '')),
+                'tier': row.get('Tier', ''),
+                'web_score': int(row.get('Score', 0)),
+                'web_signals': [
+                    f'+2 {t.strip()}'
+                    for t in row.get('Tech detectee sur le site', row.get('Tech détectée sur le site', '')).split(',')
+                    if t.strip()
+                ],
+                'desc': row.get('Description', ''),
+            })
+
+    with open(careerPath, encoding='utf-8') as f:
+        careers = json.load(f)
+
+    scrapeResults = []
+    if scrapePath.exists():
+        with open(scrapePath, encoding='utf-8') as f:
+            scrapeResults = json.load(f)
+
+    return scrapeResults, aiCore, careers
+
+
 def main():
-    sourcePath = ROOT / 'source.html'
-    if not sourcePath.exists():
-        print(f'Erreur: {sourcePath} introuvable')
-        sys.exit(1)
+    fullMode = '--full' in sys.argv
+    DATA.mkdir(exist_ok=True)
 
-    print('1/5 Extraction des startups depuis source.html...')
-    startups = extractStartups(sourcePath)
-    print(f'  {len(startups)} startups extraites')
+    existing = loadExistingData()
 
-    print('2/5 Scraping des sites web pour signaux IA...')
-    scrapeResults = classifyStartups(startups)
-    aiCore = [s for s in scrapeResults if s['tier'] in ('A', 'B')]
-    print(f'  {len(aiCore)} startups IA core (A+B)')
+    if fullMode or existing is None:
+        print('=== MODE COMPLET: re-scan des 800 startups ===')
+        sourcePath = ROOT / 'source.html'
+        if not sourcePath.exists():
+            print(f'Erreur: {sourcePath} introuvable')
+            sys.exit(1)
 
-    print('3/5 Recherche des pages carrieres...')
-    careers = scanCareerPages(aiCore)
+        print('1/6 Extraction des startups depuis source.html...')
+        startups = extractStartups(sourcePath)
+        print(f'  {len(startups)} startups extraites')
 
-    print('4/5 Extraction des offres d\'emploi...')
+        print('2/6 Scraping des sites web pour signaux IA...')
+        scrapeResults = classifyStartups(startups)
+        aiCore = [s for s in scrapeResults if s['tier'] in ('A', 'B')]
+        print(f'  {len(aiCore)} startups IA core (A+B)')
+
+        print('3/6 Recherche des pages carrieres...')
+        careers = scanCareerPages(aiCore)
+    else:
+        print('=== MODE RAPIDE: refresh des offres uniquement ===')
+        scrapeResults, aiCore, careers = existing
+        print(f'  {len(aiCore)} startups IA core, {len(careers)} pages carrieres (depuis le cache)')
+
+    print('4/6 Extraction des offres d\'emploi...')
     jobsRaw = scrapeJobs(careers)
 
     aiCoreMap = {s['name']: s for s in aiCore}
