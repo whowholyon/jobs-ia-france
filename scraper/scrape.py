@@ -6,6 +6,7 @@ extraction des offres d'emploi.
 """
 
 import json
+import os
 import re
 import csv
 import sys
@@ -20,6 +21,10 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / 'data'
 TIMEOUT = 10
 MAX_WORKERS = 20
+OLLAMA_API_KEY = os.environ.get('OLLAMA_API_KEY', '')
+OLLAMA_API_URL = 'https://ollama.com/api/chat'
+OLLAMA_MODEL = 'gemini-3-flash-preview'
+LLM_BATCH_SIZE = 30
 
 POSITIVE_SIGNALS = {
     'pytorch': 3, 'tensorflow': 3, 'deep learning': 3, 'neural network': 3,
@@ -266,6 +271,63 @@ def scrapeJobs(careers: list[dict]) -> list[dict]:
     return results
 
 
+def validateJobsWithLlm(jobs: list[dict]) -> list[dict]:
+    if not OLLAMA_API_KEY:
+        print('  OLLAMA_API_KEY absente, validation LLM desactivee')
+        return jobs
+
+    print(f'  Validation LLM de {len(jobs)} offres par batch de {LLM_BATCH_SIZE}...')
+    validated = []
+
+    for i in range(0, len(jobs), LLM_BATCH_SIZE):
+        batch = jobs[i:i + LLM_BATCH_SIZE]
+        titles = '\n'.join(
+            f'{idx}. [{j["startup"]}] {j["title"]}'
+            for idx, j in enumerate(batch)
+        )
+
+        prompt = f"""Voici une liste de textes extraits de pages carrieres de startups.
+Pour chacun, reponds UNIQUEMENT avec le numero suivi de:
+- "OUI | Categorie" si c'est une vraie offre d'emploi (CDI, CDD, stage, alternance, freelance)
+- "NON" si ce n'est PAS une offre (lien de navigation, mention legale, nom de page, description produit, etc.)
+
+Categories possibles: IA / ML / Data Science, Dev / Engineering, Data, Ops / Infra / QA, Product / Design, Sales / Business, Marketing / Growth, Management / Leadership, RH / People, Stage / Alternance, Autre
+
+{titles}"""
+
+        try:
+            resp = requests.post(OLLAMA_API_URL, timeout=60, headers={
+                'Authorization': f'Bearer {OLLAMA_API_KEY}',
+                'Content-Type': 'application/json',
+            }, json={
+                'model': OLLAMA_MODEL,
+                'messages': [{'role': 'user', 'content': prompt}],
+                'stream': False,
+            })
+            resp.raise_for_status()
+            answer = resp.json()['message']['content']
+
+            for line in answer.strip().split('\n'):
+                match = re.match(r'(\d+)\.\s*(OUI|NON)(?:\s*\|\s*(.+))?', line.strip())
+                if not match:
+                    continue
+                idx = int(match.group(1))
+                isJob = match.group(2) == 'OUI'
+                category = (match.group(3) or '').strip()
+                if isJob and idx < len(batch):
+                    if category:
+                        batch[idx]['category'] = category
+                    validated.append(batch[idx])
+
+        except Exception as e:
+            print(f'  Erreur LLM batch {i}: {e}, fallback regex')
+            validated.extend(batch)
+
+    print(f'  {len(validated)} offres validees sur {len(jobs)}')
+
+    return validated
+
+
 def buildJobsList(jobsRaw: list[dict], aiCoreMap: dict) -> list[dict]:
     jobs = []
     for entry in jobsRaw:
@@ -347,7 +409,10 @@ def main():
     jobs = buildJobsList(jobsRaw, aiCoreMap)
     print(f'  {len(jobs)} offres extraites')
 
-    print('5/5 Sauvegarde...')
+    print('5/6 Validation LLM des offres...')
+    jobs = validateJobsWithLlm(jobs)
+
+    print('6/6 Sauvegarde...')
     saveResults(scrapeResults, aiCore, careers, jobsRaw, jobs)
 
 
