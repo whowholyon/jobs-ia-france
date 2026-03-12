@@ -3,7 +3,13 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Wed, 11 Mar 2026 19:54:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 05:08:50 +0000</lastBuildDate>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
 <item>
 <title>AI ScientistFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
 <link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
@@ -65,12 +71,6 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
 <title>business intelligence - Adaptive ML</title>
 <link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
 <description>Data | Île-de-France</description>
@@ -83,10 +83,76 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Head of Agencies - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/head-of-agencies_paris</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Lead Fullstack Developer - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/lead-fullstack-developer_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Fullstack Developper - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/fullstack-developper_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Product Manager (Alternance) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/product-owner-stage-alternance_paris_LC_5kr6O7X</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Key Account Manager (Régie) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-regie_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Key Account Manager (Retail) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-retail_paris_LC_eldKkQ</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Key Account Manager - Alternance - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_lL7AXY1</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Key Account Manager - Stage ou Alternance - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_809zO5m</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Customer Success Manager - Alternance - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/customer-success-manager-alternance_paris_LC_ZMm9zjp</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Candidature spontanéeLucky cart est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous application ↘︎ - Alteia</title>
 <link>https://careers.alteia.com/connect/login</link>
 <description>Autre | Occitanie</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Junior Platform Engineer - Frontend FocusToulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7370167-junior-platform-engineer-frontend-focus</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Product Owner - Digital InspectionProduct·Toulouse·Hybrid - Alteia</title>
@@ -155,6 +221,30 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Additive Manufacturing Engineer (operation) – Internship - SPARE PARTS 3D</title>
+<link>https://spare-parts-3d.com/jobs/am-engineer-intern/</link>
+<description>Stage / Alternance | Occitanie</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Junior project Manager (6 months internship – Middle East / Europe) - SPARE PARTS 3D</title>
+<link>https://spare-parts-3d.com/jobs/junior-project-manager-intern/</link>
+<description>Stage / Alternance | Occitanie</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Data Quality Control (Internship / part-time 4 to 6 Months) – Singapore - SPARE PARTS 3D</title>
+<link>https://spare-parts-3d.com/jobs/data-qc-4-to-6-months-singapore/</link>
+<description>Stage / Alternance | Occitanie</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>Alternance - Assistant marketing et communication F/H - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/companies/framatome-1/jobs/alternance-assistant-marketing-et-communication-f-h_le-creusot</link>
 <description>Stage / Alternance | Île-de-France</description>
@@ -167,10 +257,22 @@
 <category>Marketing / Growth</category>
 </item>
 <item>
+<title>Chargé(e) de Communication - Stage - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/kactus/jobs/stagiaire-charge-de-communication_paris</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>Formateur en Cultures de la communication H/F - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/companies/ecoris/jobs/formateur-en-cultures-de-la-communication-h-f_annecy</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Alternance Pôle Communication/Animation PME F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/bouygues-telecom/jobs/alternance-pole-communication-animation-pme-f-h_boulogne-billancourt</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Chargé d’Engagement  et de Communication interne (F/H) - alternance - Welcome to the Jungle</title>
@@ -221,32 +323,8 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Chef de projets Communication Evénementielle H/F - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/credit-mutuel-arkea/jobs/chef-de-projets-communication-evenementielle-h-f_le-relecq-kerhuon</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Responsable Communication Interne &amp; Marque Employeur - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/tech-data/jobs/responsable-communication-interne-marque-employeur_chessy</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>ALTERNANCE - ASSISTANT COMMUNICATION INTERNE H/F - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/cnp-assurances/jobs/alternance-assistant-communication-interne-h-f_issy-les-moulineaux</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>STAGE - Assistant Chef de Projet Communication et Evènementiel Petit h (H/F) - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/hermes/jobs/stage-assistant-chef-de-projet-communication-et-evenementiel-petit-h-h-f_pantin_HERMS_P7eld8k</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>STAGE - Assistant Chef de Projets Communication Métier Chaussure (H/F) - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/hermes/jobs/stage-assistant-chef-de-projets-communication-metier-chaussure-h-f_pantin_HERMS_mRQq5l7</link>
+<title>Chef de projet Communication &amp; Fidélité en Alternance 5F/H) - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/carrefour/jobs/chef-de-projet-communication-fidelite-en-alternance-5f-h_massy</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
@@ -255,18 +333,6 @@
 <link>https://www.welcometothejungle.com/fr/companies/la-poste-service-courrier-colis/jobs/alternance-charge-de-communication-f-h_caen</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
-</item>
-<item>
-<title>Stage Consultant(e) Junior Communication et Veille F/H - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/maarc/jobs/stage-consultant-junior-communication-et-veille-f-h_paris_MAARC_j8JWVNg</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Content Marketing &amp; Communication Digitale (H/F) - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/nomadia/jobs/content-marketing-communication-digitale-h-f_paris</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
 </item>
 <item>
 <title>Assistant Communication - ALTERNANCE (F/H) - Welcome to the Jungle</title>
@@ -279,102 +345,6 @@
 <link>https://www.welcometothejungle.com/fr/companies/macif/jobs/charge-de-communication-digitale-alternance-h-f_niort</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
-</item>
-<item>
-<title>Assistant(e) communication (H/F) - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/resah/jobs/assistant-communication-h-f_paris</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Chargé de communication F/H - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/orano/jobs/charge-de-communication-f-h_pierrelatte_ORANO_ko8gKke</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Chargé(e) de Communication H/F-Alternance - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/banque-palatine/jobs/charge-de-communication-h-f-alternance_fontenay-sous-bois_BP_a5z3Dl7</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Alternance Communication digitale -  F/H/N - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/octo-technology/jobs/alternance-communication-digitale-brand-content-f-h-n_paris_OT_3D6RjRX</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Assistant Chef de Projet Marketing &amp; Communication EMEA (H/F) - Alternance - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/isispharma/jobs/alternance-assistant-e-chef-de-projet-marketing-communication-emea_lyon</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Head of Agencies - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/head-of-agencies_paris</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Lead Fullstack Developer - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/lead-fullstack-developer_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Fullstack Developper - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/fullstack-developper_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Product Manager (Alternance) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/product-owner-stage-alternance_paris_LC_5kr6O7X</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Key Account Manager (Régie) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-regie_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Key Account Manager (Retail) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-retail_paris_LC_eldKkQ</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Key Account Manager - Alternance - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_lL7AXY1</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Key Account Manager - Stage ou Alternance - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_809zO5m</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Customer Success Manager - Alternance - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/customer-success-manager-alternance_paris_LC_ZMm9zjp</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Candidature spontanéeLucky cart est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
 </item>
 <item>
 <title>Senior Alliance ManagerCDILe Kremlin-Bicêtre, Paris, Villejuif - Orakl Oncology</title>
@@ -401,28 +371,64 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>Additive Manufacturing Engineer (operation) – Internship - SPARE PARTS 3D</title>
-<link>https://spare-parts-3d.com/jobs/am-engineer-intern/</link>
-<description>Stage / Alternance | Occitanie</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Junior project Manager (6 months internship – Middle East / Europe) - SPARE PARTS 3D</title>
-<link>https://spare-parts-3d.com/jobs/junior-project-manager-intern/</link>
-<description>Stage / Alternance | Occitanie</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Data Quality Control (Internship / part-time 4 to 6 Months) – Singapore - SPARE PARTS 3D</title>
-<link>https://spare-parts-3d.com/jobs/data-qc-4-to-6-months-singapore/</link>
-<description>Stage / Alternance | Occitanie</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
 <title>Fullstack Senior Developper1 open positionsGrenobleDéveloppeur Fullstack Senior22/01/2024 13:39:48 - Astriis</title>
 <link>https://www.astriis.com/jobs/detail/fullstack-senior-developper-1</link>
 <description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
 <category>Dev / Engineering</category>
+</item>
+<item>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Business Development Representative - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/business-development-representative-emea-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Back-end developer [CDI] - GEEGLEE</title>
@@ -435,36 +441,6 @@
 <link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -521,22 +497,16 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Business Development Representative - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/business-development-representative-emea-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
-<title>Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Stage R&amp;D - Génération artificielle d'images pour la vision industrielleStagePalaiseauTélétravail fréquent - Visionairy</title>
@@ -581,28 +551,58 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Ingénieur Applications IA Industrielles (F/H), France - DeepHawk</title>
-<link>https://deephawk.ai/ingenieur-applications-ia-industrielles-f-h-france/</link>
-<description>IA / ML / Data Science | Bretagne</description>
-<category>IA / ML / Data Science</category>
+<title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
+<link>https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
-<title>Développeur Fullstack Applications IA, France - DeepHawk</title>
-<link>https://deephawk.ai/developpeur-fullstack-applications-ia-f-h/</link>
-<description>Dev / Engineering | Bretagne</description>
+<title>Alternant(e) développeur webPassionné par la data, vous cherchez à développer votre maîtrise des données dans des cas concrets ? Rejoignez-nous !Stage - Paris 13Lire plus - AfterData</title>
+<link>https://www.afterdata.com/alternant-developpeur-web/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Founder’s Associate - Mago</title>
+<link>https://magostudio.notion.site/Founder-s-Associate-29698f78eb4a800fb3eeda94104f6916</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Internships / Stages en Alternance - kentyou</title>
+<link>https://kentyou.com/2023/09/12/alternance/</link>
+<description>Stage / Alternance | Auvergne-Rhône-Alpes</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Data Analyst - kentyou</title>
+<link>https://kentyou.com/2023/08/07/data-analyst/</link>
+<description>Data | Auvergne-Rhône-Alpes</description>
+<category>Data</category>
+</item>
+<item>
+<title>Full-Stack Developer - kentyou</title>
+<link>https://kentyou.com/2023/08/07/full-stack-developer/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>AI Computer Vision Engineer, France - DeepHawk</title>
-<link>https://deephawk.ai/temp/ai-computer-vision-engineer-france/</link>
-<description>IA / ML / Data Science | Bretagne</description>
-<category>IA / ML / Data Science</category>
+<title>Java Developer and Platform Engineer - kentyou</title>
+<link>https://kentyou.com/2021/08/20/java-developer/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
-<title>BackEnd Developer, France - DeepHawk</title>
-<link>https://deephawk.ai/temp/backend-developer-france-2/</link>
-<description>Dev / Engineering | Bretagne</description>
-<category>Dev / Engineering</category>
+<title>Talent Acquisition Specialist jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Legal Counsel jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/conseil-juridique-emplois?trk=organization_guest_linkster_link</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 
 </channel>
