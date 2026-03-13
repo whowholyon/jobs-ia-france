@@ -3,11 +3,89 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Fri, 13 Mar 2026 14:31:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 19:49:01 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AI ScientistFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Forward Deployed EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Machine Learning EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Product DesignerFull TimeOpening SoonParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Senior Account ExecutiveFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Business Development InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/business-development-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Data Science InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/data-science-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Research InternInternshipJul-26Paris 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>PHD Researcher in Synthetic Data GenerationContractOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/phd-researcher</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Senior Fullstack Engineer — Javascript / Typescript (F/H) - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/developpeur-web_suresnes</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Senior Account Executive (F/H) - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/account-executive-senior-h-f_puteaux</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Candidature spontanéeXXII GROUP est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -71,68 +149,140 @@
 <category>Ops / Infra / QA</category>
 </item>
 <item>
-<title>AI ScientistFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
 </item>
 <item>
-<title>Forward Deployed EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>Machine Learning EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>Product DesignerFull TimeOpening SoonParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
-<description>Product / Design | Île-de-France</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Senior Account ExecutiveFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
+<title>Human Resources Business Partner - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/human-resources-business-partner_paris_LC_4AzeW7Q</link>
 <description>RH / People | Île-de-France</description>
 <category>RH / People</category>
 </item>
 <item>
-<title>Business Development InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/business-development-intern</link>
+<title>Head of Agencies - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/head-of-agencies_paris</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Lead Fullstack Developer - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/lead-fullstack-developer_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Fullstack Developper - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/fullstack-developper_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Product Manager (Alternance) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/product-owner-stage-alternance_paris_LC_5kr6O7X</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Data Science InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/data-science-intern</link>
+<title>Key Account Manager (Régie) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-regie_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Key Account Manager (Retail) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-retail_paris_LC_eldKkQ</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Key Account Manager - Alternance - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_lL7AXY1</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Research InternInternshipJul-26Paris 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
+<title>Key Account Manager - Stage ou Alternance - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_809zO5m</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>PHD Researcher in Synthetic Data GenerationContractOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/phd-researcher</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
+<title>Customer Success Manager - Alternance - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/customer-success-manager-alternance_paris_LC_ZMm9zjp</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Candidature spontanéeLucky cart est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Alternance - Assistant Support Marketing et Communication F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/framatome-1/jobs/alternance-assistant-support-marketing-et-communication-f-h_lyon</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Alternance - Chargé de Communication Grand Projet F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/framatome-1/jobs/alternance-charge-de-communication-grand-projet-f-h_lyon</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Chargé(e) de Communication - Stage - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/companies/kactus/jobs/stagiaire-charge-de-communication_paris</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>ALTERNANCE : Master 1 ou 2: Chargée/Chargé de Communication F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/edf/jobs/alternance-master-1-ou-2-chargee-charge-de-communication-f-h_paris</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>ALTERNANCE : Master 1 - Chargée/Chargé de Communication F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/edf/jobs/alternance-master-1-chargee-charge-de-communication-f-h_lyon</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>ALTERNANCE : Master 2 - Appui Partenariats et Communication F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/edf/jobs/alternance-master-2-appui-partenariats-et-communication-f-h_puteaux</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>ALTERNANCE :  Chargée/Chargé de Communication F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/edf/jobs/alternance-chargee-charge-de-communication-f-h_cesson-sevigne</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>ALTERNANCE: Chargée/Chargé de Communication Interne et Externe - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/edf/jobs/alternance-chargee-charge-de-communication-interne-et-externe_bordeaux</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Alternant Chargé de Communication Digitale Corporate F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/nespresso/jobs/alternant-charge-de-communication-digitale-corporate-f-h_fr-siege-shift-issy-les-moulineaux</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
@@ -263,102 +413,6 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Senior Fullstack Engineer — Javascript / Typescript (F/H) - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/developpeur-web_suresnes</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Senior Account Executive (F/H) - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/account-executive-senior-h-f_puteaux</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Candidature spontanéeXXII GROUP est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Human Resources Business Partner - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/human-resources-business-partner_paris_LC_4AzeW7Q</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Head of Agencies - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/head-of-agencies_paris</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Lead Fullstack Developer - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/lead-fullstack-developer_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Fullstack Developper - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/fullstack-developper_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Product Manager (Alternance) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/product-owner-stage-alternance_paris_LC_5kr6O7X</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Key Account Manager (Régie) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-regie_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Key Account Manager (Retail) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-retail_paris_LC_eldKkQ</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Key Account Manager - Alternance - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_lL7AXY1</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Key Account Manager - Stage ou Alternance - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_809zO5m</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Customer Success Manager - Alternance - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/customer-success-manager-alternance_paris_LC_ZMm9zjp</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Candidature spontanéeLucky cart est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Additive Manufacturing Engineer (operation) – Internship - SPARE PARTS 3D</title>
 <link>https://spare-parts-3d.com/jobs/am-engineer-intern/</link>
 <description>Stage / Alternance | Occitanie</description>
@@ -377,12 +431,6 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Senior Alliance ManagerCDILe Kremlin-Bicêtre, Paris, Villejuif - Orakl Oncology</title>
 <link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/senior-alliance-manager</link>
 <description>Sales / Business | Île-de-France</description>
@@ -393,18 +441,6 @@
 <link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/business-development-director</link>
 <description>Sales / Business | Île-de-France</description>
 <category>Sales / Business</category>
-</item>
-<item>
-<title>Executive Assistant to the CEOCDILe Kremlin-Bicêtre, Paris, Villejuif - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/executive-assistant-to-the-ceo</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Chief of StaffCDILe Kremlin-Bicêtre, Paris, Villejuif - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/chief-of-staff</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
 </item>
 <item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
@@ -461,16 +497,22 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Business Development Representative - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/business-development-representative-emea-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -527,34 +569,22 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Business Development Representative - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/business-development-representative-emea-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>Stage R&amp;D - Génération artificielle d'images pour la vision industrielleStagePalaiseauTélétravail fréquent - Visionairy</title>
 <link>https://www.welcometothejungle.com/fr/companies/visionairy/jobs/stage-r-d-generation-artificielle-d-images-pour-la-vision-industrielle_palaiseau</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Sales ExecutiveRemoteFull Time - Flowlity</title>
-<link>https://www.flowlity.com/careers/salesexecutive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>UX Designer - Bondzai</title>
@@ -572,36 +602,6 @@
 <title>Engineering: AI Engineer - Bondzai</title>
 <link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
 <description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Marketing: CPO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
-<description>Management / Leadership | Occitanie</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Marketing : CMO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
-<description>Marketing / Growth | Occitanie</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Ingénieur Applications IA Industrielles (F/H), France - DeepHawk</title>
-<link>https://deephawk.ai/ingenieur-applications-ia-industrielles-f-h-france/</link>
-<description>IA / ML / Data Science | Bretagne</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Développeur Fullstack Applications IA, France - DeepHawk</title>
-<link>https://deephawk.ai/developpeur-fullstack-applications-ia-f-h/</link>
-<description>Dev / Engineering | Bretagne</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>AI Computer Vision Engineer, France - DeepHawk</title>
-<link>https://deephawk.ai/temp/ai-computer-vision-engineer-france/</link>
-<description>IA / ML / Data Science | Bretagne</description>
 <category>IA / ML / Data Science</category>
 </item>
 
