@@ -3,11 +3,65 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sun, 15 Mar 2026 07:57:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 14:00:49 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Human Resources Business Partner - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/human-resources-business-partner_paris_LC_4AzeW7Q</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Head of Agencies - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/head-of-agencies_paris</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Lead Fullstack Developer - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/lead-fullstack-developer_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Fullstack Developper - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/fullstack-developper_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Product Manager (Alternance) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/product-owner-stage-alternance_paris_LC_5kr6O7X</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Key Account Manager (Régie) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-regie_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Key Account Manager (Retail) - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-retail_paris_LC_eldKkQ</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Key Account Manager - Alternance - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_lL7AXY1</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Candidature spontanéeLucky cart est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -131,72 +185,6 @@
 <category>Ops / Infra / QA</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Human Resources Business Partner - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/human-resources-business-partner_paris_LC_4AzeW7Q</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Head of Agencies - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/head-of-agencies_paris</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Lead Fullstack Developer - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/lead-fullstack-developer_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Fullstack Developper - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/fullstack-developper_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Product Manager (Alternance) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/product-owner-stage-alternance_paris_LC_5kr6O7X</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Key Account Manager (Régie) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-regie_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Key Account Manager (Retail) - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-retail_paris_LC_eldKkQ</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Key Account Manager - Alternance - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/key-account-manager-alternance_paris_LC_lL7AXY1</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Candidature spontanéeLucky cart est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Senior Fullstack Engineer — Javascript / Typescript (F/H) - XXII</title>
 <link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/developpeur-web_suresnes</link>
 <description>Dev / Engineering | Île-de-France</description>
@@ -217,6 +205,18 @@
 <item>
 <title>Spontaneous Application - Scortex</title>
 <link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -425,6 +425,12 @@
 <category>Marketing / Growth</category>
 </item>
 <item>
+<title>Fullstack Senior Developper1 open positionsGrenobleDéveloppeur Fullstack Senior22/01/2024 13:39:48 - Astriis</title>
+<link>https://www.astriis.com/jobs/detail/fullstack-senior-developper-1</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
@@ -461,12 +467,6 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Fullstack Senior Developper1 open positionsGrenobleDéveloppeur Fullstack Senior22/01/2024 13:39:48 - Astriis</title>
-<link>https://www.astriis.com/jobs/detail/fullstack-senior-developper-1</link>
-<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
 <title>Back-end developer [CDI] - GEEGLEE</title>
 <link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
 <description>Dev / Engineering | Île-de-France</description>
@@ -497,22 +497,16 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Business Development Representative - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/business-development-representative-emea-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
-<title>Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
-<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -569,16 +563,22 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Business Development Representative - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/business-development-representative-emea-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Stage R&amp;D - Génération artificielle d'images pour la vision industrielleStagePalaiseauTélétravail fréquent - Visionairy</title>
