@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Fri, 27 Mar 2026 19:53:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 05:16:07 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -25,78 +25,6 @@
 <item>
 <title>Candidature spontanéeXXII GROUP est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - XXII</title>
 <link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI ScientistFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Forward Deployed EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Machine Learning EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Product DesignerFull TimeOpening SoonParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
-<description>Product / Design | Île-de-France</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Senior Account ExecutiveFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Business Development InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/business-development-intern</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Data Science InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/data-science-intern</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Research InternInternshipJul-26Paris 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>PHD Researcher in Synthetic Data GenerationContractOpenParis 8, FranceApply now - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/phd-researcher</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -161,26 +89,62 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>Research EngineerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/research-engineer_le-kremlin-bicetre</link>
+<title>AI ScientistFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
 <description>IA / ML / Data Science | Île-de-France</description>
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>Lab ManagerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/lab-manager_le-kremlin-bicetre</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Forward Deployed EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
-<title>Computational Biologist - Pharma DeliveryCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/computational-biologist-pharma-delivery_le-kremlin-bicetre</link>
+<title>Machine Learning EngineerFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
 <description>IA / ML / Data Science | Île-de-France</description>
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>Senior AI EngineerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/senior-ai-engineer_le-kremlin-bicetre</link>
+<title>Product DesignerFull TimeOpening SoonParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Senior Account ExecutiveFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Business Development InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/business-development-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Data Science InternInternshipMar-26Paris 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/data-science-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Research InternInternshipJul-26Paris 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>PHD Researcher in Synthetic Data GenerationContractOpenParis 8, FranceApply now - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/phd-researcher</link>
 <description>IA / ML / Data Science | Île-de-France</description>
 <category>IA / ML / Data Science</category>
 </item>
@@ -251,6 +215,66 @@
 <category>Autre</category>
 </item>
 <item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Research EngineerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/research-engineer_le-kremlin-bicetre</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Lab ManagerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/lab-manager_le-kremlin-bicetre</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Computational Biologist - Pharma DeliveryCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/computational-biologist-pharma-delivery_le-kremlin-bicetre</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Senior AI EngineerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/senior-ai-engineer_le-kremlin-bicetre</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Analog Pixel IC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7440172-analog-pixel-ic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Fullstack Senior Developper1 open positionsGrenobleDéveloppeur Fullstack Senior22/01/2024 13:39:48 - Astriis</title>
+<link>https://www.astriis.com/jobs/detail/fullstack-senior-developper-1</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
@@ -287,32 +311,14 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Analog Pixel IC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7440172-analog-pixel-ic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Chargé.e de Communication junior (Alternance) - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/groupe-randstad/jobs/charge-e-de-communication-junior-alternance_saint-denis</link>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Alternance – Communication Interne &amp; Engagement Salariés - H/F - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/france-air/jobs/alternance-communication-interne-engagement-salaries-h-f_beynost</link>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
@@ -461,36 +467,6 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>Assistant Chargé de communication Sponsoring sportif - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/societe-generale/jobs/assistant-charge-de-communication-sponsoring-sportif_la-defense_SG_wmNXM5o</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>ALTERNANCE - CHEF DE PROJET CONDUITE DU CHANGEMENT &amp; COMMUNICATION - H/F - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/bnp-paribas/jobs/alternance-chef-de-projet-conduite-du-changement-communication-h-f_paris</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>ALTERNANCE - LICENCE - COMMUNICATION / ASSURANCE H/F - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/cnp-assurances/jobs/alternance-licence-communication-assurance-h-f_angers</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Alternance Chef de projet communication digitale F/H - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/bouygues-telecom/jobs/alternance-chef-de-projet-communication-digitale-f-h_meudon</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Fullstack Senior Developper1 open positionsGrenobleDéveloppeur Fullstack Senior22/01/2024 13:39:48 - Astriis</title>
-<link>https://www.astriis.com/jobs/detail/fullstack-senior-developper-1</link>
-<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
 <title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
 <link>https://www.welcometothejungle.com/en/companies/giskard/jobs/senior-enterprise-account-executive-dach-market_paris</link>
 <description>Sales / Business | Île-de-France</description>
@@ -525,30 +501,6 @@
 <link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>Back-end developer [CDI] - GEEGLEE</title>
-<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Front-end developer [CDI] - GEEGLEE</title>
-<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -603,6 +555,54 @@
 <link>https://www.akur8.com/teams/partnerships-corporate-development</link>
 <description>Sales / Business | Île-de-France</description>
 <category>Sales / Business</category>
+</item>
+<item>
+<title>Back-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Front-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>UX Designer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Engineering: Embedded Software Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Engineering: AI Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
+<description>IA / ML / Data Science | Occitanie</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Marketing: CPO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
+<description>Management / Leadership | Occitanie</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Marketing : CMO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
+<description>Marketing / Growth | Occitanie</description>
+<category>Marketing / Growth</category>
+</item>
+<item>
+<title>Product Designer UX/UIRemote-first (Paris/Valencia preferred, or Lyon/Bordeaux/Lisbon) with occasional travel for team meetups.Full Time - Flowlity</title>
+<link>https://www.flowlity.com/careers/product-designer-ux-ui</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
 </item>
 
 </channel>
