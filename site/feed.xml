@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Wed, 01 Apr 2026 19:10:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 02:45:45 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -11,14 +11,20 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Chargé(e) de communication corporate en alternance F/H - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/auchan/jobs/charge-de-communication-corporate-en-alternance-f-h_villeneuve-d-ascq</link>
+<title>Responsable communication - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/logista-france/jobs/responsable-communication_vincennes</link>
+<description>Marketing / Growth | Île-de-France</description>
+<category>Marketing / Growth</category>
+</item>
+<item>
+<title>Alternance - Chargé(e) de communication et d'évènementiel (H/F) - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/efrei/jobs/alternance-charge-de-communication-et-d-evenementiel-h-f_villejuif</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Alternance - Chargé de Communication Interne F/H - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/framatome-1/jobs/alternance-charge-de-communication-interne-f-h_beaumont</link>
+<title>Chargé(e) de communication corporate en alternance F/H - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/auchan/jobs/charge-de-communication-corporate-en-alternance-f-h_villeneuve-d-ascq</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
@@ -41,10 +47,16 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Responsable Communication - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/steeple/jobs/responsable-marketing-communication_saint-jacques-de-la-lande_STEEP_0jP7Wxx</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
+<title>Alternance - Chargé(e) de communication et marketing - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/lesieur/jobs/charge-de-communication-et-marketing_paris</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Alternant assistant communication H/F - Le Dauphiné Libéré - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/companies/ebra/jobs/alternant-assistant-communication-h-f-le-dauphine-libere_veurey-voroize</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>ALTERNANCE -Chargé de communication, conduite du changement F/H - Welcome to the Jungle</title>
@@ -143,28 +155,10 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>ALTERNANCE - COMMUNICATION &amp; QUALITES DES OUTILS METIERS - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/batigere/jobs/alternance-communication-qualites-des-outils-metiers_metz</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>ALTERNANCE - CHARGEE/ CHARGE DE COMMUNICATION - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/batigere/jobs/alternance-chargee-charge-de-communication_levallois-perret</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Alternant Chargé de communication interne et externe F/H - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/nespresso/jobs/alternant-charge-de-communication-interne-et-externe-f-h_fr-siege-shift-issy-les-moulineaux</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Chargée / chargé de communication F/H - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/companies/edf/jobs/chargee-charge-de-communication-f-h_lyon</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
+<title>BDR Fashion &amp; SportswearFull-TimeParis - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/bdr-fashion-sportswear_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Senior Account Executive (F/H) - XXII</title>
@@ -177,12 +171,6 @@
 <link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>BDR Fashion &amp; SportswearFull-TimeParis - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/bdr-fashion-sportswear_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
 </item>
 <item>
 <title>AI ScientistFull TimeOpenParis 8, FranceApply now - Neuralk-AI</title>
@@ -293,18 +281,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Spontaneous application ↘︎ - Alteia</title>
 <link>https://careers.alteia.com/connect/login</link>
 <description>Autre | Occitanie</description>
@@ -365,12 +341,6 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Research EngineerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
 <link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/research-engineer_le-kremlin-bicetre</link>
 <description>IA / ML / Data Science | Île-de-France</description>
@@ -395,6 +365,24 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
@@ -413,39 +401,9 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Additive Manufacturing Engineer (operation) – Internship - SPARE PARTS 3D</title>
-<link>https://spare-parts-3d.com/jobs/am-engineer-intern/</link>
-<description>Stage / Alternance | Occitanie</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Junior project Manager (6 months internship – Middle East / Europe) - SPARE PARTS 3D</title>
-<link>https://spare-parts-3d.com/jobs/junior-project-manager-intern/</link>
-<description>Stage / Alternance | Occitanie</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Data Quality Control (Internship / part-time 4 to 6 Months) – Singapore - SPARE PARTS 3D</title>
-<link>https://spare-parts-3d.com/jobs/data-qc-4-to-6-months-singapore/</link>
-<description>Stage / Alternance | Occitanie</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
 <title>Fullstack Senior Developper1 open positionsGrenobleDéveloppeur Fullstack Senior22/01/2024 13:39:48 - Astriis</title>
 <link>https://www.astriis.com/jobs/detail/fullstack-senior-developper-1</link>
 <description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Back-end developer [CDI] - GEEGLEE</title>
-<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Front-end developer [CDI] - GEEGLEE</title>
-<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
-<description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
 <item>
@@ -467,22 +425,34 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Additive Manufacturing Engineer (operation) – Internship - SPARE PARTS 3D</title>
+<link>https://spare-parts-3d.com/jobs/am-engineer-intern/</link>
+<description>Stage / Alternance | Occitanie</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Junior project Manager (6 months internship – Middle East / Europe) - SPARE PARTS 3D</title>
+<link>https://spare-parts-3d.com/jobs/junior-project-manager-intern/</link>
+<description>Stage / Alternance | Occitanie</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Data Quality Control (Internship / part-time 4 to 6 Months) – Singapore - SPARE PARTS 3D</title>
+<link>https://spare-parts-3d.com/jobs/data-qc-4-to-6-months-singapore/</link>
+<description>Stage / Alternance | Occitanie</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Back-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Front-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Enterprise Account Executive - DACH marketFull-TimeParisA few days at home - Giskard AI</title>
@@ -503,16 +473,22 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -569,6 +545,36 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>UX Designer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Engineering: Embedded Software Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Engineering: AI Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
+<description>IA / ML / Data Science | Occitanie</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Marketing: CPO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
+<description>Management / Leadership | Occitanie</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Marketing : CMO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
+<description>Marketing / Growth | Occitanie</description>
+<category>Marketing / Growth</category>
+</item>
+<item>
 <title>Product Designer UX/UIRemote-first (Paris/Valencia preferred, or Lyon/Bordeaux/Lisbon) with occasional travel for team meetups.Full Time - Flowlity</title>
 <link>https://www.flowlity.com/careers/product-designer-ux-ui</link>
 <description>Product / Design | Île-de-France</description>
@@ -587,22 +593,16 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>UX Designer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
-<title>Engineering: Embedded Software Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Engineering: AI Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
-<description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 
 </channel>
