@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sun, 10 May 2026 03:47:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 08:13:57 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -53,16 +53,10 @@
 <category>Autre</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Head of Agencies - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/companies/lucky-cart/jobs/head-of-agencies_paris</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
 </item>
 <item>
 <title>Lead Fullstack Developer - Lucky cart</title>
@@ -107,6 +101,102 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Spontaneous application ↘︎ - Alteia</title>
+<link>https://careers.alteia.com/connect/login</link>
+<description>Autre | Occitanie</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Product OwnerProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7541820-product-owner</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Lead QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7427591-lead-qa-engineer</link>
+<description>Ops / Infra / QA | Occitanie</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Tech Lead BackendEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7403606-tech-lead-backend</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Product Manager - Electric network designProduct·Paris, Toulouse - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839328-product-manager-electric-network-design</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Product Manager - Structural analysis and engineeringProduct·Paris, Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839112-product-manager-structural-analysis-and-engineering</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Senior QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
+<description>Ops / Infra / QA | Occitanie</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
+<description>Data | Occitanie</description>
+<category>Data</category>
+</item>
+<item>
+<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
+<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>R&amp;D Lab TechnicianCDILe Kremlin-Bicêtre, Villejuif - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/r-d-lab-technician</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Research EngineerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/research-engineer_le-kremlin-bicetre</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Lab ManagerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/lab-manager_le-kremlin-bicetre</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>(Senior) Computational Biologist - Pharma DeliveryCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/computational-biologist-pharma-delivery_le-kremlin-bicetre</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
 <title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
 <link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
 <description>Sales / Business | Île-de-France</description>
@@ -117,36 +207,6 @@
 <link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>Financial ControllerG&amp;A·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7685664-financial-controller</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Analog Pixel IC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7440172-analog-pixel-ic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Head of Export Control &amp; ComplianceParis, FranceApply Now - Alta Ares</title>
@@ -179,30 +239,6 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>R&amp;D Lab TechnicianCDILe Kremlin-Bicêtre, Villejuif - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/r-d-lab-technician</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Research EngineerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/research-engineer_le-kremlin-bicetre</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Lab ManagerCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/lab-manager_le-kremlin-bicetre</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>(Senior) Computational Biologist - Pharma DeliveryCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/computational-biologist-pharma-delivery_le-kremlin-bicetre</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
 <title>Additive Manufacturing Engineer (operation) – Internship - SPARE PARTS 3D</title>
 <link>https://spare-parts-3d.com/jobs/am-engineer-intern/</link>
 <description>Stage / Alternance | Occitanie</description>
@@ -219,24 +255,6 @@
 <link>https://spare-parts-3d.com/jobs/data-qc-4-to-6-months-singapore/</link>
 <description>Stage / Alternance | Occitanie</description>
 <category>Stage / Alternance</category>
-</item>
-<item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
 </item>
 <item>
 <title>AI ScientistFull TimeOpenParis 8, FranceApply - Neuralk-AI</title>
@@ -305,82 +323,52 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Spontaneous application ↘︎ - Alteia</title>
-<link>https://careers.alteia.com/connect/login</link>
-<description>Autre | Occitanie</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Product OwnerProduct·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/7541820-product-owner</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Lead QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/7427591-lead-qa-engineer</link>
-<description>Ops / Infra / QA | Occitanie</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Tech Lead BackendEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/7403606-tech-lead-backend</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Product Manager - Electric network designProduct·Paris, Toulouse - Alteia</title>
-<link>https://careers.alteia.com/jobs/6839328-product-manager-electric-network-design</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Product Manager - Structural analysis and engineeringProduct·Paris, Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6839112-product-manager-structural-analysis-and-engineering</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Senior QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
-<description>Ops / Infra / QA | Occitanie</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
-<description>Data | Occitanie</description>
-<category>Data</category>
-</item>
-<item>
-<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
-<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<title>Financial ControllerG&amp;A·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7685664-financial-controller</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Analog Pixel IC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7440172-analog-pixel-ic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Back-end developer [CDI] - GEEGLEE</title>
@@ -395,16 +383,28 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Enterprise Account Executive - EMEA marketFull-TimeParisA few days at home - Giskard AI</title>
+<link>https://www.welcometothejungle.com/en/companies/giskard/jobs/enterprise-account-executive-emea-market_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -461,6 +461,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>UX Designer - Bondzai</title>
 <link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
 <description>Product / Design | Occitanie</description>
@@ -507,6 +519,36 @@
 <link>https://www.flowlity.com/careers/customer-success-manager</link>
 <description>Sales / Business | Île-de-France</description>
 <category>Sales / Business</category>
+</item>
+<item>
+<title>Administrateur Webdrone - webdrone</title>
+<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Senior SoC functional verification Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/senior-soc-functional-verification-engineer/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>RTL Design Manager - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/rtl-design-manager/</link>
+<description>Management / Leadership | Auvergne-Rhône-Alpes</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Senior System Architect - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/senior-system-architect/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Innovation and advanced technology manager - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/innovation-and-advanced-technology-manager/</link>
+<description>Management / Leadership | Auvergne-Rhône-Alpes</description>
+<category>Management / Leadership</category>
 </item>
 <item>
 <title>Ingénieur Applications IA Industrielles (F/H), France - DeepHawk</title>
@@ -561,48 +603,6 @@
 <link>https://deephawk.ai/temp/deployment-engineer-north-america/</link>
 <description>Ops / Infra / QA | Bretagne</description>
 <category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Solution Engineer, USA - DeepHawk</title>
-<link>https://deephawk.ai/temp/backend-developer-france/</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Sales Director, USA - DeepHawk</title>
-<link>https://deephawk.ai/temp/sales-director-usa/</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Deployment Engineer, Germany - DeepHawk</title>
-<link>https://deephawk.ai/temp/deployment-engineer-germany/</link>
-<description>Ops / Infra / QA | Bretagne</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Solution Engineer, Germany - DeepHawk</title>
-<link>https://deephawk.ai/temp/solution-engineer-lead-germany/</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Sales Director, Germany - DeepHawk</title>
-<link>https://deephawk.ai/temp/sales-director-germany/</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Administrateur Webdrone - webdrone</title>
-<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
-<link>https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
 </item>
 
 </channel>
