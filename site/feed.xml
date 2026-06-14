@@ -3,11 +3,47 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sat, 13 Jun 2026 19:42:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 04:42:15 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Luxury Business Analyst InternshipInternshipParis - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/luxury-business-analyst_paris_LUXUR_oMVy2aK</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>China Market &amp; Consumer Insight Analyst (Internship)InternshipParisA few days at home - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/luxury-insight-analyst-internship-china_paris_LUXUR_lrY4p4Z</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Heuritech Fashion/Operations InternInternshipParis - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/fashion-operations-intern_paris</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Data &amp; Business Analyst InternInternshipParisA few days at home - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/data-business-analyst-intern_paris_LUXUR_Q5N9qQw</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -47,28 +83,28 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Luxury Business Analyst InternshipInternshipParis - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/luxury-business-analyst_paris_LUXUR_oMVy2aK</link>
+<title>STAGE Chargé de Communication (F/H) - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/stage-charge-de-communication-f-h_puteaux</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>China Market &amp; Consumer Insight Analyst (Internship)InternshipParisA few days at home - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/luxury-insight-analyst-internship-china_paris_LUXUR_lrY4p4Z</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Senior Platform Engineer (F/H) - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-platform-engineer-f-h_puteaux</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
 </item>
 <item>
-<title>Heuritech Fashion/Operations InternInternshipParis - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/fashion-operations-intern_paris</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Senior Fullstack Engineer (F/H) - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-fullstack-engineer-f-h_puteaux</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
-<title>Data &amp; Business Analyst InternInternshipParisA few days at home - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/data-business-analyst-intern_paris_LUXUR_Q5N9qQw</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Candidature spontanéeXXII GROUP est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Spontaneous application ↘︎ - Alteia</title>
@@ -131,78 +167,6 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>STAGE Chargé de Communication (F/H) - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/stage-charge-de-communication-f-h_puteaux</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Senior Platform Engineer (F/H) - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-platform-engineer-f-h_puteaux</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Senior Fullstack Engineer (F/H) - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-fullstack-engineer-f-h_puteaux</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Candidature spontanéeXXII GROUP est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Lab TechnicianCDIVillejuif - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/lab-technician_villejuif</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Senior Scientist - CRISPR &amp; Functional GenomicsCDIVillejuif - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/senior-scientist-crispr-functional-genomics_villejuif</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>(Senior) Computational Biologist - Pharma DeliveryCDILe Kremlin-Bicêtre - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/computational-biologist-pharma-delivery_le-kremlin-bicetre</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Research EngineerCDILe Kremlin-Bicêtre, Villejuif - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/research-engineer_le-kremlin-bicetre</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
 <link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
@@ -231,6 +195,42 @@
 <link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
+</item>
+<item>
+<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Lab TechnicianCDIVillejuif - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/lab-technician_villejuif</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Senior Scientist - CRISPR &amp; Functional GenomicsCDIVillejuif - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/senior-scientist-crispr-functional-genomics_villejuif</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>(Senior) Computational Biologist - Pharma DeliveryCDILe Kremlin-Bicêtre - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/computational-biologist-pharma-delivery_le-kremlin-bicetre</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Research EngineerCDILe Kremlin-Bicêtre, Villejuif - Orakl Oncology</title>
+<link>https://www.welcometothejungle.com/fr/companies/orakl-oncology/jobs/research-engineer_le-kremlin-bicetre</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
 </item>
 <item>
 <title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
@@ -347,18 +347,6 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
 <title>Send an open application - Arcascience</title>
 <link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
 <description>Autre | Île-de-France</description>
@@ -431,6 +419,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>Vibe for Code - MISTRAL AI</title>
 <link>https://chat.mistral.ai/code/extensions</link>
 <description>IA / ML / Data Science | Île-de-France</description>
@@ -501,18 +501,6 @@
 <link>https://www.kalrayinc.com/jobs/rtl-design-manager/</link>
 <description>Management / Leadership | Auvergne-Rhône-Alpes</description>
 <category>Management / Leadership</category>
-</item>
-<item>
-<title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
-<link>https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Alternant(e) développeur webPassionné par la data, vous cherchez à développer votre maîtrise des données dans des cas concrets ? Rejoignez-nous !Stage - Paris 13Lire plus - AfterData</title>
-<link>https://www.afterdata.com/alternant-developpeur-web/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Spontaneous ApplicationAllSan Francisco - Outsight</title>
@@ -599,10 +587,22 @@
 <category>Product / Design</category>
 </item>
 <item>
-<title>Internships / Stages en Alternance - kentyou</title>
-<link>https://kentyou.com/2023/09/12/alternance/</link>
-<description>Stage / Alternance | Auvergne-Rhône-Alpes</description>
-<category>Stage / Alternance</category>
+<title>Spontaneous Application - Heex Technologies</title>
+<link>https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Talent Acquisition Specialist jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Legal Counsel jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/conseil-juridique-emplois?trk=organization_guest_linkster_link</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 
 </channel>
