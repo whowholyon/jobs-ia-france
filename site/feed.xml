@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sat, 20 Jun 2026 14:13:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 19:44:14 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -35,14 +35,20 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
+<title>Senior Fullstack Engineer (F/H) - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-fullstack-engineer-f-h_puteaux</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<title>Senior Platform Engineer (F/H) • DevOps - BackEnd - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-platform-engineer-f-h_puteaux</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Candidature spontanéeXXII GROUP est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - XXII</title>
+<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -113,24 +119,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Senior Fullstack Engineer (F/H) - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-fullstack-engineer-f-h_puteaux</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Senior Platform Engineer (F/H) • DevOps - BackEnd - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/senior-platform-engineer-f-h_puteaux</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Candidature spontanéeXXII GROUP est toujours à la recherche de personnes talentueuses, n'hésitez pas à postuler ! - XXII</title>
-<link>https://www.welcometothejungle.com/fr/companies/xxii-group/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
 <link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
 <description>Sales / Business | Île-de-France</description>
@@ -139,6 +127,18 @@
 <item>
 <title>Spontaneous Application - Scortex</title>
 <link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -171,24 +171,6 @@
 <link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
-</item>
-<item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
 </item>
 <item>
 <title>Spontaneous application ↘︎ - Alteia</title>
@@ -251,6 +233,66 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Forward Deployed EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Machine Learning EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Product DesignerFull TimeOpening SoonParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Research EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/research-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Senior Account ExecutiveFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Business Development InternInternshipMar-26Paris / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/business-development-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>PHD Researcher in Synthetic Data GenerationContractOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/phd-researcher</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Research InternInternshipSep-26Paris / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
 <link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
 <description>Management / Leadership | Île-de-France</description>
@@ -267,6 +309,36 @@
 <link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
+</item>
+<item>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Back-end developer [CDI] - GEEGLEE</title>
@@ -365,16 +437,22 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Administrateur Webdrone - webdrone</title>
+<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<category>Ops / Infra / QA</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Sales ExecutiveRemoteFull Time - Flowlity</title>
+<link>https://www.flowlity.com/careers/salesexecutive</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Customer Success ManagerRemoteFull-time - Flowlity</title>
+<link>https://www.flowlity.com/careers/customer-success-manager</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>UX Designer - Bondzai</title>
@@ -407,36 +485,6 @@
 <category>Marketing / Growth</category>
 </item>
 <item>
-<title>Lead DevOps Engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
-<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>IP &amp; Silicon Design Services Sales Manager - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/ip-silicon-design-services-sales-manager/</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>RTL Design Manager - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/rtl-design-manager/</link>
-<description>Management / Leadership | Auvergne-Rhône-Alpes</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Sales ExecutiveRemoteFull Time - Flowlity</title>
-<link>https://www.flowlity.com/careers/salesexecutive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Customer Success ManagerRemoteFull-time - Flowlity</title>
-<link>https://www.flowlity.com/careers/customer-success-manager</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>Internships / Stages en Alternance - kentyou</title>
 <link>https://kentyou.com/2023/09/12/alternance/</link>
 <description>Stage / Alternance | Auvergne-Rhône-Alpes</description>
@@ -461,10 +509,34 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Administrateur Webdrone - webdrone</title>
-<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<title>Lead DevOps Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
+<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
 <category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>IP &amp; Silicon Design Services Sales Manager - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/ip-silicon-design-services-sales-manager/</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>RTL Design Manager - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/rtl-design-manager/</link>
+<description>Management / Leadership | Auvergne-Rhône-Alpes</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
+<link>https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Alternant(e) développeur webPassionné par la data, vous cherchez à développer votre maîtrise des données dans des cas concrets ? Rejoignez-nous !Stage - Paris 13Lire plus - AfterData</title>
+<link>https://www.afterdata.com/alternant-developpeur-web/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Spontaneous ApplicationAllSan Francisco - Outsight</title>
@@ -529,78 +601,6 @@
 <item>
 <title>Python Backend DeveloperCustomer EngineeringPermanentParis - Outsight</title>
 <link>https://jobs.lever.co/outsight/214bac75-5f85-4988-99c8-bf0ab834a5d8</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Field Application Engineer (Spanish Speaking)Field Application EngineeringPermanentParis - Outsight</title>
-<link>https://jobs.lever.co/outsight/a4d60672-b70b-4a69-9918-2ff0c6631b7b</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Head of IT &amp; Systems ArchitectureIT &amp; Systems ArchitecturePermanentParis - Outsight</title>
-<link>https://jobs.lever.co/outsight/974428d4-0c32-493a-be74-78d875a49111</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Senior Product Manager - Platform &amp; InfrastructureProductPermanentParis - Outsight</title>
-<link>https://jobs.lever.co/outsight/d66021fb-a1d8-4eec-818d-1883a193f525</link>
-<description>Product / Design | Île-de-France</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Talent Acquisition Specialist jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Legal Counsel jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/conseil-juridique-emplois?trk=organization_guest_linkster_link</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Researcher jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/chercheur-emplois?trk=organization_guest_linkster_link</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Head of Sales jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/chef-des-ventes-emplois?trk=organization_guest_linkster_link</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Recruiter jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/recruteur-emplois?trk=organization_guest_linkster_link</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Marketing Director jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/directeur-marketing-emplois?trk=organization_guest_linkster_link</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Translator jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/traducteur-emplois?trk=organization_guest_linkster_link</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Information Technology Manager jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/responsable-informatique-emplois?trk=organization_guest_linkster_link</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Architect jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/architecte-emplois?trk=organization_guest_linkster_link</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
