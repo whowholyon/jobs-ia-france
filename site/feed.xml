@@ -3,23 +3,11 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Wed, 24 Jun 2026 19:52:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 04:01:19 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -81,6 +69,18 @@
 <link>https://careers.alteia.com/jobs/6007180-enterprise-sales-manager-h-f</link>
 <description>Sales / Business | Occitanie</description>
 <category>Sales / Business</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
@@ -239,6 +239,36 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Engineering3 open positions - Akur8</title>
 <link>https://www.akur8.com/teams/engineering</link>
 <description>Dev / Engineering | Île-de-France</description>
@@ -293,36 +323,6 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
 <title>Vibe for Code - MISTRAL AI</title>
 <link>https://chat.mistral.ai/code/extensions</link>
 <description>IA / ML / Data Science | Île-de-France</description>
@@ -359,12 +359,6 @@
 <category>Marketing / Growth</category>
 </item>
 <item>
-<title>Administrateur Webdrone - webdrone</title>
-<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
 <title>Lead DevOps Engineer - Kalray</title>
 <link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
 <description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
@@ -395,6 +389,12 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>Administrateur Webdrone - webdrone</title>
+<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
 <title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
 <link>https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/</link>
 <description>Stage / Alternance | Île-de-France</description>
@@ -405,6 +405,66 @@
 <link>https://www.afterdata.com/alternant-developpeur-web/</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
+</item>
+<item>
+<title>Talent Acquisition Specialist jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Legal Counsel jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/conseil-juridique-emplois?trk=organization_guest_linkster_link</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Researcher jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/chercheur-emplois?trk=organization_guest_linkster_link</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Head of Sales jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/chef-des-ventes-emplois?trk=organization_guest_linkster_link</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Recruiter jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/recruteur-emplois?trk=organization_guest_linkster_link</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Marketing Director jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/directeur-marketing-emplois?trk=organization_guest_linkster_link</link>
+<description>Marketing / Growth | Île-de-France</description>
+<category>Marketing / Growth</category>
+</item>
+<item>
+<title>Translator jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/traducteur-emplois?trk=organization_guest_linkster_link</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Information Technology Manager jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/responsable-informatique-emplois?trk=organization_guest_linkster_link</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Architect jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/architecte-emplois?trk=organization_guest_linkster_link</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Research Assistant jobs - Comand AI</title>
+<link>https://fr.linkedin.com/jobs/assistant-de-recherche-emplois?trk=organization_guest_linkster_link</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
 </item>
 <item>
 <title>Internships / Stages en Alternance - kentyou</title>
@@ -515,80 +575,20 @@
 <category>Product / Design</category>
 </item>
 <item>
+<title>Submit open application - Tilkal</title>
+<link>https://www.tilkal.com/tilkal-contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Submit open application - Tilkal</title>
+<link>https://www.tilkal.com/tilkal-contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous Application - Heex Technologies</title>
 <link>https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Talent Acquisition Specialist jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Legal Counsel jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/conseil-juridique-emplois?trk=organization_guest_linkster_link</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Researcher jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/chercheur-emplois?trk=organization_guest_linkster_link</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Head of Sales jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/chef-des-ventes-emplois?trk=organization_guest_linkster_link</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Recruiter jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/recruteur-emplois?trk=organization_guest_linkster_link</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Marketing Director jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/directeur-marketing-emplois?trk=organization_guest_linkster_link</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Translator jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/traducteur-emplois?trk=organization_guest_linkster_link</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Information Technology Manager jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/responsable-informatique-emplois?trk=organization_guest_linkster_link</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Architect jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/architecte-emplois?trk=organization_guest_linkster_link</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Research Assistant jobs - Comand AI</title>
-<link>https://fr.linkedin.com/jobs/assistant-de-recherche-emplois?trk=organization_guest_linkster_link</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Submit open application - Tilkal</title>
-<link>https://www.tilkal.com/tilkal-contact</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Submit open application - Tilkal</title>
-<link>https://www.tilkal.com/tilkal-contact</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
