@@ -3,7 +3,13 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Fri, 03 Jul 2026 09:26:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 14:19:17 +0000</lastBuildDate>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
 <item>
 <title>Spontaneous application ↘︎ - Alteia</title>
 <link>https://careers.alteia.com/connect/login</link>
@@ -65,18 +71,6 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
-<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
 <link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
@@ -119,16 +113,10 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
-<description>Sales / Business | Île-de-France</description>
+<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
+<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
+<description>Sales / Business | Bretagne</description>
 <category>Sales / Business</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
 </item>
 <item>
 <title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
@@ -189,6 +177,18 @@
 <link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
+</item>
+<item>
+<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
@@ -317,16 +317,10 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Vibe for Code - MISTRAL AI</title>
+<link>https://chat.mistral.ai/code/extensions</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
 </item>
 <item>
 <title>UX Designer - Bondzai</title>
@@ -359,10 +353,28 @@
 <category>Marketing / Growth</category>
 </item>
 <item>
-<title>Vibe for Code - MISTRAL AI</title>
-<link>https://chat.mistral.ai/code/extensions</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Lead DevOps Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
+<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>RTL Design Manager - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/rtl-design-manager/</link>
+<description>Management / Leadership | Auvergne-Rhône-Alpes</description>
+<category>Management / Leadership</category>
 </item>
 <item>
 <title>Sales ExecutiveRemoteFull Time - Flowlity</title>
@@ -377,16 +389,10 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Lead DevOps Engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
-<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
+<title>Administrateur Webdrone - webdrone</title>
+<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
 <category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>RTL Design Manager - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/rtl-design-manager/</link>
-<description>Management / Leadership | Auvergne-Rhône-Alpes</description>
-<category>Management / Leadership</category>
 </item>
 <item>
 <title>Internships / Stages en Alternance - kentyou</title>
@@ -411,12 +417,6 @@
 <link>https://kentyou.com/2021/08/20/java-developer/</link>
 <description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
 <category>Dev / Engineering</category>
-</item>
-<item>
-<title>Administrateur Webdrone - webdrone</title>
-<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
 </item>
 <item>
 <title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
@@ -515,6 +515,18 @@
 <category>Product / Design</category>
 </item>
 <item>
+<title>Property Management - Deepki</title>
+<link>https://www.deepki.com/property-management/</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Spontaneous Application - Heex Technologies</title>
+<link>https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Talent Acquisition Specialist jobs - Comand AI</title>
 <link>https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link</link>
 <description>RH / People | Île-de-France</description>
@@ -575,18 +587,6 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>Spontaneous Application - Heex Technologies</title>
-<link>https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Property Management - Deepki</title>
-<link>https://www.deepki.com/property-management/</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>Submit open application - Tilkal</title>
 <link>https://www.tilkal.com/tilkal-contact</link>
 <description>Autre | Île-de-France</description>
@@ -597,6 +597,12 @@
 <link>https://www.tilkal.com/tilkal-contact</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
 </item>
 
 </channel>
