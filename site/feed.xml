@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Tue, 07 Jul 2026 03:52:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 09:50:30 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -113,6 +113,30 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
+<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
+<description>Sales / Business | Bretagne</description>
+<category>Sales / Business</category>
+</item>
+<item>
 <title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
 <link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
 <description>IA / ML / Data Science | Île-de-France</description>
@@ -173,54 +197,6 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
-<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7959180-machine-learning-for-event-based-vision-internship-6-12-months</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
@@ -247,6 +223,30 @@
 <item>
 <title>Front-end developer [CDI] - GEEGLEE</title>
 <link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7959180-machine-learning-for-event-based-vision-internship-6-12-months</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
@@ -359,18 +359,6 @@
 <category>Marketing / Growth</category>
 </item>
 <item>
-<title>Sales ExecutiveRemoteFull Time - Flowlity</title>
-<link>https://www.flowlity.com/careers/salesexecutive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Customer Success ManagerRemoteFull-time - Flowlity</title>
-<link>https://www.flowlity.com/careers/customer-success-manager</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
 <link>https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/</link>
 <description>Stage / Alternance | Île-de-France</description>
@@ -381,6 +369,18 @@
 <link>https://www.afterdata.com/alternant-developpeur-web/</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
+</item>
+<item>
+<title>Sales ExecutiveRemoteFull Time - Flowlity</title>
+<link>https://www.flowlity.com/careers/salesexecutive</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Customer Success ManagerRemoteFull-time - Flowlity</title>
+<link>https://www.flowlity.com/careers/customer-success-manager</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Administrateur Webdrone - webdrone</title>
@@ -399,6 +399,18 @@
 <link>https://www.datategy.net/datategy-early-careers-program/</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
+</item>
+<item>
+<title>Spontaneous Application - Heex Technologies</title>
+<link>https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Property Management - Deepki</title>
+<link>https://www.deepki.com/property-management/</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Spontaneous ApplicationAllSan Francisco - Outsight</title>
@@ -491,12 +503,6 @@
 <category>Product / Design</category>
 </item>
 <item>
-<title>Property Management - Deepki</title>
-<link>https://www.deepki.com/property-management/</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>Internships / Stages en Alternance - kentyou</title>
 <link>https://kentyou.com/2023/09/12/alternance/</link>
 <description>Stage / Alternance | Auvergne-Rhône-Alpes</description>
@@ -519,24 +525,6 @@
 <link>https://kentyou.com/2021/08/20/java-developer/</link>
 <description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
 <category>Dev / Engineering</category>
-</item>
-<item>
-<title>Spontaneous Application - Heex Technologies</title>
-<link>https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Lead DevOps Engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
-<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>RTL Design Manager - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/rtl-design-manager/</link>
-<description>Management / Leadership | Auvergne-Rhône-Alpes</description>
-<category>Management / Leadership</category>
 </item>
 <item>
 <title>Talent Acquisition Specialist jobs - Comand AI</title>
@@ -603,6 +591,18 @@
 <link>https://www.tilkal.com/tilkal-contact</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Submit open application - Tilkal</title>
+<link>https://www.tilkal.com/tilkal-contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Lead DevOps Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
+<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
+<category>Ops / Infra / QA</category>
 </item>
 
 </channel>
