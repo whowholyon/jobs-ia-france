@@ -3,11 +3,29 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Mon, 13 Jul 2026 14:44:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 19:34:38 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
+<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
+<description>Sales / Business | Bretagne</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -101,60 +119,6 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
-<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
 <link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
 <description>IA / ML / Data Science | Île-de-France</description>
@@ -205,6 +169,54 @@
 <item>
 <title>Research InternInternshipSep-26Paris / LondonApply - Neuralk-AI</title>
 <link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
@@ -359,16 +371,64 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>UX Designer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Engineering: Embedded Software Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Engineering: AI Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
+<description>IA / ML / Data Science | Occitanie</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Marketing: CPO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
+<description>Management / Leadership | Occitanie</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Marketing : CMO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
+<description>Marketing / Growth | Occitanie</description>
+<category>Marketing / Growth</category>
+</item>
+<item>
+<title>AI Compiler Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/ai-compiler-engineer/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>AI Kernel Optimization Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/ai-kernel-optimization-engineer/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Embedded Networking Software Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/embedded-networking-software-engineer/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Lead DevOps Engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
+<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>embedded networking software test &amp; validation engineer - Kalray</title>
+<link>https://www.kalrayinc.com/jobs/embedded-networking-software-test-validation-engineer/</link>
+<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Demand Planning - Flowlity</title>
@@ -411,36 +471,6 @@
 <link>https://www.flowlity.com/solutions/demand-management/demand-planning</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>UX Designer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Engineering: Embedded Software Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Engineering: AI Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
-<description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Marketing: CPO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
-<description>Management / Leadership | Occitanie</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Marketing : CMO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
-<description>Marketing / Growth | Occitanie</description>
-<category>Marketing / Growth</category>
 </item>
 <item>
 <title>Passer au contenu - webdrone</title>
@@ -573,36 +603,6 @@
 <link>https://www.webdrone.fr/brand-product-protection/</link>
 <description>Product / Design | Bourgogne-Franche-Comté</description>
 <category>Product / Design</category>
-</item>
-<item>
-<title>EXTERNAL CYBERSURVEILLANCE - webdrone</title>
-<link>https://www.webdrone.fr/topic-monitoring/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>ANTI-PIRACY - webdrone</title>
-<link>https://www.webdrone.fr/anti-piracy/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>INVESTIGATIONS &amp; ONLINE PROFILING - webdrone</title>
-<link>https://www.webdrone.fr/investigations/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>PROTECTION DE LA MARQUE - webdrone</title>
-<link>https://www.webdrone.fr/fr/brand-product-protection-2/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>CYBERSURVEILLANCE EXTERNE - webdrone</title>
-<link>https://www.webdrone.fr/fr/topic-monitoring-2/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
 </item>
 
 </channel>
