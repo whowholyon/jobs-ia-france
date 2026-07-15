@@ -3,12 +3,18 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Tue, 14 Jul 2026 19:26:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 02:48:59 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
+<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
+<description>Sales / Business | Bretagne</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
@@ -39,6 +45,18 @@
 <link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Spontaneous application ↘︎ - Alteia</title>
@@ -101,14 +119,20 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
+<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
 </item>
 <item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -167,28 +191,22 @@
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
-<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
-<description>Sales / Business | Bretagne</description>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
-<description>Sales / Business | Île-de-France</description>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
 <category>Sales / Business</category>
 </item>
 <item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
@@ -213,36 +231,6 @@
 <link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
-</item>
-<item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Back-end developer [CDI] - GEEGLEE</title>
@@ -371,6 +359,18 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>UX Designer - Bondzai</title>
 <link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
 <description>Product / Design | Occitanie</description>
@@ -399,90 +399,6 @@
 <link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
 <description>Marketing / Growth | Occitanie</description>
 <category>Marketing / Growth</category>
-</item>
-<item>
-<title>Demand Planning - Flowlity</title>
-<link>https://www.flowlity.com/solutions/demand-management/demand-planning</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Demand Forecasting - Flowlity</title>
-<link>https://www.flowlity.com/solutions/demand-management/demand-planning</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>tailor-made for SMBs - Flowlity</title>
-<link>https://www.flowlity.com/solutions/flowlity-lite</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Free simulators &amp; calculators - Flowlity</title>
-<link>https://www.flowlity.com/resource-hub/tools</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Sales ExecutiveRemoteFull Time - Flowlity</title>
-<link>https://www.flowlity.com/careers/salesexecutive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Customer Success ManagerRemoteFull-time - Flowlity</title>
-<link>https://www.flowlity.com/careers/customer-success-manager</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Demand planning - Flowlity</title>
-<link>https://www.flowlity.com/solutions/demand-management/demand-planning</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Compiler Engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/ai-compiler-engineer/</link>
-<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>AI Kernel Optimization Engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/ai-kernel-optimization-engineer/</link>
-<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Embedded Networking Software Engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/embedded-networking-software-engineer/</link>
-<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Lead DevOps Engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/lead-devops-engineer/</link>
-<description>Ops / Infra / QA | Auvergne-Rhône-Alpes</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>embedded networking software test &amp; validation engineer - Kalray</title>
-<link>https://www.kalrayinc.com/jobs/embedded-networking-software-test-validation-engineer/</link>
-<description>Dev / Engineering | Auvergne-Rhône-Alpes</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus - AfterData</title>
-<link>https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Alternant(e) développeur webPassionné par la data, vous cherchez à développer votre maîtrise des données dans des cas concrets ? Rejoignez-nous !Stage - Paris 13Lire plus - AfterData</title>
-<link>https://www.afterdata.com/alternant-developpeur-web/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
 </item>
 <item>
 <title>Passer au contenu - webdrone</title>
@@ -601,6 +517,90 @@
 <item>
 <title>[email protected] - webdrone</title>
 <link>https://www.webdrone.fr/cdn-cgi/l/email-protection</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>[email protected] - webdrone</title>
+<link>https://www.webdrone.fr/cdn-cgi/l/email-protection</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>BRAND &amp; PRODUCT PROTECTION - webdrone</title>
+<link>https://www.webdrone.fr/brand-product-protection/</link>
+<description>Product / Design | Bourgogne-Franche-Comté</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>EXTERNAL CYBERSURVEILLANCE - webdrone</title>
+<link>https://www.webdrone.fr/topic-monitoring/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>ANTI-PIRACY - webdrone</title>
+<link>https://www.webdrone.fr/anti-piracy/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>INVESTIGATIONS &amp; ONLINE PROFILING - webdrone</title>
+<link>https://www.webdrone.fr/investigations/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>PROTECTION DE LA MARQUE - webdrone</title>
+<link>https://www.webdrone.fr/fr/brand-product-protection-2/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>CYBERSURVEILLANCE EXTERNE - webdrone</title>
+<link>https://www.webdrone.fr/fr/topic-monitoring-2/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>ANTI-PIRATERIE - webdrone</title>
+<link>https://www.webdrone.fr/fr/anti-piracy-webdrone/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>INVESTIGATIONS &amp; ONLINE PROFILING - webdrone</title>
+<link>https://www.webdrone.fr/fr/online-profiling/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>COMPANY - webdrone</title>
+<link>https://www.webdrone.fr/about/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>QUALITY &amp; ETHICS CHARTER - webdrone</title>
+<link>https://www.webdrone.fr/quality-ethic-charter/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>WORK WITH US - webdrone</title>
+<link>https://www.webdrone.fr/work-with-us/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>NOTRE ENTREPRISE - webdrone</title>
+<link>https://www.webdrone.fr/fr/a-propos/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>CHARTE QUALITÉ &amp; ÉTHIQUE - webdrone</title>
+<link>https://www.webdrone.fr/fr/charte-qualite-ethique/</link>
 <description>Autre | Bourgogne-Franche-Comté</description>
 <category>Autre</category>
 </item>
