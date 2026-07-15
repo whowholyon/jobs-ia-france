@@ -1,13 +1,10 @@
 Categorie	Startup	Tier	Region	Titre du poste	Lien offre	Tech startup	Site startup
 Autre	tchek	A	Provence-Alpes-Côte d'Azur	Spontaneous application	https://www.tchek.ai/company/career#spontaneous-application	+2 deep learning, +2 computer vision, +2 edge AI	https://www.tchek.ai/
-Sales / Business	SKYLD	A	Bretagne	Business Development Representative1poste disponibleRennes,France	https://skyld.odoo.com/jobs/business-development-representative-4	+2 deep learning, +2 neural network, +2 machine learning, +2 GPU, +2 PhD, +2 edge AI	https://www.skyld.io/
 Autre	Alta Ares	A	Île-de-France	Spontaneous ApplicationAll officesApply Now	https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Management / Leadership	Alta Ares	A	Île-de-France	Export Control & Compliance DirectorParis, FranceApply Now	https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Dev / Engineering	Alta Ares	A	Île-de-France	Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now	https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Autre	Alta Ares	A	Île-de-France	Spontaneous ApplicationAll officesApply Now	https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Management / Leadership	Alta Ares	A	Île-de-France	Export Control & Compliance DirectorParis, FranceApply Now	https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
-Data	Adaptive ML	B	Île-de-France	business intelligence	https://www.adaptive-ml.com/use-case/text-to-sql	+2 reinforcement learning, +2 fine-tuning, +2 annotation, +2 inference	https://www.adaptive-ml.com/
-Autre	Adaptive ML	B	Île-de-France	customer support	https://www.adaptive-ml.com/use-case/customer-support	+2 reinforcement learning, +2 fine-tuning, +2 annotation, +2 inference	https://www.adaptive-ml.com/
 Autre	Alteia	B	Occitanie	Spontaneous application ↘︎	https://careers.alteia.com/connect/login	+2 computer vision, +2 machine learning, +2 dataset	https://alteia.com/
 Product / Design	Alteia	B	Occitanie	Product Owner - Transverse Components & 3DProduct·Toulouse·Hybrid	https://careers.alteia.com/jobs/7541820-product-owner-transverse-components-3d	+2 computer vision, +2 machine learning, +2 dataset	https://alteia.com/
 Dev / Engineering	Alteia	B	Occitanie	Tech Lead BackendEngineering·Toulouse·Hybrid	https://careers.alteia.com/jobs/7403606-tech-lead-backend	+2 computer vision, +2 machine learning, +2 dataset	https://alteia.com/
@@ -18,6 +15,9 @@ Dev / Engineering	Alteia	B	Occitanie	Full Stack Software EngineerEngineering·To
 Data	Alteia	B	Occitanie	Data EngineerEngineering·Toulouse·Hybrid	https://careers.alteia.com/jobs/6639187-data-engineer	+2 computer vision, +2 machine learning, +2 dataset	https://alteia.com/
 Dev / Engineering	Alteia	B	Occitanie	Backend DeveloperEngineering·Toulouse·Temporarily Remote	https://careers.alteia.com/jobs/6484629-backend-developer	+2 computer vision, +2 machine learning, +2 dataset	https://alteia.com/
 Sales / Business	Alteia	B	Occitanie	Enterprise Sales Manager H/FSales & Marketing·USA·Fully Remote	https://careers.alteia.com/jobs/6007180-enterprise-sales-manager-h-f	+2 computer vision, +2 machine learning, +2 dataset	https://alteia.com/
+Data	Adaptive ML	B	Île-de-France	business intelligence	https://www.adaptive-ml.com/use-case/text-to-sql	+2 reinforcement learning, +2 fine-tuning, +2 annotation, +2 inference	https://www.adaptive-ml.com/
+Autre	Adaptive ML	B	Île-de-France	customer support	https://www.adaptive-ml.com/use-case/customer-support	+2 reinforcement learning, +2 fine-tuning, +2 annotation, +2 inference	https://www.adaptive-ml.com/
+Sales / Business	SKYLD	A	Bretagne	Business Development Representative1poste disponibleRennes,France	https://skyld.odoo.com/jobs/business-development-representative-4	+2 deep learning, +2 neural network, +2 machine learning, +2 GPU, +2 PhD, +2 edge AI	https://www.skyld.io/
 Sales / Business	Scortex	B	Île-de-France	Senior Account Executive ItalyFull-TimeTorino	https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris	+2 deep learning, +2 GPU, +2 dataset	http://scortex.io/
 IA / ML / Data Science	Scortex	B	Île-de-France	MLOps EngineerFull-TimeParis	https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris	+2 deep learning, +2 GPU, +2 dataset	http://scortex.io/
 Autre	Scortex	B	Île-de-France	Spontaneous Application	https://scortex.welcomekit.co/jobs/candidatures-spontanees	+2 deep learning, +2 GPU, +2 dataset	http://scortex.io/
@@ -58,13 +58,6 @@ Autre	MISTRAL AI	B	Île-de-France	Introducing Robostral Navigate	https://mistral
 IA / ML / Data Science	MISTRAL AI	B	Île-de-France	Vibe for Code	https://chat.mistral.ai/code/extensions	+2 fine-tuning, +2 nos modèles	https://mistral.ai/fr/
 Autre	MISTRAL AI	B	Île-de-France	Postulez	https://jobs.ashbyhq.com/mistral.ai	+2 fine-tuning, +2 nos modèles	https://mistral.ai/fr/
 Autre	MISTRAL AI	B	Île-de-France	Postuler maintenant	https://jobs.ashbyhq.com/mistral.ai	+2 fine-tuning, +2 nos modèles	https://mistral.ai/fr/
-Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
-Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
-Product / Design	Bondzai	B	Occitanie	UX Designer	https://www.bondzai.io/2022/04/29/ux-designer/	+2 deep learning, +2 machine learning	www.bondzai.io
-Dev / Engineering	Bondzai	B	Occitanie	Engineering: Embedded Software Engineer	https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
-IA / ML / Data Science	Bondzai	B	Occitanie	Engineering: AI Engineer	https://www.bondzai.io/2022/04/27/engineering-ai-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
-Management / Leadership	Bondzai	B	Occitanie	Marketing: CPO	https://www.bondzai.io/2022/04/27/marketing-cpo/	+2 deep learning, +2 machine learning	www.bondzai.io
-Marketing / Growth	Bondzai	B	Occitanie	Marketing : CMO	https://www.bondzai.io/2022/04/27/marketing-cmo/	+2 deep learning, +2 machine learning	www.bondzai.io
 Autre	webdrone	B	Bourgogne-Franche-Comté	Passer au contenu	https://www.webdrone.fr/fr/nous-rejoindre/#content	+2 PhD, +2 transformer, +2 entraîné	http://www.webdrone.fr
 Ops / Infra / QA	webdrone	B	Bourgogne-Franche-Comté	CYBERSURVEILLANCE EXTERNEProtégez vos actifs stratégiques contre les menaces externes	https://www.webdrone.fr/fr/topic-monitoring-2/	+2 PhD, +2 transformer, +2 entraîné	http://www.webdrone.fr
 Autre	webdrone	B	Bourgogne-Franche-Comté	INVESTIGATIONS DIGITALES & FRAUDESScorez l'empreinte numérique d'une personne physique ou morale	https://www.webdrone.fr/fr/online-profiling/	+2 PhD, +2 transformer, +2 entraîné	http://www.webdrone.fr
@@ -115,24 +108,21 @@ Autre	Flowlity	B	Île-de-France	Free simulators & calculators	https://www.flowli
 Sales / Business	Flowlity	B	Île-de-France	Sales ExecutiveRemoteFull Time	https://www.flowlity.com/careers/salesexecutive	+2 machine learning, +2 dataset	www.flowlity.com
 Sales / Business	Flowlity	B	Île-de-France	Customer Success ManagerRemoteFull-time	https://www.flowlity.com/careers/customer-success-manager	+2 machine learning, +2 dataset	www.flowlity.com
 Autre	Flowlity	B	Île-de-France	Demand planning	https://www.flowlity.com/solutions/demand-management/demand-planning	+2 machine learning, +2 dataset	www.flowlity.com
+Product / Design	Bondzai	B	Occitanie	UX Designer	https://www.bondzai.io/2022/04/29/ux-designer/	+2 deep learning, +2 machine learning	www.bondzai.io
+Dev / Engineering	Bondzai	B	Occitanie	Engineering: Embedded Software Engineer	https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
+IA / ML / Data Science	Bondzai	B	Occitanie	Engineering: AI Engineer	https://www.bondzai.io/2022/04/27/engineering-ai-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
+Management / Leadership	Bondzai	B	Occitanie	Marketing: CPO	https://www.bondzai.io/2022/04/27/marketing-cpo/	+2 deep learning, +2 machine learning	www.bondzai.io
+Marketing / Growth	Bondzai	B	Occitanie	Marketing : CMO	https://www.bondzai.io/2022/04/27/marketing-cmo/	+2 deep learning, +2 machine learning	www.bondzai.io
 Dev / Engineering	Kalray	B	Auvergne-Rhône-Alpes	AI Compiler Engineer	https://www.kalrayinc.com/jobs/ai-compiler-engineer/	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Dev / Engineering	Kalray	B	Auvergne-Rhône-Alpes	AI Kernel Optimization Engineer	https://www.kalrayinc.com/jobs/ai-kernel-optimization-engineer/	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Dev / Engineering	Kalray	B	Auvergne-Rhône-Alpes	Embedded Networking Software Engineer	https://www.kalrayinc.com/jobs/embedded-networking-software-engineer/	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Ops / Infra / QA	Kalray	B	Auvergne-Rhône-Alpes	Lead DevOps Engineer	https://www.kalrayinc.com/jobs/lead-devops-engineer/	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Dev / Engineering	Kalray	B	Auvergne-Rhône-Alpes	embedded networking software test & validation engineer	https://www.kalrayinc.com/jobs/embedded-networking-software-test-validation-engineer/	+2 machine learning, +2 computer-vision	www.kalrayinc.com
-Stage / Alternance	AfterData	B	Île-de-France	Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus	https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/	+2 machine learning, +2 data scientist	https://www.afterdata.com/
-Stage / Alternance	AfterData	B	Île-de-France	Alternant(e) développeur webPassionné par la data, vous cherchez à développer votre maîtrise des données dans des cas concrets ? Rejoignez-nous !Stage - Paris 13Lire plus	https://www.afterdata.com/alternant-developpeur-web/	+2 machine learning, +2 data scientist	https://www.afterdata.com/
-Autre	Comand AI	B	Île-de-France	DelairAviation and Aerospace Component ManufacturingToulouse-Labège, Midi-Pyrénées	https://fr.linkedin.com/company/delair-tech?trk=similar-pages	+2 reinforcement learning, +2 open-source	https://comand.ai/
-RH / People	Comand AI	B	Île-de-France	Talent Acquisition Specialist jobs	https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-Autre	Comand AI	B	Île-de-France	Legal Counsel jobs	https://fr.linkedin.com/jobs/conseil-juridique-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-IA / ML / Data Science	Comand AI	B	Île-de-France	Researcher jobs	https://fr.linkedin.com/jobs/chercheur-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-Sales / Business	Comand AI	B	Île-de-France	Head of Sales jobs	https://fr.linkedin.com/jobs/chef-des-ventes-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-RH / People	Comand AI	B	Île-de-France	Recruiter jobs	https://fr.linkedin.com/jobs/recruteur-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-Marketing / Growth	Comand AI	B	Île-de-France	Marketing Director jobs	https://fr.linkedin.com/jobs/directeur-marketing-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-Autre	Comand AI	B	Île-de-France	Translator jobs	https://fr.linkedin.com/jobs/traducteur-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-Ops / Infra / QA	Comand AI	B	Île-de-France	Information Technology Manager jobs	https://fr.linkedin.com/jobs/responsable-informatique-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-Dev / Engineering	Comand AI	B	Île-de-France	Architect jobs	https://fr.linkedin.com/jobs/architecte-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
-IA / ML / Data Science	Comand AI	B	Île-de-France	Research Assistant jobs	https://fr.linkedin.com/jobs/assistant-de-recherche-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
+Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
+Sales / Business	Deepki	B	Île-de-France	Property Management	https://www.deepki.com/property-management/	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
+Autre	Deepki	B	Île-de-France	Stranded Asset Risk Calculator	https://www.deepki.com/stranded-asset-risk	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
+Autre	Deepki	B	Île-de-France	Compliance Map	https://www.deepki.com/stranded-asset-risk/map	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
 Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllSan Francisco	https://jobs.lever.co/outsight/14083967-fc44-4564-ab71-da8cd2378ea2	+2 lidar, +2 LiDAR	www.outsight.ai
 Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllParis - Sophia Antipolis	https://jobs.lever.co/outsight/552e966a-4382-45e9-8928-ed86f70724ed	+2 lidar, +2 LiDAR	www.outsight.ai
 Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllSingapore	https://jobs.lever.co/outsight/f720f338-0cbd-4aa7-85bf-ad1836390deb	+2 lidar, +2 LiDAR	www.outsight.ai
@@ -146,16 +136,26 @@ Ops / Infra / QA	Outsight	B	Île-de-France	Customer Validation EngineerCustomer 
 Dev / Engineering	Outsight	B	Île-de-France	Field Application EngineerField Application EngineeringPermanentParis	https://jobs.lever.co/outsight/aa811f51-b8d4-4fa4-b879-afb20b95c076	+2 lidar, +2 LiDAR	www.outsight.ai
 Management / Leadership	Outsight	B	Île-de-France	Head of IT & Systems ArchitectureIT & Systems ArchitecturePermanentParis	https://jobs.lever.co/outsight/974428d4-0c32-493a-be74-78d875a49111	+2 lidar, +2 LiDAR	www.outsight.ai
 Product / Design	Outsight	B	Île-de-France	Senior Product Manager - Platform & InfrastructureProductPermanentParis	https://jobs.lever.co/outsight/d66021fb-a1d8-4eec-818d-1883a193f525	+2 lidar, +2 LiDAR	www.outsight.ai
-Sales / Business	Deepki	B	Île-de-France	Property Management	https://www.deepki.com/property-management/	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
-Autre	Deepki	B	Île-de-France	Stranded Asset Risk Calculator	https://www.deepki.com/stranded-asset-risk	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
-Autre	Deepki	B	Île-de-France	Compliance Map	https://www.deepki.com/stranded-asset-risk/map	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
+Stage / Alternance	AfterData	B	Île-de-France	Alternance/Stage – Data scientist – Développeur PythonStage - Paris 13Lire plus	https://www.afterdata.com/alternance-stage-data-scientist-developpeur-python-startup-fintech/	+2 machine learning, +2 data scientist	https://www.afterdata.com/
+Stage / Alternance	AfterData	B	Île-de-France	Alternant(e) développeur webPassionné par la data, vous cherchez à développer votre maîtrise des données dans des cas concrets ? Rejoignez-nous !Stage - Paris 13Lire plus	https://www.afterdata.com/alternant-developpeur-web/	+2 machine learning, +2 data scientist	https://www.afterdata.com/
 Stage / Alternance	kentyou	B	Auvergne-Rhône-Alpes	Internships / Stages en Alternance	https://kentyou.com/2023/09/12/alternance/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
 Data	kentyou	B	Auvergne-Rhône-Alpes	Data Analyst	https://kentyou.com/2023/08/07/data-analyst/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
 Dev / Engineering	kentyou	B	Auvergne-Rhône-Alpes	Full-Stack Developer	https://kentyou.com/2023/08/07/full-stack-developer/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
 Dev / Engineering	kentyou	B	Auvergne-Rhône-Alpes	Java Developer and Platform Engineer	https://kentyou.com/2021/08/20/java-developer/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
+Autre	Comand AI	B	Île-de-France	DelairAviation and Aerospace Component ManufacturingToulouse-Labège, Midi-Pyrénées	https://fr.linkedin.com/company/delair-tech?trk=similar-pages	+2 reinforcement learning, +2 open-source	https://comand.ai/
+RH / People	Comand AI	B	Île-de-France	Talent Acquisition Specialist jobs	https://fr.linkedin.com/jobs/acquisition-de-talents-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Autre	Comand AI	B	Île-de-France	Legal Counsel jobs	https://fr.linkedin.com/jobs/conseil-juridique-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+IA / ML / Data Science	Comand AI	B	Île-de-France	Researcher jobs	https://fr.linkedin.com/jobs/chercheur-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Sales / Business	Comand AI	B	Île-de-France	Head of Sales jobs	https://fr.linkedin.com/jobs/chef-des-ventes-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+RH / People	Comand AI	B	Île-de-France	Recruiter jobs	https://fr.linkedin.com/jobs/recruteur-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Marketing / Growth	Comand AI	B	Île-de-France	Marketing Director jobs	https://fr.linkedin.com/jobs/directeur-marketing-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Autre	Comand AI	B	Île-de-France	Translator jobs	https://fr.linkedin.com/jobs/traducteur-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Ops / Infra / QA	Comand AI	B	Île-de-France	Information Technology Manager jobs	https://fr.linkedin.com/jobs/responsable-informatique-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Dev / Engineering	Comand AI	B	Île-de-France	Architect jobs	https://fr.linkedin.com/jobs/architecte-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+IA / ML / Data Science	Comand AI	B	Île-de-France	Research Assistant jobs	https://fr.linkedin.com/jobs/assistant-de-recherche-emplois?trk=organization_guest_linkster_link	+2 reinforcement learning, +2 open-source	https://comand.ai/
+Autre	Tilkal	B	Île-de-France	Submit open application	https://www.tilkal.com/tilkal-contact	+2 GPU, +2 dataset	www.tilkal.com
+Autre	Tilkal	B	Île-de-France	Submit open application	https://www.tilkal.com/tilkal-contact	+2 GPU, +2 dataset	www.tilkal.com
 Autre	Heex Technologies	B	Île-de-France	Spontaneous Application	https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009	+2 data science, +2 dataset	www.heex.io
-Autre	Tilkal	B	Île-de-France	Submit open application	https://www.tilkal.com/tilkal-contact	+2 GPU, +2 dataset	www.tilkal.com
-Autre	Tilkal	B	Île-de-France	Submit open application	https://www.tilkal.com/tilkal-contact	+2 GPU, +2 dataset	www.tilkal.com
 Autre	Kardinal	B	Île-de-France	Use Cases	https://kardinal.ai/kardinal-solution-use-cases/	+2 machine learning, +2 dataset, +2 transformer	https://kardinal.ai/fr/
 Autre	Kardinal	B	Île-de-France	Industries	https://kardinal.ai/kardinal-solution-industries/	+2 machine learning, +2 dataset, +2 transformer	https://kardinal.ai/fr/
 Autre	Kardinal	B	Île-de-France	About Kardinal	https://kardinal.ai/about-us-kardinal/	+2 machine learning, +2 dataset, +2 transformer	https://kardinal.ai/fr/
@@ -167,5 +167,5 @@ Ops / Infra / QA	Kardinal	B	Île-de-France	Clients cases and testimonials	https:
 Autre	Kardinal	B	Île-de-France	Case Studies	https://kardinal.ai/case-studies/	+2 machine learning, +2 dataset, +2 transformer	https://kardinal.ai/fr/
 Autre	Kardinal	B	Île-de-France	Downloadable reports and videos	https://kardinal.ai/videos-and-reports/	+2 machine learning, +2 dataset, +2 transformer	https://kardinal.ai/fr/
 Autre	Kardinal	B	Île-de-France	Contact	https://kardinal.ai/contact/	+2 machine learning, +2 dataset, +2 transformer	https://kardinal.ai/fr/
-Autre	Getmint	B	Île-de-France	[email protected]	https://team.getmint.ai/cdn-cgi/l/email-protection#442e2b263704232130292d2a306a252d	+2 GPU, +2 PhD	www.getmint.ai/
-Autre	Hiboo	B	Île-de-France	[email protected]	https://www.notion.so/cdn-cgi/l/email-protection#5c3633353271292f1c34353e3333723533	+2 GPU, +2 PhD	https://www.hiboo.io/
+Autre	Getmint	B	Île-de-France	[email protected]	https://team.getmint.ai/cdn-cgi/l/email-protection#7913161b0a391e1c0d1410170d571810	+2 GPU, +2 PhD	www.getmint.ai/
+Autre	Hiboo	B	Île-de-France	[email protected]	https://www.notion.so/cdn-cgi/l/email-protection#5832373136752d2b1830313a3737763137	+2 GPU, +2 PhD	https://www.hiboo.io/

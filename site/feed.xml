@@ -3,18 +3,12 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Wed, 15 Jul 2026 02:48:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 08:21:54 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
 <category>Autre</category>
-</item>
-<item>
-<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
-<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
 </item>
 <item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
@@ -45,18 +39,6 @@
 <link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
 </item>
 <item>
 <title>Spontaneous application ↘︎ - Alteia</title>
@@ -116,6 +98,24 @@
 <title>Enterprise Sales Manager H/FSales &amp; Marketing·USA·Fully Remote - Alteia</title>
 <link>https://careers.alteia.com/jobs/6007180-enterprise-sales-manager-h-f</link>
 <description>Sales / Business | Occitanie</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
+<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
+<description>Sales / Business | Bretagne</description>
 <category>Sales / Business</category>
 </item>
 <item>
@@ -359,48 +359,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>UX Designer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Engineering: Embedded Software Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Engineering: AI Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
-<description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Marketing: CPO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
-<description>Management / Leadership | Occitanie</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Marketing : CMO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
-<description>Marketing / Growth | Occitanie</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
 <title>Passer au contenu - webdrone</title>
 <link>https://www.webdrone.fr/fr/nous-rejoindre/#content</link>
 <description>Autre | Bourgogne-Franche-Comté</description>
@@ -601,6 +559,48 @@
 <item>
 <title>CHARTE QUALITÉ &amp; ÉTHIQUE - webdrone</title>
 <link>https://www.webdrone.fr/fr/charte-qualite-ethique/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>NOUS REJOINDRE - webdrone</title>
+<link>https://www.webdrone.fr/fr/nous-rejoindre/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>REQUEST A DEMO - webdrone</title>
+<link>https://www.webdrone.fr/contact-us/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>TALK TO AN EXPERT - webdrone</title>
+<link>https://www.webdrone.fr/contact-us/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>DEMANDER UNE DÉMO - webdrone</title>
+<link>https://www.webdrone.fr/fr/contactez-nous/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>RENCONTRER UN EXPERT - webdrone</title>
+<link>https://www.webdrone.fr/fr/contactez-nous/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Politique de confidentialité - webdrone</title>
+<link>https://www.webdrone.fr/fr/politique-de-confidentialite/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Mentions Légales - webdrone</title>
+<link>https://www.webdrone.fr/fr/mentions-legales/</link>
 <description>Autre | Bourgogne-Franche-Comté</description>
 <category>Autre</category>
 </item>
