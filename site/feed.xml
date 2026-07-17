@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Fri, 17 Jul 2026 13:47:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 19:16:56 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -71,6 +71,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
 <link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
@@ -99,18 +111,6 @@
 <link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
 </item>
 <item>
 <title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
@@ -269,18 +269,6 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
 <title>Engineering3 open positions - Akur8</title>
 <link>https://www.akur8.com/teams/engineering</link>
 <description>Dev / Engineering | Île-de-France</description>
@@ -335,6 +323,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>Your Prompts and Skills need a system of record. - MISTRAL AI</title>
 <link>https://mistral.ai/news/manage-prompts-and-skills-in-studio</link>
 <description>Autre | Île-de-France</description>
@@ -375,6 +375,36 @@
 <link>https://jobs.ashbyhq.com/mistral.ai</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>UX Designer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Engineering: Embedded Software Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Engineering: AI Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
+<description>IA / ML / Data Science | Occitanie</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Marketing: CPO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
+<description>Management / Leadership | Occitanie</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Marketing : CMO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
+<description>Marketing / Growth | Occitanie</description>
+<category>Marketing / Growth</category>
 </item>
 <item>
 <title>Demand Planning - Flowlity</title>
@@ -573,36 +603,6 @@
 <link>https://www.webdrone.fr/fr/brand-product-protection-2/</link>
 <description>Autre | Bourgogne-Franche-Comté</description>
 <category>Autre</category>
-</item>
-<item>
-<title>CYBERSURVEILLANCE EXTERNE - webdrone</title>
-<link>https://www.webdrone.fr/fr/topic-monitoring-2/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>ANTI-PIRATERIE - webdrone</title>
-<link>https://www.webdrone.fr/fr/anti-piracy-webdrone/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>INVESTIGATIONS &amp; ONLINE PROFILING - webdrone</title>
-<link>https://www.webdrone.fr/fr/online-profiling/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>COMPANY - webdrone</title>
-<link>https://www.webdrone.fr/about/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>QUALITY &amp; ETHICS CHARTER - webdrone</title>
-<link>https://www.webdrone.fr/quality-ethic-charter/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
 </item>
 
 </channel>
