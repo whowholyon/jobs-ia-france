@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sat, 18 Jul 2026 19:11:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 03:21:05 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -71,6 +71,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
 <link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
@@ -101,6 +113,12 @@
 <category>Management / Leadership</category>
 </item>
 <item>
+<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
+<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
+<description>Sales / Business | Bretagne</description>
+<category>Sales / Business</category>
+</item>
+<item>
 <title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
 <link>https://scortex.welcomekit.co/jobs/senior-account-executive-italy_paris</link>
 <description>Sales / Business | Île-de-France</description>
@@ -119,76 +137,34 @@
 <category>Autre</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
-<link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
-<description>Sales / Business | Bretagne</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Forward Deployed EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
+<title>Internship — Multimodal Perception and Sensor Fusion for Robotics (6-12 ...Software·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/8080088-internship-multimodal-perception-and-sensor-fusion-for-robotics-6-12-months</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Machine Learning EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Product DesignerFull TimeOpening SoonParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
-<description>Product / Design | Île-de-France</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Research EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/research-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Senior Account ExecutiveFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>Business Development InternInternshipMar-26Paris / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/business-development-intern</link>
+<title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7959180-machine-learning-for-event-based-vision-internship-6-12-months</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
 </item>
 <item>
-<title>Research InternInternshipSep-26Paris / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/reseach-intern</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
+<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
@@ -225,6 +201,18 @@
 <link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Back-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Front-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -281,18 +269,6 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Back-end developer [CDI] - GEEGLEE</title>
-<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Front-end developer [CDI] - GEEGLEE</title>
-<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
 <title>Your Prompts and Skills need a system of record. - MISTRAL AI</title>
 <link>https://mistral.ai/news/manage-prompts-and-skills-in-studio</link>
 <description>Autre | Île-de-France</description>
@@ -345,36 +321,6 @@
 <link>https://www.datategy.net/datategy-early-careers-program/</link>
 <description>Stage / Alternance | Île-de-France</description>
 <category>Stage / Alternance</category>
-</item>
-<item>
-<title>Internship — Multimodal Perception and Sensor Fusion for Robotics (6-12 ...Software·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/8080088-internship-multimodal-perception-and-sensor-fusion-for-robotics-6-12-months</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7959180-machine-learning-for-event-based-vision-internship-6-12-months</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Demand Planning - Flowlity</title>
@@ -575,6 +521,54 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
+<title>Property Management - Deepki</title>
+<link>https://www.deepki.com/property-management/</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Stranded Asset Risk Calculator - Deepki</title>
+<link>https://www.deepki.com/stranded-asset-risk</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Compliance Map - Deepki</title>
+<link>https://www.deepki.com/stranded-asset-risk/map</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Solutions - Deepki</title>
+<link>https://www.deepki.com/platform/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Who we serve - Deepki</title>
+<link>https://www.deepki.com/solutions/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Property Management - Deepki</title>
+<link>https://www.deepki.com/property-management/</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Stranded Asset Risk Calculator - Deepki</title>
+<link>https://www.deepki.com/stranded-asset-risk/?asset=office&amp;country=FR&amp;age=1990_2010&amp;area=8000&amp;report_url=https%3A%2F%2Fwww.deepki.com%2Fstranded-asset-risk%2Freport.php%3Fasset%3Doffice%26country%3DFR%26age%3D1990_2010%26area%3D8000</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Compliance Map - Deepki</title>
+<link>https://www.deepki.com/stranded-asset-risk/map?isos=MT&amp;markets=Malta&amp;pack_url=https%3A%2F%2Fwww.deepki.com%2Fstranded-asset-risk%2Fpack.php%3Fisos%3DMT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous ApplicationAllSan Francisco - Outsight</title>
 <link>https://jobs.lever.co/outsight/14083967-fc44-4564-ab71-da8cd2378ea2</link>
 <description>Autre | Île-de-France</description>
@@ -603,6 +597,12 @@
 <link>https://jobs.lever.co/outsight/59d5828b-8bbf-41cd-b2f8-03e32a2f2e4d</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
+</item>
+<item>
+<title>Senior Data EngineerApplications &amp; DataPermanentParis - Outsight</title>
+<link>https://jobs.lever.co/outsight/98c02b74-b4de-4bcb-942a-4d3d415df335</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
 </item>
 
 </channel>
