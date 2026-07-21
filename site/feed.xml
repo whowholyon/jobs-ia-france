@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Mon, 20 Jul 2026 19:48:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 03:15:56 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -71,6 +71,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
 <link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
@@ -101,18 +113,6 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Business Development Representative1poste disponibleRennes,France - SKYLD</title>
 <link>https://skyld.odoo.com/jobs/business-development-representative-4</link>
 <description>Sales / Business | Bretagne</description>
@@ -135,24 +135,6 @@
 <link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
 </item>
 <item>
 <title>Internship — Multimodal Perception and Sensor Fusion for Robotics (6-12 ...Software·Paris - PROPHESEE</title>
@@ -183,6 +165,150 @@
 <link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
+</item>
+<item>
+<title>Welcome to the jungle logo - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Find a job - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/jobs</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Explore companies - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Candidate resources - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/media</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Recruiter resources - Heuritech</title>
+<link>https://solutions.welcometothejungle.com/en/resources</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AI Candidate Coach - Heuritech</title>
+<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>I'm a recruiter - Heuritech</title>
+<link>https://solutions.welcometothejungle.com/en/?utm_source=welcometothejungle.com&amp;utm_medium=referral&amp;utm_campaign=cta_become_customer_header</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Sign in - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/authenticate/signin?redirect=%2F</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Explore companies - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AI Candidate Coach - Heuritech</title>
+<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Need help? - Heuritech</title>
+<link>https://help.welcometothejungle.com/en/im-a-candidate</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Have an account? Log in - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/authenticate/signin</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Welcome Hiring Suite - Heuritech</title>
+<link>https://solutions.welcometothejungle.com/en/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Employer branding - Heuritech</title>
+<link>https://solutions.welcometothejungle.com/en/employer-brand</link>
+<description>Marketing / Growth | Île-de-France</description>
+<category>Marketing / Growth</category>
+</item>
+<item>
+<title>Pricing - Heuritech</title>
+<link>https://solutions.welcometothejungle.com/en/pricing</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Clients' testimonials - Heuritech</title>
+<link>https://solutions.welcometothejungle.com/en/case-study</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Resources - Heuritech</title>
+<link>https://solutions.welcometothejungle.com/en/resources</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Need help? - Heuritech</title>
+<link>https://help.welcometothejungle.com/en/im-a-client</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Have an account? Log in - Heuritech</title>
+<link>https://myaccount.welcometothejungle.com/signin</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Our concept and story - Heuritech</title>
+<link>https://about.welcometothejungle.com/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>We're hiring - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/companies/wttj</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Legal notice - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/pages/legal</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Terms of service - Heuritech</title>
+<link>https://www.welcometothejungle.com/en/pages/terms</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Legal center - Heuritech</title>
+<link>https://wttj.notion.site/legal-hub</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Welcome to the jungle logo - Orakl Oncology</title>
@@ -347,24 +473,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Back-end developer [CDI] - GEEGLEE</title>
 <link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
 <description>Dev / Engineering | Île-de-France</description>
@@ -375,6 +483,24 @@
 <link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Engineering3 open positions - Akur8</title>
@@ -473,136 +599,10 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Passer au contenu - webdrone</title>
-<link>https://www.webdrone.fr/fr/nous-rejoindre/#content</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>CYBERSURVEILLANCE EXTERNEProtégez vos actifs stratégiques contre les menaces externes - webdrone</title>
-<link>https://www.webdrone.fr/fr/topic-monitoring-2/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>INVESTIGATIONS DIGITALES &amp; FRAUDESScorez l'empreinte numérique d'une personne physique ou morale - webdrone</title>
-<link>https://www.webdrone.fr/fr/online-profiling/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>PROTECTION DES VENTESProtégez vos canaux de vente contre le commerce illicite - webdrone</title>
-<link>https://www.webdrone.fr/fr/brand-product-protection-2/</link>
-<description>Product / Design | Bourgogne-Franche-Comté</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>ANTI-PIRATERIEMettez fin à l'utilisation frauduleuse des logiciels et droits d'auteurs - webdrone</title>
-<link>https://www.webdrone.fr/fr/anti-piracy-webdrone/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>RESSOURCES - webdrone</title>
-<link>https://www.webdrone.fr/fr/ressources/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>A PROPOS - webdrone</title>
-<link>https://www.webdrone.fr/fr/a-propos/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>PARLER À UN EXPERT - webdrone</title>
-<link>https://www.webdrone.fr/fr/contactez-nous/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Français - webdrone</title>
-<link>https://www.webdrone.fr/fr/nous-rejoindre/#pll_switcher</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>English - webdrone</title>
-<link>https://www.webdrone.fr/en/work-with-us/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Français - webdrone</title>
-<link>https://www.webdrone.fr/fr/nous-rejoindre/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>CYBERSURVEILLANCE EXTERNE - webdrone</title>
-<link>https://www.webdrone.fr/fr/topic-monitoring-2/</link>
-<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>INVESTIGATIONS - webdrone</title>
-<link>https://www.webdrone.fr/fr/online-profiling/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>PROTECTION DES ACTIFS - webdrone</title>
-<link>https://www.webdrone.fr/fr/brand-product-protection-2/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>ANTI-PIRATERIE - webdrone</title>
-<link>https://www.webdrone.fr/fr/anti-piracy-webdrone/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>RESSOURCES - webdrone</title>
-<link>https://www.webdrone.fr/fr/ressources/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>À PROPOS - webdrone</title>
-<link>https://www.webdrone.fr/fr/a-propos/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>PARLER À UN EXPERT - webdrone</title>
-<link>https://www.webdrone.fr/fr/contactez-nous/</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Administrateur Webdrone - webdrone</title>
-<link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
-<description>Sales / Business | Bourgogne-Franche-Comté</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>[email protected] - webdrone</title>
-<link>https://www.webdrone.fr/cdn-cgi/l/email-protection</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>[email protected] - webdrone</title>
-<link>https://www.webdrone.fr/cdn-cgi/l/email-protection</link>
-<description>Autre | Bourgogne-Franche-Comté</description>
-<category>Autre</category>
-</item>
-<item>
-<title>BRAND &amp; PRODUCT PROTECTION - webdrone</title>
-<link>https://www.webdrone.fr/brand-product-protection/</link>
-<description>Product / Design | Bourgogne-Franche-Comté</description>
-<category>Product / Design</category>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 
 </channel>
