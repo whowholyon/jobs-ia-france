@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Fri, 24 Jul 2026 03:14:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 08:32:58 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
@@ -71,6 +71,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
 <link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
@@ -101,16 +113,22 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
 </item>
 <item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Senior Account Executive ItalyFull-TimeTorino - Scortex</title>
@@ -137,22 +155,34 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Internship — Multimodal Perception and Sensor Fusion for Robotics (6-12 ...Software·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/8080088-internship-multimodal-perception-and-sensor-fusion-for-robotics-6-12-months</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7959180-machine-learning-for-event-based-vision-internship-6-12-months</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
 </item>
 <item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Welcome to the jungle logo - Heuritech</title>
@@ -299,36 +329,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Internship — Multimodal Perception and Sensor Fusion for Robotics (6-12 ...Software·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/8080088-internship-multimodal-perception-and-sensor-fusion-for-robotics-6-12-months</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Machine learning for event-based vision internship (6-12 months)Software·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7959180-machine-learning-for-event-based-vision-internship-6-12-months</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Head of IT &amp; DevOpsG&amp;A·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7575908-head-of-it-devops</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
 <title>Send an open application - Arcascience</title>
 <link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
 <description>Autre | Île-de-France</description>
@@ -401,6 +401,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
+<title>Datategy Early Careers Program - Datategy</title>
+<link>https://www.datategy.net/datategy-early-careers-program/</link>
+<description>Stage / Alternance | Île-de-France</description>
+<category>Stage / Alternance</category>
+</item>
+<item>
 <title>L'énergie et les services publics - MISTRAL AI</title>
 <link>https://mistral.ai/fr/industry/energy/</link>
 <description>Autre | Île-de-France</description>
@@ -459,36 +471,6 @@
 <link>https://mistral.ai/fr/industry/energy/</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>UX Designer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Engineering: Embedded Software Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Engineering: AI Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
-<description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Marketing: CPO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
-<description>Management / Leadership | Occitanie</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Marketing : CMO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
-<description>Marketing / Growth | Occitanie</description>
-<category>Marketing / Growth</category>
 </item>
 <item>
 <title>Passer au contenu - webdrone</title>
@@ -603,6 +585,24 @@
 <link>https://www.webdrone.fr/fr/author/2tc1uo641n8jwc27b908/</link>
 <description>Sales / Business | Bourgogne-Franche-Comté</description>
 <category>Sales / Business</category>
+</item>
+<item>
+<title>[email protected] - webdrone</title>
+<link>https://www.webdrone.fr/cdn-cgi/l/email-protection</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>[email protected] - webdrone</title>
+<link>https://www.webdrone.fr/cdn-cgi/l/email-protection</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>BRAND &amp; PRODUCT PROTECTION - webdrone</title>
+<link>https://www.webdrone.fr/brand-product-protection/</link>
+<description>Product / Design | Bourgogne-Franche-Comté</description>
+<category>Product / Design</category>
 </item>
 
 </channel>
