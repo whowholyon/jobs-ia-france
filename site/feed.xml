@@ -3,23 +3,11 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sun, 02 Aug 2026 03:24:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 08:29:34 +0000</lastBuildDate>
 <item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Review Subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Contact us! - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
 <category>Autre</category>
 </item>
 <item>
@@ -83,6 +71,18 @@
 <category>Sales / Business</category>
 </item>
 <item>
+<title>Review Subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact us! - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
 <title>business intelligence - Adaptive ML</title>
 <link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
 <description>Data | Île-de-France</description>
@@ -91,18 +91,6 @@
 <item>
 <title>customer support - Adaptive ML</title>
 <link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -135,6 +123,18 @@
 <link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
+</item>
+<item>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
@@ -407,36 +407,6 @@
 <category>Ops / Infra / QA</category>
 </item>
 <item>
-<title>UX Designer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Engineering: Embedded Software Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Engineering: AI Engineer - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
-<description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Marketing: CPO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
-<description>Management / Leadership | Occitanie</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Marketing : CMO - Bondzai</title>
-<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
-<description>Marketing / Growth | Occitanie</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
 <title>Overview - MISTRAL AI</title>
 <link>https://mistral.ai/fr/solutions/</link>
 <description>Autre | Île-de-France</description>
@@ -515,18 +485,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
-<title>Datategy Early Careers Program - Datategy</title>
-<link>https://www.datategy.net/datategy-early-careers-program/</link>
-<description>Stage / Alternance | Île-de-France</description>
-<category>Stage / Alternance</category>
-</item>
-<item>
 <title>Terms &amp; Conditions - Sipearl</title>
 <link>https://sipearl.com/terms-conditions-privacy-sipearl</link>
 <description>Autre | Île-de-France</description>
@@ -537,6 +495,36 @@
 <link>https://sipearl.com/sipearl-cookie-policy</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
+</item>
+<item>
+<title>UX Designer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/29/ux-designer/</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Engineering: Embedded Software Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Engineering: AI Engineer - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/engineering-ai-engineer/</link>
+<description>IA / ML / Data Science | Occitanie</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Marketing: CPO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cpo/</link>
+<description>Management / Leadership | Occitanie</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Marketing : CMO - Bondzai</title>
+<link>https://www.bondzai.io/2022/04/27/marketing-cmo/</link>
+<description>Marketing / Growth | Occitanie</description>
+<category>Marketing / Growth</category>
 </item>
 <item>
 <title>Passer au contenu - webdrone</title>
@@ -601,6 +589,18 @@
 <item>
 <title>Français - webdrone</title>
 <link>https://www.webdrone.fr/fr/nous-rejoindre/</link>
+<description>Autre | Bourgogne-Franche-Comté</description>
+<category>Autre</category>
+</item>
+<item>
+<title>CYBERSURVEILLANCE EXTERNE - webdrone</title>
+<link>https://www.webdrone.fr/fr/topic-monitoring-2/</link>
+<description>Ops / Infra / QA | Bourgogne-Franche-Comté</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>INVESTIGATIONS - webdrone</title>
+<link>https://www.webdrone.fr/fr/online-profiling/</link>
 <description>Autre | Bourgogne-Franche-Comté</description>
 <category>Autre</category>
 </item>
