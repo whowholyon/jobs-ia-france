@@ -3,16 +3,10 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Mon, 10 Aug 2026 02:07:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 07:49:03 +0000</lastBuildDate>
 <item>
 <title>Sign Up - Flex.ai</title>
 <link>https://platform.flex.ai/signup</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -21,6 +15,66 @@
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Spontaneous application ↘︎ - Alteia</title>
+<link>https://careers.alteia.com/connect/login</link>
+<description>Autre | Occitanie</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Product Owner - Transverse Components &amp; 3DProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7541820-product-owner-transverse-components-3d</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Tech Lead BackendEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7403606-tech-lead-backend</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Product Manager - Electric network designProduct·Paris, Toulouse - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839328-product-manager-electric-network-design</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Product Manager - Structural analysis and engineeringProduct·Paris, Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839112-product-manager-structural-analysis-and-engineering</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Senior QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
+<description>Ops / Infra / QA | Occitanie</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
+<description>Data | Occitanie</description>
+<category>Data</category>
+</item>
+<item>
+<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
+<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Enterprise Sales Manager H/FSales &amp; Marketing·USA·Fully Remote - Alteia</title>
+<link>https://careers.alteia.com/jobs/6007180-enterprise-sales-manager-h-f</link>
+<description>Sales / Business | Occitanie</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
@@ -53,18 +107,6 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Review Subscription - SKYLD</title>
 <link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
 <description>Autre | Bretagne</description>
@@ -74,6 +116,24 @@
 <title>Contact us! - SKYLD</title>
 <link>https://www.odoo.com/help</link>
 <description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Découvrir mes matchs - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -221,14 +281,14 @@
 <category>Autre</category>
 </item>
 <item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
 </item>
 <item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -407,24 +467,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
-</item>
-<item>
 <title>Product - Neuralk-AI</title>
 <link>https://www.neuralk-ai.com/product</link>
 <description>Product / Design | Île-de-France</description>
@@ -561,48 +603,6 @@
 <link>https://www.neuralk-ai.com/data-security-overview</link>
 <description>Ops / Infra / QA | Île-de-France</description>
 <category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Documentation - Neuralk-AI</title>
-<link>https://docs.neuralk-ai.com/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Pricing - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/pricing</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Tabular Talks - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/tabular-talks</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Careers - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/careers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Reach out - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/contact</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Privacy Policy - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/privacy-policy</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Terms &amp; Conditions - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/terms-conditions</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
 </item>
 
 </channel>
