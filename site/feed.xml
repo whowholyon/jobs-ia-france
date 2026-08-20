@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Thu, 20 Aug 2026 06:52:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 12:56:33 +0000</lastBuildDate>
 <item>
 <title>Nemotron - Flex.ai</title>
 <link>https://www.flex.ai/models/nemotron</link>
@@ -47,6 +47,12 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Trouver un job - Lucky cart</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
 <description>Autre | Île-de-France</description>
@@ -81,24 +87,6 @@
 <link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
-</item>
-<item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Review Subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Contact us! - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
 </item>
 <item>
 <title>Spontaneous application ↘︎ - Alteia</title>
@@ -159,6 +147,18 @@
 <link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
 <description>Dev / Engineering | Occitanie</description>
 <category>Dev / Engineering</category>
+</item>
+<item>
+<title>Review Subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact us! - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Trouver un job - XXII</title>
@@ -515,18 +515,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
@@ -545,22 +533,16 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Send an open application - Arcascience</title>
-<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 <item>
 <title>Back-end developer [CDI] - GEEGLEE</title>
@@ -573,6 +555,24 @@
 <link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>New partner🤝  Akur8 Launches Guidewire Marketplace Accelerator for Deploy,  Its Modern External Rating Engine - Akur8</title>
