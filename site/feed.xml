@@ -3,13 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Mon, 24 Aug 2026 07:06:04 +0000</lastBuildDate>
-<item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
+<lastBuildDate>Mon, 24 Aug 2026 12:57:43 +0000</lastBuildDate>
 <item>
 <title>Nemotron - Flex.ai</title>
 <link>https://www.flex.ai/models/nemotron</link>
@@ -32,6 +26,12 @@
 <title>Compare - Flex.ai</title>
 <link>https://www.flex.ai/compare</link>
 <description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
 <category>Autre</category>
 </item>
 <item>
@@ -95,34 +95,40 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Trouver un job - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Support - Pop Sink</title>
 <link>https://www.popsink.com/support</link>
 <description>Autre | Hauts-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
 </item>
 <item>
 <title>business intelligence - Adaptive ML</title>
@@ -133,6 +139,216 @@
 <item>
 <title>customer support - Adaptive ML</title>
 <link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Review Subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact us! - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Product - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/product</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Research - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/research</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Solutions - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/solutions</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Documentation - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/integration-guides</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Benchmarks - Neuralk-AI</title>
+<link>https://dashboard.neuralk-ai.com/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Pricing - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/pricing</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Tabular Talks - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/tabular-talks</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Careers - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Forward Deployed EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Machine Learning EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Product DesignerFull TimeOpening SoonParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Research EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/research-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Senior Account ExecutiveFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Business Development InternInternshipMar-26Paris / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/business-development-intern</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Solutions - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/solutions</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Product - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/product</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Research - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/research</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Try API for free - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Integration Guides - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/integration-guides</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Data Security Overview - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/data-security-overview</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Documentation - Neuralk-AI</title>
+<link>https://docs.neuralk-ai.com/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Pricing - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/pricing</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Tabular Talks - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/tabular-talks</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Careers - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Reach out - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Privacy Policy - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/privacy-policy</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Terms &amp; Conditions - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/terms-conditions</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Trouver un job - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -155,159 +371,45 @@
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Welcome to the jungle logo - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/</link>
+<title>Trouver un job - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Find a job - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signup</link>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>About Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/our-story</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Explore companies - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies</link>
+<title>Privacy Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/privacy-policy</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Candidate resources - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/media</link>
+<title>Cookie Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/cookie-policy</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Contact Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/contact</link>
 <description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Recruiter resources - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/resources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Candidate Coach - Heuritech</title>
-<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>I'm a recruiter - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/?utm_source=welcometothejungle.com&amp;utm_medium=referral&amp;utm_campaign=cta_become_customer_header</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Sign in - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signin?redirect=%2F</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explore companies - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Candidate Coach - Heuritech</title>
-<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Need help? - Heuritech</title>
-<link>https://help.welcometothejungle.com/en/im-a-candidate</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Have an account? Log in - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signin</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Welcome Hiring Suite - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Employer branding - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/employer-brand</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Pricing - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/pricing</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Clients' testimonials - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/case-study</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Resources - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/resources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Need help? - Heuritech</title>
-<link>https://help.welcometothejungle.com/en/im-a-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Have an account? Log in - Heuritech</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Our concept and story - Heuritech</title>
-<link>https://about.welcometothejungle.com/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>We're hiring - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/wttj</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Legal notice - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/pages/legal</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Terms of service - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/pages/terms</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Legal center - Heuritech</title>
-<link>https://wttj.notion.site/legal-hub</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Review Subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Contact us! - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
 <category>Autre</category>
 </item>
 <item>
@@ -473,136 +575,34 @@
 <category>Autre</category>
 </item>
 <item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
+<title>Back-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_60431c23bfc04fe08439b43f9f5f9d0f.pdf</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Product - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/product</link>
-<description>Product / Design | Île-de-France</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Research - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/research</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Solutions - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/solutions</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Documentation - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/integration-guides</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Benchmarks - Neuralk-AI</title>
-<link>https://dashboard.neuralk-ai.com/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Pricing - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/pricing</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Tabular Talks - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/tabular-talks</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Careers - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/careers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Contact - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/contact</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Forward Deployed EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
+<title>Front-end developer [CDI] - GEEGLEE</title>
+<link>https://90f1e1ca-abc2-4146-a7f6-cb6500044ce5.filesusr.com/ugd/9043b4_b4a4f363dd764b82953c4b4aa5817dd9.pdf</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
-</item>
-<item>
-<title>Machine Learning EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Product DesignerFull TimeOpening SoonParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
-<description>Product / Design | Île-de-France</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Research EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/research-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Senior Account ExecutiveFull TimeOpenParis / LondonApply - Neuralk-AI</title>
-<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
 </item>
 
 </channel>
