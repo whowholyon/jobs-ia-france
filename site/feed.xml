@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sun, 30 Aug 2026 04:42:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 11:36:48 +0000</lastBuildDate>
 <item>
 <title>Nemotron - Flex.ai</title>
 <link>https://www.flex.ai/models/nemotron</link>
@@ -29,9 +29,21 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Trouver un job - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous application - tchek</title>
 <link>https://www.tchek.ai/company/career#spontaneous-application</link>
 <description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -65,8 +77,50 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>Trouver un job - XXII</title>
+<title>Trouver un job - Lucky cart</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Review Subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact us! - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Trouver un job - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Découvrir mes matchs - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -137,54 +191,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Review Subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Contact us! - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
@@ -201,12 +207,6 @@
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
 <category>Sales / Business</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
 </item>
 <item>
 <title>Product - Neuralk-AI</title>
@@ -443,6 +443,30 @@
 <category>Autre</category>
 </item>
 <item>
+<title>About Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/our-story</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Privacy Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/privacy-policy</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Cookie Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/cookie-policy</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Contact Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Events/Training - GEEGLEE</title>
 <link>https://www.geeglee.net/event-training</link>
 <description>Autre | Île-de-France</description>
@@ -475,30 +499,6 @@
 <item>
 <title>Send an open application - Arcascience</title>
 <link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>About Us - QuantCube Technology</title>
-<link>https://www.quant-cube.com/our-story</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Privacy Policy - QuantCube Technology</title>
-<link>https://www.quant-cube.com/privacy-policy</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Cookie Policy - QuantCube Technology</title>
-<link>https://www.quant-cube.com/cookie-policy</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Contact Us - QuantCube Technology</title>
-<link>https://www.quant-cube.com/contact</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -563,6 +563,30 @@
 <category>Dev / Engineering</category>
 </item>
 <item>
+<title>Gender equality - Amurabi - opérant sous la marque FairPatterns</title>
+<link>https://cdn.prod.website-files.com/65e5de6ef735eb044b38103e/6a68b330fd1198ba85c9e475_AI_Ward_Gender_Equality_Plan.docx.pdf</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Book a meeting - Amurabi - opérant sous la marque FairPatterns</title>
+<link>https://calendar.google.com/calendar/appointments/schedules/AcZssZ3waQWou_-ZJQWcYHjO0mN11stktIVKhzPjN5C-ijs4Y5wx9W8o_-TrSOXbpyMmrpf2Ji85nV3l</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>9 rue des FillesSaint-Thomas, 75002 Paris - Amurabi - opérant sous la marque FairPatterns</title>
+<link>https://www.google.com/maps/place//data=!4m2!3m1!1s0x47e66f72443fc0c9:0x2c2d0a81e44b1126?sa=X&amp;ved=1t:8290&amp;ictx=111</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Terms and Conditions - Amurabi - opérant sous la marque FairPatterns</title>
+<link>https://www.fairpatterns.com/resources/jobs</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>AI CloudInfrastructure de pointe pour l’entraînement et l’inférence. - MISTRAL AI</title>
 <link>https://mistral.ai/fr/products/aicloud/</link>
 <description>Ops / Infra / QA | Île-de-France</description>
@@ -579,30 +603,6 @@
 <link>https://mistral.ai/fr/industry/energy/</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>Mistral OCR 4 - MISTRAL AI</title>
-<link>https://mistral.ai/fr/news/ocr-4/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Mistral x HUMAIN - MISTRAL AI</title>
-<link>https://mistral.ai/fr/news/mistral-x-humain</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Recherche agentique. Des résultats plus précis et plus efficaces pour vos systèmes d’IA. - MISTRAL AI</title>
-<link>https://mistral.ai/fr/news/agentic-search</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Inférence en région, modèles ouverts et nouvelle infrastructure européenne pour une IA souveraine. - MISTRAL AI</title>
-<link>https://mistral.ai/fr/news/regional-inference-open-models-new-compute</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
 </item>
 
 </channel>
