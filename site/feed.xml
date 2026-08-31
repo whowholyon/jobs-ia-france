@@ -3,7 +3,13 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sun, 30 Aug 2026 20:48:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 04:46:03 +0000</lastBuildDate>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
 <item>
 <title>Nemotron - Flex.ai</title>
 <link>https://www.flex.ai/models/nemotron</link>
@@ -29,12 +35,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Trouver un job - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
@@ -47,81 +47,9 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Spontaneous application ↘︎ - Alteia</title>
-<link>https://careers.alteia.com/connect/login</link>
-<description>Autre | Occitanie</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Software Engineer – 3D Computer Vision &amp; Geospatial DataEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/8231402-software-engineer-3d-computer-vision-geospatial-data</link>
-<description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Product Owner - Transverse Components &amp; 3DProduct·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/7541820-product-owner-transverse-components-3d</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Tech Lead BackendEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/7403606-tech-lead-backend</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Product Manager - Electric network designProduct·Paris, Toulouse - Alteia</title>
-<link>https://careers.alteia.com/jobs/6839328-product-manager-electric-network-design</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Product Manager - Structural analysis and engineeringProduct·Paris, Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6839112-product-manager-structural-analysis-and-engineering</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Senior QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
-<description>Ops / Infra / QA | Occitanie</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
-<description>Data | Occitanie</description>
-<category>Data</category>
-</item>
-<item>
-<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
-<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>LinkedIn - Alteia</title>
-<link>https://www.linkedin.com/company/alteia-ai/posts/?feedView=all</link>
-<description>Autre | Occitanie</description>
+<title>Trouver un job - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -131,63 +59,9 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Review Subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Contact us! - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -335,28 +209,148 @@
 <category>Autre</category>
 </item>
 <item>
-<title>About Us - QuantCube Technology</title>
-<link>https://www.quant-cube.com/our-story</link>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Privacy Policy - QuantCube Technology</title>
-<link>https://www.quant-cube.com/privacy-policy</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Cookie Policy - QuantCube Technology</title>
-<link>https://www.quant-cube.com/cookie-policy</link>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
 <description>Management / Leadership | Île-de-France</description>
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>Contact Us - QuantCube Technology</title>
-<link>https://www.quant-cube.com/contact</link>
+<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Review Subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact us! - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous application ↘︎ - Alteia</title>
+<link>https://careers.alteia.com/connect/login</link>
+<description>Autre | Occitanie</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Software Engineer – 3D Computer Vision &amp; Geospatial DataEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/8231402-software-engineer-3d-computer-vision-geospatial-data</link>
+<description>IA / ML / Data Science | Occitanie</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Product Owner - Transverse Components &amp; 3DProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7541820-product-owner-transverse-components-3d</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Tech Lead BackendEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7403606-tech-lead-backend</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Product Manager - Electric network designProduct·Paris, Toulouse - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839328-product-manager-electric-network-design</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Product Manager - Structural analysis and engineeringProduct·Paris, Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839112-product-manager-structural-analysis-and-engineering</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Senior QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
+<description>Ops / Infra / QA | Occitanie</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
+<description>Data | Occitanie</description>
+<category>Data</category>
+</item>
+<item>
+<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
+<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>LinkedIn - Alteia</title>
+<link>https://www.linkedin.com/company/alteia-ai/posts/?feedView=all</link>
+<description>Autre | Occitanie</description>
+<category>Autre</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Product - Neuralk-AI</title>
@@ -593,16 +587,22 @@
 <category>Autre</category>
 </item>
 <item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>About Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/our-story</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Privacy Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/privacy-policy</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Cookie Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/cookie-policy</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
 </item>
 
 </channel>
