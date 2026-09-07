@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sun, 06 Sep 2026 20:13:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 03:51:19 +0000</lastBuildDate>
 <item>
 <title>Nemotron - Flex.ai</title>
 <link>https://www.flex.ai/models/nemotron</link>
@@ -25,6 +25,54 @@
 <item>
 <title>Compare - Flex.ai</title>
 <link>https://www.flex.ai/compare</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Trouver un job - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Trouver un job - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Découvrir mes matchs - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Trouver un job - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -95,60 +143,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Review Subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Contact us! - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>MLOps EngineerFull-TimeParis - Scortex</title>
 <link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
 <description>Dev / Engineering | Île-de-France</description>
@@ -161,52 +155,34 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Visit our LinkedIn - PROPHESEE</title>
-<link>https://www.linkedin.com/company/chronocam/</link>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Visit our X - PROPHESEE</title>
-<link>https://x.com/Prophesee_ai</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Visit our Github - PROPHESEE</title>
-<link>https://github.com/prophesee-ai</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Visit our Youtube - PROPHESEE</title>
-<link>https://www.youtube.com/@propheseemetavisionformachines</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>LinkedIn - PROPHESEE</title>
-<link>https://www.linkedin.com/company/chronocam/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
 </item>
 <item>
 <title>Welcome to the jungle logo - Heuritech</title>
@@ -349,6 +325,60 @@
 <item>
 <title>Legal center - Heuritech</title>
 <link>https://wttj.notion.site/legal-hub</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Review Subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact us! - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Visit our LinkedIn - PROPHESEE</title>
+<link>https://www.linkedin.com/company/chronocam/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Visit our X - PROPHESEE</title>
+<link>https://x.com/Prophesee_ai</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Visit our Github - PROPHESEE</title>
+<link>https://github.com/prophesee-ai</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Visit our Youtube - PROPHESEE</title>
+<link>https://www.youtube.com/@propheseemetavisionformachines</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>LinkedIn - PROPHESEE</title>
+<link>https://www.linkedin.com/company/chronocam/</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -545,62 +575,32 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Welcome to the jungle logo - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/</link>
+<title>About Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/our-story</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<title>Privacy Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/privacy-policy</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Explorer les entreprises - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies</link>
+<title>Cookie Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/cookie-policy</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Contact Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/contact</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Ressources candidats - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/media</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Ressources recruteurs - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/resources</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>AI Candidate Coach - Orakl Oncology</title>
-<link>https://contact.welcometothejungle.com/candidate-coach</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Je recrute - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/?utm_source=welcometothejungle.com&amp;utm_medium=referral&amp;utm_campaign=cta_become_customer_header</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2F</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explorer les entreprises - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs en France - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-emploi-par-metiers-villes</link>
+<title>Events/Training - GEEGLEE</title>
+<link>https://www.geeglee.net/event-training</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
