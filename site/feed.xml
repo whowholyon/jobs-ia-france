@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Wed, 16 Sep 2026 21:05:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 04:17:39 +0000</lastBuildDate>
 <item>
 <title>Nemotron - Flex.ai</title>
 <link>https://www.flex.ai/models/nemotron</link>
@@ -26,6 +26,18 @@
 <title>Compare - Flex.ai</title>
 <link>https://www.flex.ai/compare</link>
 <description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -95,15 +107,21 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - Lucky cart</title>
+<title>Trouver un job - XXII</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -115,18 +133,6 @@
 <item>
 <title>Découvrir mes matchs - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -143,14 +149,20 @@
 <category>Autre</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
+<title>Trouver un job - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -185,160 +197,22 @@
 <category>Management / Leadership</category>
 </item>
 <item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Welcome to the jungle logo - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Find a job - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signup</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explore companies - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Candidate resources - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/media</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Recruiter resources - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/resources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Candidate Coach - Heuritech</title>
-<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>I'm a recruiter - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/?utm_source=welcometothejungle.com&amp;utm_medium=referral&amp;utm_campaign=cta_become_customer_header</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Sign in - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signin?redirect=%2F</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explore companies - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Candidate Coach - Heuritech</title>
-<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Need help? - Heuritech</title>
-<link>https://help.welcometothejungle.com/en/im-a-candidate</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Have an account? Log in - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signin</link>
-<description>Sales / Business | Île-de-France</description>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Welcome Hiring Suite - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Employer branding - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/employer-brand</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Pricing - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/pricing</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Clients' testimonials - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/case-study</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Resources - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/resources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Need help? - Heuritech</title>
-<link>https://help.welcometothejungle.com/en/im-a-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Have an account? Log in - Heuritech</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>Sales / Business | Île-de-France</description>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
 <category>Sales / Business</category>
 </item>
 <item>
-<title>Our concept and story - Heuritech</title>
-<link>https://about.welcometothejungle.com/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>We're hiring - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/wttj</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Legal notice - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/pages/legal</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Terms of service - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/pages/terms</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Legal center - Heuritech</title>
-<link>https://wttj.notion.site/legal-hub</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
 </item>
 <item>
 <title>Product - Neuralk-AI</title>
@@ -527,22 +401,46 @@
 <category>Autre</category>
 </item>
 <item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>About Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/our-story</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Privacy Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/privacy-policy</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Cookie Policy - QuantCube Technology</title>
+<link>https://www.quant-cube.com/cookie-policy</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Contact Us - QuantCube Technology</title>
+<link>https://www.quant-cube.com/contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Send an open application - Arcascience</title>
+<link>https://www.arcascience.ai/join-us#JOIN-US-CONTACT</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Comptable uniqueG&amp;A·Paris - PROPHESEE</title>
@@ -593,14 +491,116 @@
 <category>Autre</category>
 </item>
 <item>
-<title>About Us - QuantCube Technology</title>
-<link>https://www.quant-cube.com/our-story</link>
+<title>New customer🤝 Aria Advisory Selects Akur8 Reserving to Support Canadian P&amp;C Mandates - Akur8</title>
+<link>https://www.akur8.com/news</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>New partner🤝  Akur8 Launches Guidewire Marketplace Accelerator for Deploy,  Its Modern External Rating Engine - Akur8</title>
+<link>https://www.akur8.com/news</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Privacy Policy - QuantCube Technology</title>
-<link>https://www.quant-cube.com/privacy-policy</link>
+<title>Engineering0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/engineering</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Actuarial Data Science0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/actuarial-data-science</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Sales0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/sales-partnerships</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Product0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/product</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Design0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/design</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Marketing0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/marketing</link>
+<description>Marketing / Growth | Île-de-France</description>
+<category>Marketing / Growth</category>
+</item>
+<item>
+<title>People, Finance &amp; Legal0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/hr-legal-finance</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Cloud Ops, IT &amp; Security0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/it-operations</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Partnerships &amp; Corporate Development0 open positions - Akur8</title>
+<link>https://www.akur8.com/teams/partnerships-corporate-development</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>AI CloudInfrastructure de pointe pour l’entraînement et l’inférence. - MISTRAL AI</title>
+<link>https://mistral.ai/fr/products/aicloud/</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>L'énergie et les services publics - MISTRAL AI</title>
+<link>https://mistral.ai/fr/industry/energy/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Mistral OCR 4 - MISTRAL AI</title>
+<link>https://mistral.ai/fr/news/ocr-4/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Mistral et Mozilla intègrent une IA ouverte, privée et multilingue dans votre navigateur web - MISTRAL AI</title>
+<link>https://mistral.ai/fr/news/mistral-x-mozilla</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Cloudera et Mistral s’associent pour apporter une intelligence spécialisée et souveraine aux données des entreprises - MISTRAL AI</title>
+<link>https://mistral.ai/fr/news/mistral-x-cloudera</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Moderniser du code existant complexe avec des agents IA. - MISTRAL AI</title>
+<link>https://mistral.ai/fr/news/legacy-code-modernization</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>TotalEnergies - MISTRAL AI</title>
+<link>https://mistral.ai/fr/customers/totalenergies/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Industries - MISTRAL AI</title>
+<link>https://mistral.ai/fr/solutions/</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
