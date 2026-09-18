@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Thu, 17 Sep 2026 21:08:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 04:01:11 +0000</lastBuildDate>
 <item>
 <title>AgentOS - Flex.ai</title>
 <link>https://www.flex.ai/agent-os</link>
@@ -89,18 +89,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Trouver un job - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
@@ -110,24 +98,6 @@
 <title>Découvrir mes matchs - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Renew subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Chat with us - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
 <category>Autre</category>
 </item>
 <item>
@@ -197,6 +167,18 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Trouver un job - Lucky cart</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup</link>
 <description>Autre | Île-de-France</description>
@@ -215,15 +197,45 @@
 <category>Autre</category>
 </item>
 <item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
 <description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Renew subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Chat with us - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
 <category>Autre</category>
 </item>
 <item>
@@ -371,34 +383,16 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
 <description>Dev / Engineering | Île-de-France</description>
 <category>Dev / Engineering</category>
 </item>
 <item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
 </item>
 <item>
 <title>Product - Neuralk-AI</title>
@@ -603,6 +597,12 @@
 <link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
 <description>Sales / Business | Auvergne-Rhône-Alpes</description>
 <category>Sales / Business</category>
+</item>
+<item>
+<title>Events/Training - GEEGLEE</title>
+<link>https://www.geeglee.net/event-training</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 
 </channel>
