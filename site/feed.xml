@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Thu, 24 Sep 2026 16:50:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 21:20:34 +0000</lastBuildDate>
 <item>
 <title>Documentation - Bioptimus</title>
 <link>https://docs.bioptimus.com/documentation/introduction</link>
@@ -109,174 +109,6 @@
 <item>
 <title>Compare - Flex.ai</title>
 <link>https://www.flex.ai/compare</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Spontaneous application ↘︎ - Alteia</title>
-<link>https://careers.alteia.com/connect/login</link>
-<description>Autre | Occitanie</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Software Engineer – 3D Computer Vision &amp; Geospatial DataEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/8231402-software-engineer-3d-computer-vision-geospatial-data</link>
-<description>IA / ML / Data Science | Occitanie</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Product Owner - Transverse Components &amp; 3DProduct·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/7541820-product-owner-transverse-components-3d</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Tech Lead BackendEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/7403606-tech-lead-backend</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Product Manager - Electric network designProduct·Paris, Toulouse - Alteia</title>
-<link>https://careers.alteia.com/jobs/6839328-product-manager-electric-network-design</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Product Manager - Structural analysis and engineeringProduct·Paris, Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6839112-product-manager-structural-analysis-and-engineering</link>
-<description>Product / Design | Occitanie</description>
-<category>Product / Design</category>
-</item>
-<item>
-<title>Senior QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
-<description>Ops / Infra / QA | Occitanie</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
-<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
-<description>Data | Occitanie</description>
-<category>Data</category>
-</item>
-<item>
-<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
-<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
-<description>Dev / Engineering | Occitanie</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>LinkedIn - Alteia</title>
-<link>https://www.linkedin.com/company/alteia-ai/posts/?feedView=all</link>
-<description>Autre | Occitanie</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fxxii-group%2Fjobs</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - XXII</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - XXII</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Besoin d'aide ? - XXII</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - XXII</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Trouver un job - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Renew subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Chat with us - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>MLOps EngineerFull-TimeParis - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Spontaneous Application - Scortex</title>
-<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -425,114 +257,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Enterprise AI Integration EngineerSoftware &amp; AI·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/8436059-enterprise-ai-integration-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Senior Software DeveloperSoftware &amp; AI·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/8430088-senior-software-developer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>AI Senior Developer / Technical LeadSoftware &amp; AI·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/8429906-ai-senior-developer-technical-lead</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Embedded AI EngineerSoftware &amp; AI·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/8401491-embedded-ai-engineer</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Comptable uniqueG&amp;A·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/8351205-comptable-unique</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Head of ITSoftware &amp; AI·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7575908-head-of-it</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
-<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Visit our LinkedIn - PROPHESEE</title>
-<link>https://www.linkedin.com/company/chronocam/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Visit our X - PROPHESEE</title>
-<link>https://x.com/Prophesee_ai</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Visit our Github - PROPHESEE</title>
-<link>https://github.com/prophesee-ai</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Visit our Youtube - PROPHESEE</title>
-<link>https://www.youtube.com/@propheseemetavisionformachines</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>LinkedIn - PROPHESEE</title>
-<link>https://www.linkedin.com/company/chronocam/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>Trouver un job - Lucky cart</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
@@ -575,32 +299,308 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
 </item>
 <item>
-<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
+<category>Autre</category>
 </item>
 <item>
-<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
-<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
-<description>Sales / Business | Auvergne-Rhône-Alpes</description>
-<category>Sales / Business</category>
+<title>Spontaneous application ↘︎ - Alteia</title>
+<link>https://careers.alteia.com/connect/login</link>
+<description>Autre | Occitanie</description>
+<category>Autre</category>
 </item>
 <item>
-<title>Welcome to the jungle logo - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/</link>
+<title>Software Engineer – 3D Computer Vision &amp; Geospatial DataEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/8231402-software-engineer-3d-computer-vision-geospatial-data</link>
+<description>IA / ML / Data Science | Occitanie</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Product Owner - Transverse Components &amp; 3DProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7541820-product-owner-transverse-components-3d</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Tech Lead BackendEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/7403606-tech-lead-backend</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Product Manager - Electric network designProduct·Paris, Toulouse - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839328-product-manager-electric-network-design</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Product Manager - Structural analysis and engineeringProduct·Paris, Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6839112-product-manager-structural-analysis-and-engineering</link>
+<description>Product / Design | Occitanie</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Senior QA EngineerProduct·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
+<description>Ops / Infra / QA | Occitanie</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
+<description>Data | Occitanie</description>
+<category>Data</category>
+</item>
+<item>
+<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
+<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>LinkedIn - Alteia</title>
+<link>https://www.linkedin.com/company/alteia-ai/posts/?feedView=all</link>
+<description>Autre | Occitanie</description>
+<category>Autre</category>
+</item>
+<item>
+<title>business intelligence - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
+<description>Data | Île-de-France</description>
+<category>Data</category>
+</item>
+<item>
+<title>customer support - Adaptive ML</title>
+<link>https://www.adaptive-ml.com/use-case/customer-support</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - Orakl Oncology</title>
+<title>Trouver un job - Welcome to the Jungle</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Découvrir mes matchs - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Renew subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Chat with us - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Trouver un job - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Se connecter - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fxxii-group%2Fjobs</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Jobs par type d’entreprise - XXII</title>
+<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Besoin d'aide ? - XXII</title>
+<link>https://help.welcometothejungle.com/je-suis-candidat</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Besoin d'aide ? - XXII</title>
+<link>https://help.welcometothejungle.com/je-suis-client</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - XXII</title>
+<link>https://myaccount.welcometothejungle.com/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>MLOps EngineerFull-TimeParis - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Spontaneous Application - Scortex</title>
+<link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Product - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/product</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Research - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/research</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Solutions - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/solutions</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>White Papers - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/white-papers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Documentation - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/integration-guides</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Benchmarks - Neuralk-AI</title>
+<link>https://dashboard.neuralk-ai.com/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Pricing - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/pricing</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Tabular Talks - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/tabular-talks</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Careers - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Contact - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/contact</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AI ScientistFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/ai-scientist</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Forward Deployed EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/forward-deployed-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Machine Learning EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/machine-learning-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Product DesignerFull TimeOpening SoonParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/product-designer</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Research EngineerFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/research-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Senior Account ExecutiveFull TimeOpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/account-executive</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis / LondonApply - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/job-posting/talent-acquisition-partner</link>
+<description>RH / People | Île-de-France</description>
+<category>RH / People</category>
+</item>
+<item>
+<title>Solutions - Neuralk-AI</title>
+<link>https://www.neuralk-ai.com/solutions</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
