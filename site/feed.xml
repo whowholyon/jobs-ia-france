@@ -3,7 +3,31 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Thu, 24 Sep 2026 11:25:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 16:50:40 +0000</lastBuildDate>
+<item>
+<title>Documentation - Bioptimus</title>
+<link>https://docs.bioptimus.com/documentation/introduction</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Platforms - Bioptimus</title>
+<link>https://www.bioptimus.com/knowledge-base</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Resources - Bioptimus</title>
+<link>https://www.bioptimus.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Documentation - Bioptimus</title>
+<link>https://docs.bioptimus.com/documentation/introduction</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
 <item>
 <title>AgentOS - Flex.ai</title>
 <link>https://www.flex.ai/agent-os</link>
@@ -167,78 +191,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Trouver un job - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
 <title>Trouver un job - XXII</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
@@ -281,6 +233,18 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
+<title>Trouver un job - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Découvrir mes matchs - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
 <title>business intelligence - Adaptive ML</title>
 <link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
 <description>Data | Île-de-France</description>
@@ -313,18 +277,6 @@
 <item>
 <title>Spontaneous Application - Scortex</title>
 <link>https://scortex.welcomekit.co/jobs/candidatures-spontanees</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
@@ -473,6 +425,174 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>Enterprise AI Integration EngineerSoftware &amp; AI·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/8436059-enterprise-ai-integration-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Senior Software DeveloperSoftware &amp; AI·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/8430088-senior-software-developer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>AI Senior Developer / Technical LeadSoftware &amp; AI·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/8429906-ai-senior-developer-technical-lead</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Embedded AI EngineerSoftware &amp; AI·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/8401491-embedded-ai-engineer</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Comptable uniqueG&amp;A·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/8351205-comptable-unique</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Head of ITSoftware &amp; AI·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7575908-head-of-it</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Digital IC Verification EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7389549-digital-ic-verification-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Digital IC/ASIC Design EngineerHardware·Paris - PROPHESEE</title>
+<link>https://careers.prophesee.ai/jobs/7377229-digital-ic-asic-design-engineer</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Visit our LinkedIn - PROPHESEE</title>
+<link>https://www.linkedin.com/company/chronocam/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Visit our X - PROPHESEE</title>
+<link>https://x.com/Prophesee_ai</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Visit our Github - PROPHESEE</title>
+<link>https://github.com/prophesee-ai</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Visit our Youtube - PROPHESEE</title>
+<link>https://www.youtube.com/@propheseemetavisionformachines</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>LinkedIn - PROPHESEE</title>
+<link>https://www.linkedin.com/company/chronocam/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Trouver un job - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Se connecter - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Jobs par type d’entreprise - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Besoin d'aide ? - Lucky cart</title>
+<link>https://help.welcometothejungle.com/je-suis-candidat</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Besoin d'aide ? - Lucky cart</title>
+<link>https://help.welcometothejungle.com/je-suis-client</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - Lucky cart</title>
+<link>https://myaccount.welcometothejungle.com/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>01Business Developer Senior : Conseil &amp; projets IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>02Business Developer - Conseil &amp; IA (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>03Business Developer- activité Conseil (H/F) - Araïko (Cynapps)</title>
+<link>https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&amp;o=93f92ee0-614d-4a02-98ae-a234e065701f</link>
+<description>Sales / Business | Auvergne-Rhône-Alpes</description>
+<category>Sales / Business</category>
+</item>
+<item>
 <title>Welcome to the jungle logo - Orakl Oncology</title>
 <link>https://www.welcometothejungle.com/fr/</link>
 <description>Autre | Île-de-France</description>
@@ -483,126 +603,6 @@
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>Explorer les entreprises - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Ressources candidats - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/media</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Ressources recruteurs - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/resources</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>AI Candidate Coach - Orakl Oncology</title>
-<link>https://contact.welcometothejungle.com/candidate-coach</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Je recrute - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/?utm_source=welcometothejungle.com&amp;utm_medium=referral&amp;utm_campaign=cta_become_customer_header</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Forakl-oncology</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explorer les entreprises - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs en France - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-emploi-par-metiers-villes</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Candidate Coach - Orakl Oncology</title>
-<link>https://contact.welcometothejungle.com/candidate-coach</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Masterclasses - Orakl Oncology</title>
-<link>https://landings.welcometothejungle.com/fr/masterclass</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Orakl Oncology</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Welcome Hiring Suite - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Marque employeur - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/marque-employeur</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Nos tarifs - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/notre-offre</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Témoignages clients - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/etude-de-cas</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Ressources - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/ressources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Orakl Oncology</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Orakl Oncology</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
 </item>
 
 </channel>
