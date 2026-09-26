@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Fri, 25 Sep 2026 21:19:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 04:21:23 +0000</lastBuildDate>
 <item>
 <title>Documentation - Bioptimus</title>
 <link>https://docs.bioptimus.com/documentation/introduction</link>
@@ -29,16 +29,46 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - Welcome to the Jungle</title>
+<title>Trouver un job - XXII</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<title>Se connecter - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fxxii-group%2Fjobs</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>Jobs par type d’entreprise - XXII</title>
+<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Besoin d'aide ? - XXII</title>
+<link>https://help.welcometothejungle.com/je-suis-candidat</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Besoin d'aide ? - XXII</title>
+<link>https://help.welcometothejungle.com/je-suis-client</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - XXII</title>
+<link>https://myaccount.welcometothejungle.com/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
 </item>
 <item>
 <title>AgentOS - Flex.ai</title>
@@ -125,46 +155,52 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Trouver un job - XXII</title>
+<title>Trouver un job - Lucky cart</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Se connecter - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fxxii-group%2Fjobs</link>
+<title>Se connecter - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Jobs par type d’entreprise - XXII</title>
+<title>Jobs par type d’entreprise - Lucky cart</title>
 <link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Besoin d'aide ? - XXII</title>
+<title>Besoin d'aide ? - Lucky cart</title>
 <link>https://help.welcometothejungle.com/je-suis-candidat</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>J’ai un compte : Connexion - XXII</title>
+<title>J’ai un compte : Connexion - Lucky cart</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
 <description>IA / ML / Data Science | Île-de-France</description>
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>Besoin d'aide ? - XXII</title>
+<title>Besoin d'aide ? - Lucky cart</title>
 <link>https://help.welcometothejungle.com/je-suis-client</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>J’ai un compte : Connexion - XXII</title>
+<title>J’ai un compte : Connexion - Lucky cart</title>
 <link>https://myaccount.welcometothejungle.com/signin</link>
 <description>IA / ML / Data Science | Île-de-France</description>
 <category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
 </item>
 <item>
 <title>Support - Pop Sink</title>
@@ -315,90 +351,6 @@
 <link>https://wttj.notion.site/legal-hub</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Renew subscription - SKYLD</title>
-<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Chat with us - SKYLD</title>
-<link>https://www.odoo.com/help</link>
-<description>Autre | Bretagne</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
-</item>
-<item>
-<title>Embedded Software Engineer / Robotics EngineerToulouse, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/afaf5c25-1280-4a9a-bffb-5573c5aaca0f</link>
-<description>Dev / Engineering | Île-de-France</description>
-<category>Dev / Engineering</category>
-</item>
-<item>
-<title>Spontaneous ApplicationAll officesApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/2294bf4e-747a-4992-881d-6d66d39957c6</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Export Control &amp; Compliance DirectorParis, FranceApply Now - Alta Ares</title>
-<link>https://jobs.ashbyhq.com/alta-ares/9403f1e4-ffc0-427c-9171-d02ba63336a2</link>
-<description>Management / Leadership | Île-de-France</description>
-<category>Management / Leadership</category>
 </item>
 <item>
 <title>Welcome to the jungle logo - Orakl Oncology</title>
@@ -563,6 +515,18 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Renew subscription - SKYLD</title>
+<link>https://www.odoo.com/odoo-enterprise/upgrade-online/2e2e9573-48d6-4ba6-ac6c-0cea05413e58</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Chat with us - SKYLD</title>
+<link>https://www.odoo.com/help</link>
+<description>Autre | Bretagne</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Spontaneous application ↘︎ - Alteia</title>
 <link>https://careers.alteia.com/connect/login</link>
 <description>Autre | Occitanie</description>
@@ -603,6 +567,42 @@
 <link>https://careers.alteia.com/jobs/6639246-senior-qa-engineer</link>
 <description>Ops / Infra / QA | Occitanie</description>
 <category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>Full Stack Software EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639217-full-stack-software-engineer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Data EngineerEngineering·Toulouse·Hybrid - Alteia</title>
+<link>https://careers.alteia.com/jobs/6639187-data-engineer</link>
+<description>Data | Occitanie</description>
+<category>Data</category>
+</item>
+<item>
+<title>Backend DeveloperEngineering·Toulouse·Temporarily Remote - Alteia</title>
+<link>https://careers.alteia.com/jobs/6484629-backend-developer</link>
+<description>Dev / Engineering | Occitanie</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>LinkedIn - Alteia</title>
+<link>https://www.linkedin.com/company/alteia-ai/posts/?feedView=all</link>
+<description>Autre | Occitanie</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Trouver un job - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Découvrir mes matchs - Welcome to the Jungle</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 
 </channel>
