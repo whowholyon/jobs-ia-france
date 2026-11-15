@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Sun, 15 Nov 2026 13:43:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 22:38:54 +0000</lastBuildDate>
 <item>
 <title>Documentation - Bioptimus</title>
 <link>https://docs.bioptimus.com/documentation/introduction</link>
@@ -461,6 +461,48 @@
 <category>IA / ML / Data Science</category>
 </item>
 <item>
+<title>Trouver un job - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Se connecter - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Jobs par type d’entreprise - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Besoin d'aide ? - Lucky cart</title>
+<link>https://help.welcometothejungle.com/je-suis-candidat</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - Lucky cart</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>Besoin d'aide ? - Lucky cart</title>
+<link>https://help.welcometothejungle.com/je-suis-client</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>J’ai un compte : Connexion - Lucky cart</title>
+<link>https://myaccount.welcometothejungle.com/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
 <title>business intelligence - Adaptive ML</title>
 <link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
 <description>Data | Île-de-France</description>
@@ -559,48 +601,6 @@
 <item>
 <title>Pricing - Heuritech</title>
 <link>https://solutions.welcometothejungle.com/en/pricing</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Clients' testimonials - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/case-study</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Resources - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/resources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Need help? - Heuritech</title>
-<link>https://help.welcometothejungle.com/en/im-a-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Have an account? Log in - Heuritech</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Our concept and story - Heuritech</title>
-<link>https://about.welcometothejungle.com/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>We're hiring - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/wttj</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Legal notice - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/pages/legal</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>

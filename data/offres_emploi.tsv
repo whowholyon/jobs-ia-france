@@ -75,6 +75,13 @@ Autre	XXII	A	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com
 IA / ML / Data Science	XXII	A	Île-de-France	J’ai un compte : Connexion	https://www.welcometothejungle.com/fr/authenticate/signin	+2 computer vision, +2 vision par ordinateur, +2 computer-vision, +2 dataset, +2 transformer	www.xxiiai.com
 Autre	XXII	A	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-client	+2 computer vision, +2 vision par ordinateur, +2 computer-vision, +2 dataset, +2 transformer	www.xxiiai.com
 IA / ML / Data Science	XXII	A	Île-de-France	J’ai un compte : Connexion	https://myaccount.welcometothejungle.com/signin	+2 computer vision, +2 vision par ordinateur, +2 computer-vision, +2 dataset, +2 transformer	www.xxiiai.com
+Autre	Lucky cart	A	Île-de-France	Trouver un job	https://www.welcometothejungle.com/fr/get-started/job-title	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
+Autre	Lucky cart	A	Île-de-France	Se connecter	https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
+Autre	Lucky cart	A	Île-de-France	Jobs par type d’entreprise	https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
+Autre	Lucky cart	A	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-candidat	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
+IA / ML / Data Science	Lucky cart	A	Île-de-France	J’ai un compte : Connexion	https://www.welcometothejungle.com/fr/authenticate/signin	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
+Autre	Lucky cart	A	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-client	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
+IA / ML / Data Science	Lucky cart	A	Île-de-France	J’ai un compte : Connexion	https://myaccount.welcometothejungle.com/signin	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
 Data	Adaptive ML	B	Île-de-France	business intelligence	https://www.adaptive-ml.com/use-case/text-to-sql	+2 reinforcement learning, +2 fine-tuning, +2 annotation, +2 inference	https://www.adaptive-ml.com/
 Autre	Adaptive ML	B	Île-de-France	customer support	https://www.adaptive-ml.com/use-case/customer-support	+2 reinforcement learning, +2 fine-tuning, +2 annotation, +2 inference	https://www.adaptive-ml.com/
 Autre	Heuritech	A	Île-de-France	Welcome to the jungle logo	https://www.welcometothejungle.com/en/	+2 computer vision, +2 machine learning, +2 PhD, +2 dataset	https://heuritech.com/
@@ -103,13 +110,6 @@ Autre	Heuritech	A	Île-de-France	Terms of service	https://www.welcometothejungle
 Autre	Heuritech	A	Île-de-France	Legal center	https://wttj.notion.site/legal-hub	+2 computer vision, +2 machine learning, +2 PhD, +2 dataset	https://heuritech.com/
 Autre	Welcome to the Jungle	A	Île-de-France	Trouver un job	https://www.welcometothejungle.com/fr/get-started/job-title	+2 machine learning, +2 data science, +2 GPU, +2 PhD, +2 transformer, +2 open-source	https://www.welcometothejungle.com/fr
 Autre	Welcome to the Jungle	A	Île-de-France	Découvrir mes matchs	https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches	+2 machine learning, +2 data science, +2 GPU, +2 PhD, +2 transformer, +2 open-source	https://www.welcometothejungle.com/fr
-Autre	Lucky cart	A	Île-de-France	Trouver un job	https://www.welcometothejungle.com/fr/get-started/job-title	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
-Autre	Lucky cart	A	Île-de-France	Se connecter	https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
-Autre	Lucky cart	A	Île-de-France	Jobs par type d’entreprise	https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
-Autre	Lucky cart	A	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-candidat	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
-IA / ML / Data Science	Lucky cart	A	Île-de-France	J’ai un compte : Connexion	https://www.welcometothejungle.com/fr/authenticate/signin	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
-Autre	Lucky cart	A	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-client	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
-IA / ML / Data Science	Lucky cart	A	Île-de-France	J’ai un compte : Connexion	https://myaccount.welcometothejungle.com/signin	+2 machine learning, +2 data science, +2 data scientist, +2 dataset, +2 transformer	www.luckycart.com/
 IA / ML / Data Science	Scortex	B	Île-de-France	Platform Engineer for Machine Learning & Computer VisionFull-TimeParis	https://scortex.welcomekit.co/jobs/ml-devops-engineer_paris	+2 deep learning, +2 GPU, +2 dataset	http://scortex.io/
 Autre	Scortex	B	Île-de-France	Spontaneous Application	https://scortex.welcomekit.co/jobs/candidatures-spontanees	+2 deep learning, +2 GPU, +2 dataset	http://scortex.io/
 Autre	GATEWATCHER	B	Île-de-France	Maîtriser et contrôler mes usages et mes données	https://www.gatewatcher.com/solution/maitriser-et-controler-mes-usages-et-mes-donnees/	+2 deep learning, +2 machine learning, +2 data science	http://gatewatcher.com
@@ -145,6 +145,56 @@ Autre	Orakl Oncology	A	Île-de-France	On recrute	https://www.welcometothejungle.
 Autre	Orakl Oncology	A	Île-de-France	Presse	https://press.welcometothejungle.com/	+2 data scientist, +2 PhD, +2 researcher, +2 dataset, +2 R&D	http://orakl-oncology.com
 Autre	Orakl Oncology	A	Île-de-France	Mentions légales	https://www.welcometothejungle.com/fr/pages/legal	+2 data scientist, +2 PhD, +2 researcher, +2 dataset, +2 R&D	http://orakl-oncology.com
 Autre	Orakl Oncology	A	Île-de-France	Legal center	https://wttj.notion.site/legal-hub	+2 data scientist, +2 PhD, +2 researcher, +2 dataset, +2 R&D	http://orakl-oncology.com
+Product / Design	Neuralk-AI	B	Île-de-France	Product	https://www.neuralk-ai.com/product	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Research	https://www.neuralk-ai.com/research	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Solutions	https://www.neuralk-ai.com/solutions	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	White Papers	https://www.neuralk-ai.com/white-papers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Documentation	https://www.neuralk-ai.com/integration-guides	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Benchmarks	https://dashboard.neuralk-ai.com/	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Pricing	https://www.neuralk-ai.com/pricing	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Tabular Talks	https://www.neuralk-ai.com/tabular-talks	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Careers	https://www.neuralk-ai.com/careers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Contact	https://www.neuralk-ai.com/contact	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	AI ScientistFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/ai-scientist	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Dev / Engineering	Neuralk-AI	B	Île-de-France	Forward Deployed EngineerFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/forward-deployed-engineer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Machine Learning EngineerFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/machine-learning-engineer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Product / Design	Neuralk-AI	B	Île-de-France	Product DesignerFull TimeOpening SoonParis / LondonApply	https://www.neuralk-ai.com/job-posting/product-designer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Research EngineerFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/research-engineer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Sales / Business	Neuralk-AI	B	Île-de-France	Senior Account ExecutiveFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/account-executive	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+RH / People	Neuralk-AI	B	Île-de-France	Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/talent-acquisition-partner	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Solutions	https://www.neuralk-ai.com/solutions	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Product / Design	Neuralk-AI	B	Île-de-France	Product	https://www.neuralk-ai.com/product	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Research	https://www.neuralk-ai.com/research	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Try the API	https://www.neuralk-ai.com/careers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Integration Guides	https://www.neuralk-ai.com/integration-guides	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Ops / Infra / QA	Neuralk-AI	B	Île-de-France	Data Security Overview	https://www.neuralk-ai.com/data-security-overview	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Documentation	https://docs.neuralk-ai.com/	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Pricing	https://www.neuralk-ai.com/pricing	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	White Papers	https://www.neuralk-ai.com/white-papers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Tabular Talks	https://www.neuralk-ai.com/tabular-talks	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Careers	https://www.neuralk-ai.com/careers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Reach out	https://www.neuralk-ai.com/contact	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Privacy Policy	https://www.neuralk-ai.com/privacy-policy	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Autre	Neuralk-AI	B	Île-de-France	Terms & Conditions	https://www.neuralk-ai.com/terms-conditions	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
+Sales / Business	Araïko (Cynapps)	B	Auvergne-Rhône-Alpes	01Business Developer Senior : Conseil & projets IA (H/F)	https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7	+2 data science, +2 GPU, +2 chercheur, +2 transformer	http://araiko.ai
+Sales / Business	Araïko (Cynapps)	B	Auvergne-Rhône-Alpes	02Business Developer - Conseil & IA (H/F)	https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93	+2 data science, +2 GPU, +2 chercheur, +2 transformer	http://araiko.ai
+Sales / Business	Araïko (Cynapps)	B	Auvergne-Rhône-Alpes	03Business Developer- activité Conseil (H/F)	https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&o=93f92ee0-614d-4a02-98ae-a234e065701f	+2 data science, +2 GPU, +2 chercheur, +2 transformer	http://araiko.ai
+Autre	PROPHESEE	A	Île-de-France	Comptable & Assistant(e) Administratif(ve)G&A·Paris	https://careers.prophesee.ai/jobs/8742467-comptable-assistant-e-administratif-ve	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+IA / ML / Data Science	PROPHESEE	A	Île-de-France	Computer Vision & AI Software Integrator (F/M/X)Software & AI·Paris	https://careers.prophesee.ai/jobs/8711773-computer-vision-ai-software-integrator-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+IA / ML / Data Science	PROPHESEE	A	Île-de-France	Internship - Event-Based Drone Detection Annotation PipelineSoftware & AI·Paris	https://careers.prophesee.ai/jobs/8699245-internship-event-based-drone-detection-annotation-pipeline	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Dev / Engineering	PROPHESEE	A	Île-de-France	Senior Electronics Engineer (F/M/X)Paris	https://careers.prophesee.ai/jobs/8696107-senior-electronics-engineer-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Dev / Engineering	PROPHESEE	A	Île-de-France	Hardware Engineer (F/M/X)Paris	https://careers.prophesee.ai/jobs/8695898-hardware-engineer-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Dev / Engineering	PROPHESEE	A	Île-de-France	Application Engineer (F/M/X)Paris	https://careers.prophesee.ai/jobs/8692822-application-engineer-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Dev / Engineering	PROPHESEE	A	Île-de-France	Digital IC Verification EngineerHardware·Paris	https://careers.prophesee.ai/jobs/8692730-digital-ic-verification-engineer	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Ops / Infra / QA	PROPHESEE	A	Île-de-France	Revenue Operations Manager (RevOps)Marketing & Sales·Paris	https://careers.prophesee.ai/jobs/8569039-revenue-operations-manager-revops	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Dev / Engineering	PROPHESEE	A	Île-de-France	Sales Development Representative (SDR)Marketing & Sales·Paris	https://careers.prophesee.ai/jobs/8568979-sales-development-representative-sdr	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Autre	PROPHESEE	A	Île-de-France	Explore open positions	https://careers.prophesee.ai/jobs	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Autre	PROPHESEE	A	Île-de-France	Visit our LinkedIn	https://www.linkedin.com/company/chronocam/	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Autre	PROPHESEE	A	Île-de-France	Visit our X	https://x.com/Prophesee_ai	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Autre	PROPHESEE	A	Île-de-France	Visit our Github	https://github.com/prophesee-ai	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Autre	PROPHESEE	A	Île-de-France	Visit our Youtube	https://www.youtube.com/@propheseemetavisionformachines	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Autre	PROPHESEE	A	Île-de-France	Event-Based Vision	https://www.prophesee.ai/event-based-vision/	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
+Autre	PROPHESEE	A	Île-de-France	LinkedIn	https://www.linkedin.com/company/propheseeai/	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
 Product / Design	Alta Ares	A	Île-de-France	PRODUCTS	http://altaares.com/#products	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Autre	Alta Ares	A	Île-de-France	PRESENCE	http://altaares.com/#presence	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Autre	Alta Ares	A	Île-de-France	CAREERS	http://altaares.com/careers	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
@@ -207,58 +257,6 @@ Autre	Alta Ares	A	Île-de-France	Careers	http://altaares.com/careers	+2 annotati
 Autre	Alta Ares	A	Île-de-France	Legal Information	http://altaares.com/legal	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Autre	Alta Ares	A	Île-de-France	LinkedIn	https://www.linkedin.com/company/alta-ares/	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
 Autre	Alta Ares	A	Île-de-France	BACK TO TOP	http://altaares.com/#top	+2 annotation, +2 labeling, +2 dataset, +2 edge AI, +2 R&D	http://altaares.com
-Product / Design	Neuralk-AI	B	Île-de-France	Product	https://www.neuralk-ai.com/product	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Research	https://www.neuralk-ai.com/research	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Solutions	https://www.neuralk-ai.com/solutions	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	White Papers	https://www.neuralk-ai.com/white-papers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Documentation	https://www.neuralk-ai.com/integration-guides	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Benchmarks	https://dashboard.neuralk-ai.com/	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Pricing	https://www.neuralk-ai.com/pricing	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Tabular Talks	https://www.neuralk-ai.com/tabular-talks	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Careers	https://www.neuralk-ai.com/careers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Contact	https://www.neuralk-ai.com/contact	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	AI ScientistFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/ai-scientist	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Dev / Engineering	Neuralk-AI	B	Île-de-France	Forward Deployed EngineerFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/forward-deployed-engineer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Machine Learning EngineerFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/machine-learning-engineer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Product / Design	Neuralk-AI	B	Île-de-France	Product DesignerFull TimeOpening SoonParis / LondonApply	https://www.neuralk-ai.com/job-posting/product-designer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Research EngineerFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/research-engineer	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Sales / Business	Neuralk-AI	B	Île-de-France	Senior Account ExecutiveFull TimeOpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/account-executive	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-RH / People	Neuralk-AI	B	Île-de-France	Talent Acquisition PartnerFull Time (CDI or freelance)OpenParis / LondonApply	https://www.neuralk-ai.com/job-posting/talent-acquisition-partner	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Solutions	https://www.neuralk-ai.com/solutions	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Product / Design	Neuralk-AI	B	Île-de-France	Product	https://www.neuralk-ai.com/product	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-IA / ML / Data Science	Neuralk-AI	B	Île-de-France	Research	https://www.neuralk-ai.com/research	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Try the API	https://www.neuralk-ai.com/careers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Integration Guides	https://www.neuralk-ai.com/integration-guides	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Ops / Infra / QA	Neuralk-AI	B	Île-de-France	Data Security Overview	https://www.neuralk-ai.com/data-security-overview	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Documentation	https://docs.neuralk-ai.com/	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Pricing	https://www.neuralk-ai.com/pricing	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	White Papers	https://www.neuralk-ai.com/white-papers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Tabular Talks	https://www.neuralk-ai.com/tabular-talks	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Careers	https://www.neuralk-ai.com/careers	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Reach out	https://www.neuralk-ai.com/contact	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Privacy Policy	https://www.neuralk-ai.com/privacy-policy	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Autre	Neuralk-AI	B	Île-de-France	Terms & Conditions	https://www.neuralk-ai.com/terms-conditions	+2 data science, +2 dataset, +2 embedding, +2 open-source	www.neuralk-ai.com
-Sales / Business	Araïko (Cynapps)	B	Auvergne-Rhône-Alpes	01Business Developer Senior : Conseil & projets IA (H/F)	https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-spe-conseil-projets-ia-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&o=afbb60b2-ce85-4311-8ecb-08e4649dd2c7	+2 data science, +2 GPU, +2 chercheur, +2 transformer	http://araiko.ai
-Sales / Business	Araïko (Cynapps)	B	Auvergne-Rhône-Alpes	02Business Developer - Conseil & IA (H/F)	https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-generaliste-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&o=b13c59db-d41b-45d7-87cd-5b66d9e5dd93	+2 data science, +2 GPU, +2 chercheur, +2 transformer	http://araiko.ai
-Sales / Business	Araïko (Cynapps)	B	Auvergne-Rhône-Alpes	03Business Developer- activité Conseil (H/F)	https://www.welcometothejungle.com/fr/companies/araiko-ai/jobs/business-developer-activite-conseil-h-f_lyon?q=91b0bcfb6489529339c876d6fec37ea0&o=93f92ee0-614d-4a02-98ae-a234e065701f	+2 data science, +2 GPU, +2 chercheur, +2 transformer	http://araiko.ai
-Autre	PROPHESEE	A	Île-de-France	Comptable & Assistant(e) Administratif(ve)G&A·Paris	https://careers.prophesee.ai/jobs/8742467-comptable-assistant-e-administratif-ve	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-IA / ML / Data Science	PROPHESEE	A	Île-de-France	Computer Vision & AI Software Integrator (F/M/X)Software & AI·Paris	https://careers.prophesee.ai/jobs/8711773-computer-vision-ai-software-integrator-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-IA / ML / Data Science	PROPHESEE	A	Île-de-France	Internship - Event-Based Drone Detection Annotation PipelineSoftware & AI·Paris	https://careers.prophesee.ai/jobs/8699245-internship-event-based-drone-detection-annotation-pipeline	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Dev / Engineering	PROPHESEE	A	Île-de-France	Senior Electronics Engineer (F/M/X)Paris	https://careers.prophesee.ai/jobs/8696107-senior-electronics-engineer-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Dev / Engineering	PROPHESEE	A	Île-de-France	Hardware Engineer (F/M/X)Paris	https://careers.prophesee.ai/jobs/8695898-hardware-engineer-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Dev / Engineering	PROPHESEE	A	Île-de-France	Application Engineer (F/M/X)Paris	https://careers.prophesee.ai/jobs/8692822-application-engineer-f-m-x	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Dev / Engineering	PROPHESEE	A	Île-de-France	Digital IC Verification EngineerHardware·Paris	https://careers.prophesee.ai/jobs/8692730-digital-ic-verification-engineer	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Ops / Infra / QA	PROPHESEE	A	Île-de-France	Revenue Operations Manager (RevOps)Marketing & Sales·Paris	https://careers.prophesee.ai/jobs/8569039-revenue-operations-manager-revops	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Dev / Engineering	PROPHESEE	A	Île-de-France	Sales Development Representative (SDR)Marketing & Sales·Paris	https://careers.prophesee.ai/jobs/8568979-sales-development-representative-sdr	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Autre	PROPHESEE	A	Île-de-France	Explore open positions	https://careers.prophesee.ai/jobs	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Autre	PROPHESEE	A	Île-de-France	Visit our LinkedIn	https://www.linkedin.com/company/chronocam/	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Autre	PROPHESEE	A	Île-de-France	Visit our X	https://x.com/Prophesee_ai	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Autre	PROPHESEE	A	Île-de-France	Visit our Github	https://github.com/prophesee-ai	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Autre	PROPHESEE	A	Île-de-France	Visit our Youtube	https://www.youtube.com/@propheseemetavisionformachines	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Autre	PROPHESEE	A	Île-de-France	Event-Based Vision	https://www.prophesee.ai/event-based-vision/	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Autre	PROPHESEE	A	Île-de-France	LinkedIn	https://www.linkedin.com/company/propheseeai/	+2 computer vision, +2 computer-vision, +2 dataset	https://www.prophesee.ai
-Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
-Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
 Autre	QuantCube Technology	B	Île-de-France	About Us	https://www.quant-cube.com/our-story	+2 data science, +2 GPU, +2 dataset	https://www.quant-cube.com
 Autre	QuantCube Technology	B	Île-de-France	Privacy Policy	https://www.quant-cube.com/privacy-policy	+2 data science, +2 GPU, +2 dataset	https://www.quant-cube.com
 Management / Leadership	QuantCube Technology	B	Île-de-France	Cookie Policy	https://www.quant-cube.com/cookie-policy	+2 data science, +2 GPU, +2 dataset	https://www.quant-cube.com
@@ -290,8 +288,9 @@ Autre	Cobl	B	Nouvelle-Aquitaine	On recrute	https://www.welcometothejungle.com/fr
 Autre	Cobl	B	Nouvelle-Aquitaine	Presse	https://press.welcometothejungle.com/	+2 fine-tuning, +2 data science, +2 annotation	https://www.cobl.ai/
 Autre	Cobl	B	Nouvelle-Aquitaine	Mentions légales	https://www.welcometothejungle.com/fr/pages/legal	+2 fine-tuning, +2 data science, +2 annotation	https://www.cobl.ai/
 Autre	Cobl	B	Nouvelle-Aquitaine	Legal center	https://wttj.notion.site/legal-hub	+2 fine-tuning, +2 data science, +2 annotation	https://www.cobl.ai/
-RH / People	AcuSurgical	B	Occitanie	Let’s Stay ConnectedWe currently do not have open positions, but we are always interested in hearing from talented individuals	https://acusurgical.com/career/design-transfer-engineer/	+2 deep learning, +2 GPU, +2 dataset	https://acusurgical.com
-Autre	AcuSurgical	B	Occitanie	Newsroom	https://acusurgical.com/newsroom/	+2 deep learning, +2 GPU, +2 dataset	https://acusurgical.com
+Autre	Arcascience	B	Île-de-France	Send an open application	https://www.arcascience.ai/join-us#JOIN-US-CONTACT	+2 data science, +2 PhD, +2 edge AI, +2 R&D	https://www.arcascience.ai/
+Autre	Arcascience	B	Île-de-France	Send an open application	https://www.arcascience.ai/join-us#JOIN-US-CONTACT	+2 data science, +2 PhD, +2 edge AI, +2 R&D	https://www.arcascience.ai/
+Autre	Arcascience	B	Île-de-France	Send an open application	https://www.arcascience.ai/join-us#JOIN-US-CONTACT	+2 data science, +2 PhD, +2 edge AI, +2 R&D	https://www.arcascience.ai/
 Autre	Giskard AI	B	Île-de-France	Welcome to the jungle logo	https://www.welcometothejungle.com/en/	+2 annotation, +2 dataset, +2 open-source	https://www.giskard.ai/
 Autre	Giskard AI	B	Île-de-France	Find a job	https://www.welcometothejungle.com/en/get-started/job-title	+2 annotation, +2 dataset, +2 open-source	https://www.giskard.ai/
 Autre	Giskard AI	B	Île-de-France	Explore companies	https://www.welcometothejungle.com/en/companies	+2 annotation, +2 dataset, +2 open-source	https://www.giskard.ai/
@@ -316,36 +315,10 @@ Autre	Giskard AI	B	Île-de-France	We're hiring	https://www.welcometothejungle.co
 Autre	Giskard AI	B	Île-de-France	Legal notice	https://www.welcometothejungle.com/en/pages/legal	+2 annotation, +2 dataset, +2 open-source	https://www.giskard.ai/
 Autre	Giskard AI	B	Île-de-France	Terms of service	https://www.welcometothejungle.com/en/pages/terms	+2 annotation, +2 dataset, +2 open-source	https://www.giskard.ai/
 Autre	Giskard AI	B	Île-de-France	Legal center	https://wttj.notion.site/legal-hub	+2 annotation, +2 dataset, +2 open-source	https://www.giskard.ai/
-Autre	Arcascience	B	Île-de-France	Send an open application	https://www.arcascience.ai/join-us#JOIN-US-CONTACT	+2 data science, +2 PhD, +2 edge AI, +2 R&D	https://www.arcascience.ai/
-Autre	Arcascience	B	Île-de-France	Send an open application	https://www.arcascience.ai/join-us#JOIN-US-CONTACT	+2 data science, +2 PhD, +2 edge AI, +2 R&D	https://www.arcascience.ai/
-Autre	Arcascience	B	Île-de-France	Send an open application	https://www.arcascience.ai/join-us#JOIN-US-CONTACT	+2 data science, +2 PhD, +2 edge AI, +2 R&D	https://www.arcascience.ai/
-Autre	Visionairy	B	Île-de-France	Welcome to the jungle logo	https://www.welcometothejungle.com/fr/	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Trouver un job	https://www.welcometothejungle.com/fr/get-started/job-title	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Explorer les entreprises	https://www.welcometothejungle.com/fr/companies	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Ressources candidats	https://www.welcometothejungle.com/fr/media	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-RH / People	Visionairy	B	Île-de-France	Ressources recruteurs	https://solutions.welcometothejungle.com/resources	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	AI Candidate Coach	https://contact.welcometothejungle.com/candidate-coach	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Je recrute	https://solutions.welcometothejungle.com/?utm_source=welcometothejungle.com&utm_medium=referral&utm_campaign=cta_become_customer_header	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Se connecter	https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fvisionairy	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Explorer les entreprises	https://www.welcometothejungle.com/fr/companies	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Jobs en France	https://www.welcometothejungle.com/fr/pages/offres-emploi-par-metiers-villes	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Jobs par type d’entreprise	https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	AI Candidate Coach	https://contact.welcometothejungle.com/candidate-coach	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Masterclasses	https://landings.welcometothejungle.com/fr/masterclass	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-candidat	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-IA / ML / Data Science	Visionairy	B	Île-de-France	J’ai un compte : Connexion	https://www.welcometothejungle.com/fr/authenticate/signin	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Welcome Hiring Suite	https://solutions.welcometothejungle.com/	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Marque employeur	https://solutions.welcometothejungle.com/marque-employeur	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Nos tarifs	https://solutions.welcometothejungle.com/notre-offre	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Sales / Business	Visionairy	B	Île-de-France	Témoignages clients	https://solutions.welcometothejungle.com/etude-de-cas	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Ressources	https://solutions.welcometothejungle.com/ressources	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-client	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-IA / ML / Data Science	Visionairy	B	Île-de-France	J’ai un compte : Connexion	https://myaccount.welcometothejungle.com/signin	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Concept & histoire	https://about.welcometothejungle.com/	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	On recrute	https://www.welcometothejungle.com/fr/companies/wttj	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Presse	https://press.welcometothejungle.com/	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Mentions légales	https://www.welcometothejungle.com/fr/pages/legal	+2 computer vision, +2 edge AI	https://www.visionairy.io/
-Autre	Visionairy	B	Île-de-France	Legal center	https://wttj.notion.site/legal-hub	+2 computer vision, +2 edge AI	https://www.visionairy.io/
+RH / People	AcuSurgical	B	Occitanie	Let’s Stay ConnectedWe currently do not have open positions, but we are always interested in hearing from talented individuals	https://acusurgical.com/career/design-transfer-engineer/	+2 deep learning, +2 GPU, +2 dataset	https://acusurgical.com
+Autre	AcuSurgical	B	Occitanie	Newsroom	https://acusurgical.com/newsroom/	+2 deep learning, +2 GPU, +2 dataset	https://acusurgical.com
+Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
+Stage / Alternance	Datategy	B	Île-de-France	Datategy Early Careers Program	https://www.datategy.net/datategy-early-careers-program/	+2 machine learning, +2 data science, +2 data scientist	www.datategy.net
 Autre	Akur8	B	Île-de-France	Akur8 PricingAI-powered insurance pricing for P&C and health insurers	https://www.akur8.com/pricing	+2 machine learning, +2 data science	www.akur8.com
 Autre	Akur8	B	Île-de-France	Akur8 ReservingModern reserve analysis with full auditability for P&C insurers	https://www.akur8.com/reserving	+2 machine learning, +2 data science	www.akur8.com
 Autre	Akur8	B	Île-de-France	Akur8 LifeActuarial modeling for life insurers, pension firms and health insurers	https://www.akur8.com/life	+2 machine learning, +2 data science	www.akur8.com
@@ -560,49 +533,6 @@ Autre	Amurabi - opérant sous la marque FairPatterns	B	Île-de-France	9 rue des 
 Autre	Amurabi - opérant sous la marque FairPatterns	B	Île-de-France	Terms and Conditions	https://www.fairpatterns.com/terms-and-conditions	+2 PhD, +2 researcher	https://www.fairpatterns.com/
 Autre	Blix	B	Île-de-France	Contact Us	https://www.joinblix.com#contactus	+2 GPU, +2 dataset	http://joinblix.com
 Autre	Blix	B	Île-de-France	About Us	https://www.joinblix.com#aboutus	+2 GPU, +2 dataset	http://joinblix.com
-Autre	Bleckwen	B	Île-de-France	Welcome to the jungle logo	https://www.welcometothejungle.com/fr/	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Trouver un job	https://www.welcometothejungle.com/fr/get-started/job-title	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Explorer les entreprises	https://www.welcometothejungle.com/fr/companies	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Ressources candidats	https://www.welcometothejungle.com/fr/media	+2 data science, +2 data scientist	www.bleckwen.ai
-RH / People	Bleckwen	B	Île-de-France	Ressources recruteurs	https://solutions.welcometothejungle.com/resources	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	AI Candidate Coach	https://contact.welcometothejungle.com/candidate-coach	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Je recrute	https://solutions.welcometothejungle.com/?utm_source=welcometothejungle.com&utm_medium=referral&utm_campaign=cta_become_customer_header	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Se connecter	https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fbleckwen%2Fjobs	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Explorer les entreprises	https://www.welcometothejungle.com/fr/companies	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Jobs en France	https://www.welcometothejungle.com/fr/pages/offres-emploi-par-metiers-villes	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Jobs par type d’entreprise	https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	AI Candidate Coach	https://contact.welcometothejungle.com/candidate-coach	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Masterclasses	https://landings.welcometothejungle.com/fr/masterclass	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-candidat	+2 data science, +2 data scientist	www.bleckwen.ai
-IA / ML / Data Science	Bleckwen	B	Île-de-France	J’ai un compte : Connexion	https://www.welcometothejungle.com/fr/authenticate/signin	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Welcome Hiring Suite	https://solutions.welcometothejungle.com/	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Marque employeur	https://solutions.welcometothejungle.com/marque-employeur	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Nos tarifs	https://solutions.welcometothejungle.com/notre-offre	+2 data science, +2 data scientist	www.bleckwen.ai
-Sales / Business	Bleckwen	B	Île-de-France	Témoignages clients	https://solutions.welcometothejungle.com/etude-de-cas	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Ressources	https://solutions.welcometothejungle.com/ressources	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Besoin d'aide ?	https://help.welcometothejungle.com/je-suis-client	+2 data science, +2 data scientist	www.bleckwen.ai
-IA / ML / Data Science	Bleckwen	B	Île-de-France	J’ai un compte : Connexion	https://myaccount.welcometothejungle.com/signin	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Concept & histoire	https://about.welcometothejungle.com/	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	On recrute	https://www.welcometothejungle.com/fr/companies/wttj	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Presse	https://press.welcometothejungle.com/	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Mentions légales	https://www.welcometothejungle.com/fr/pages/legal	+2 data science, +2 data scientist	www.bleckwen.ai
-Autre	Bleckwen	B	Île-de-France	Legal center	https://wttj.notion.site/legal-hub	+2 data science, +2 data scientist	www.bleckwen.ai
-Product / Design	Bondzai	B	Occitanie	UX Designer	https://www.bondzai.io/2022/04/29/ux-designer/	+2 deep learning, +2 machine learning	www.bondzai.io
-Dev / Engineering	Bondzai	B	Occitanie	Engineering: Embedded Software Engineer	https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
-IA / ML / Data Science	Bondzai	B	Occitanie	Engineering: AI Engineer	https://www.bondzai.io/2022/04/27/engineering-ai-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
-Management / Leadership	Bondzai	B	Occitanie	Marketing: CPO	https://www.bondzai.io/2022/04/27/marketing-cpo/	+2 deep learning, +2 machine learning	www.bondzai.io
-Marketing / Growth	Bondzai	B	Occitanie	Marketing : CMO	https://www.bondzai.io/2022/04/27/marketing-cmo/	+2 deep learning, +2 machine learning	www.bondzai.io
-Autre	Flowlity	B	Île-de-France	Demand Planning	https://www.flowlity.com/solutions/demand-management/demand-planning	+2 machine learning, +2 dataset	www.flowlity.com
-Autre	Flowlity	B	Île-de-France	Demand Forecasting	https://www.flowlity.com/solutions/demand-management/demand-planning	+2 machine learning, +2 dataset	www.flowlity.com
-Autre	Flowlity	B	Île-de-France	Assortment Planning	https://www.flowlity.com/solutions/revenue-optimization/assortment-planning	+2 machine learning, +2 dataset	www.flowlity.com
-Autre	Flowlity	B	Île-de-France	tailor-made for SMBs	https://www.flowlity.com/solutions/flowlity-lite	+2 machine learning, +2 dataset	www.flowlity.com
-Autre	Flowlity	B	Île-de-France	Free simulators & calculators	https://www.flowlity.com/resource-hub/tools	+2 machine learning, +2 dataset	www.flowlity.com
-Dev / Engineering	Flowlity	B	Île-de-France	Senior Presales / Solution EngineerParis, France (hybrid), Lyon or Bordeaux possibleFull Time	https://www.flowlity.com/careers/senior-presales-solution-engineer	+2 machine learning, +2 dataset	www.flowlity.com
-Sales / Business	Flowlity	B	Île-de-France	Sales ExecutiveRemoteFull Time	https://www.flowlity.com/careers/salesexecutive	+2 machine learning, +2 dataset	www.flowlity.com
-Sales / Business	Flowlity	B	Île-de-France	Customer Success ManagerRemoteFull-time	https://www.flowlity.com/careers/customer-success-manager	+2 machine learning, +2 dataset	www.flowlity.com
-Autre	Flowlity	B	Île-de-France	Demand planning	https://www.flowlity.com/solutions/demand-management/demand-planning	+2 machine learning, +2 dataset	www.flowlity.com
-Autre	Flowlity	B	Île-de-France	MCP | Flowlity Co-planner	https://www.flowlity.com/tech/mcp-ai-co-planner	+2 machine learning, +2 dataset	www.flowlity.com
-Sales / Business	Flowlity	B	Île-de-France	All our customers	https://www.flowlity.com/customers/	+2 machine learning, +2 dataset	www.flowlity.com
 Autre	Sipearl	B	Île-de-France	Home page	https://sipearl.com/	+2 GPU, +2 annotation, +2 inference	www.sipearl.com
 Autre	Sipearl	B	Île-de-France	TERATEC,	http://www.teratec.eu/	+2 GPU, +2 annotation, +2 inference	www.sipearl.com
 Autre	Sipearl	B	Île-de-France	ARCTUR,	https://arctur.si/	+2 GPU, +2 annotation, +2 inference	www.sipearl.com
@@ -633,6 +563,11 @@ Autre	Sipearl	B	Île-de-France	Université de Manchester	https://www.manchester.
 Autre	Sipearl	B	Île-de-France	Université de Pise	https://www.dii.unipi.it/	+2 GPU, +2 annotation, +2 inference	www.sipearl.com
 Autre	Sipearl	B	Île-de-France	Terms & Conditions	https://sipearl.com/terms-conditions-privacy-sipearl	+2 GPU, +2 annotation, +2 inference	www.sipearl.com
 Management / Leadership	Sipearl	B	Île-de-France	Cookies Policy	https://sipearl.com/sipearl-cookie-policy	+2 GPU, +2 annotation, +2 inference	www.sipearl.com
+Product / Design	Bondzai	B	Occitanie	UX Designer	https://www.bondzai.io/2022/04/29/ux-designer/	+2 deep learning, +2 machine learning	www.bondzai.io
+Dev / Engineering	Bondzai	B	Occitanie	Engineering: Embedded Software Engineer	https://www.bondzai.io/2022/04/27/engineering-embedded-software-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
+IA / ML / Data Science	Bondzai	B	Occitanie	Engineering: AI Engineer	https://www.bondzai.io/2022/04/27/engineering-ai-engineer/	+2 deep learning, +2 machine learning	www.bondzai.io
+Management / Leadership	Bondzai	B	Occitanie	Marketing: CPO	https://www.bondzai.io/2022/04/27/marketing-cpo/	+2 deep learning, +2 machine learning	www.bondzai.io
+Marketing / Growth	Bondzai	B	Occitanie	Marketing : CMO	https://www.bondzai.io/2022/04/27/marketing-cmo/	+2 deep learning, +2 machine learning	www.bondzai.io
 Autre	ENDOless	B	Île-de-France	Follow our launch↗	https://www.endoless.app#el-launch	+2 data science, +2 researcher	www.endoless.app
 Dev / Engineering	ENDOless	B	Île-de-France	Understand endometriosis↓	https://www.endoless.app#el-understand	+2 data science, +2 researcher	www.endoless.app
 Autre	ENDOless	B	Île-de-France	Source: World Health Organization ↗	https://www.who.int/news-room/fact-sheets/detail/endometriosis?ref=endoless.app	+2 data science, +2 researcher	www.endoless.app
@@ -652,6 +587,23 @@ Autre	ENDOless	B	Île-de-France	privacy policy (French)	https://www.endoless.app
 Marketing / Growth	ENDOless	B	Île-de-France	Join the community↗	https://www.endoless.app#/portal/signup/free	+2 data science, +2 researcher	www.endoless.app
 Autre	ENDOless	B	Île-de-France	Privacy policy (French)	https://www.endoless.app/politique-de-confidentialite/	+2 data science, +2 researcher	www.endoless.app
 Autre	ENDOless	B	Île-de-France	ENDOless	https://www.endoless.app	+2 data science, +2 researcher	www.endoless.app
+Autre	Flowlity	B	Île-de-France	Demand Planning	https://www.flowlity.com/solutions/demand-management/demand-planning	+2 machine learning, +2 dataset	www.flowlity.com
+Autre	Flowlity	B	Île-de-France	Demand Forecasting	https://www.flowlity.com/solutions/demand-management/demand-planning	+2 machine learning, +2 dataset	www.flowlity.com
+Autre	Flowlity	B	Île-de-France	Assortment Planning	https://www.flowlity.com/solutions/revenue-optimization/assortment-planning	+2 machine learning, +2 dataset	www.flowlity.com
+Autre	Flowlity	B	Île-de-France	tailor-made for SMBs	https://www.flowlity.com/solutions/flowlity-lite	+2 machine learning, +2 dataset	www.flowlity.com
+Autre	Flowlity	B	Île-de-France	Free simulators & calculators	https://www.flowlity.com/resource-hub/tools	+2 machine learning, +2 dataset	www.flowlity.com
+Dev / Engineering	Flowlity	B	Île-de-France	Senior Presales / Solution EngineerParis, France (hybrid), Lyon or Bordeaux possibleFull Time	https://www.flowlity.com/careers/senior-presales-solution-engineer	+2 machine learning, +2 dataset	www.flowlity.com
+Sales / Business	Flowlity	B	Île-de-France	Sales ExecutiveRemoteFull Time	https://www.flowlity.com/careers/salesexecutive	+2 machine learning, +2 dataset	www.flowlity.com
+Sales / Business	Flowlity	B	Île-de-France	Customer Success ManagerRemoteFull-time	https://www.flowlity.com/careers/customer-success-manager	+2 machine learning, +2 dataset	www.flowlity.com
+Autre	Flowlity	B	Île-de-France	Demand planning	https://www.flowlity.com/solutions/demand-management/demand-planning	+2 machine learning, +2 dataset	www.flowlity.com
+Autre	Flowlity	B	Île-de-France	MCP | Flowlity Co-planner	https://www.flowlity.com/tech/mcp-ai-co-planner	+2 machine learning, +2 dataset	www.flowlity.com
+Sales / Business	Flowlity	B	Île-de-France	All our customers	https://www.flowlity.com/customers/	+2 machine learning, +2 dataset	www.flowlity.com
+Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
+Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
+Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
+Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
+Autre	datahawk	B	Île-de-France	Start fo Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
+Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
 Autre	Kalray	B	Auvergne-Rhône-Alpes	Vision	https://www.kalrayinc.com/vision	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Autre	Kalray	B	Auvergne-Rhône-Alpes	Explore the portfolio	https://www.kalrayinc.com/dpu-ips	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Autre	Kalray	B	Auvergne-Rhône-Alpes	See all services	https://www.kalrayinc.com/dpu-design-services	+2 machine learning, +2 computer-vision	www.kalrayinc.com
@@ -685,13 +637,6 @@ Ops / Infra / QA	Kalray	B	Auvergne-Rhône-Alpes	Security	https://www.kalrayinc.c
 Autre	Kalray	B	Auvergne-Rhône-Alpes	5G & Telco Edge	https://www.kalrayinc.com/use-cases/#5g	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Management / Leadership	Kalray	B	Auvergne-Rhône-Alpes	Cookie Policy	https://www.kalrayinc.com/careers	+2 machine learning, +2 computer-vision	www.kalrayinc.com
 Management / Leadership	Kalray	B	Auvergne-Rhône-Alpes	Cookie Policy	https://www.kalrayinc.com/careers	+2 machine learning, +2 computer-vision	www.kalrayinc.com
-Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
-Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
-Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
-Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
-Autre	datahawk	B	Île-de-France	Start fo Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
-Autre	datahawk	B	Île-de-France	Start for Free	https://datahawk.co/demo/	+2 machine learning, +2 GPU, +2 PhD, +2 dataset	https://datahawk.co/
-Autre	Maki people	B	Île-de-France	How Maki Compares	https://www.makipeople.com/alternatives/ai-recruiting-software	+2 data scientist, +2 embedding	https://www.makipeople.com/
 Autre	kentyou	B	Auvergne-Rhône-Alpes	Solutions	https://kentyou.com/about-us/join-us/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
 Autre	kentyou	B	Auvergne-Rhône-Alpes	Data Insight	https://kentyou.com/data-insight/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
 Autre	kentyou	B	Auvergne-Rhône-Alpes	Mobility Insight	https://kentyou.com/mobility-insight/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
@@ -708,19 +653,26 @@ Autre	kentyou	B	Auvergne-Rhône-Alpes	About us	https://kentyou.com/about-us/	+2 
 Autre	kentyou	B	Auvergne-Rhône-Alpes	Partners	https://kentyou.com/partnerships-and-communities/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
 Autre	kentyou	B	Auvergne-Rhône-Alpes	Careers	https://kentyou.com/about-us/join-us/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
 Autre	kentyou	B	Auvergne-Rhône-Alpes	Deployments	https://kentyou.com/deployments/	+2 data scientist, +2 researcher, +2 open-source, +2 R&D	https://kentyou.com/
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	Cas d'application	https://www.delonix.energy/cas-application-top-energy-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	Contact	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	Contact	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	Réservez une démo de TOP-ENERGY®	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	Prendre rendez-vous	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	en savoir plus	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	en savoir plus	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	en savoir plus	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	cas d'utilisation	https://www.delonix.energy/cas-application-top-energy-delonix?hsLang=fr	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	Réservez une démo	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
-Autre	DeloniX	B	Auvergne-Rhône-Alpes	premium HubSpot themes	https://www.fthemes.net/hubspot-themes/	+2 dataset, +2 transformer	www.delonixx.com
+Autre	Maki people	B	Île-de-France	How Maki Compares	https://www.makipeople.com/alternatives/ai-recruiting-software	+2 data scientist, +2 embedding	https://www.makipeople.com/
 Autre	Heex Technologies	B	Île-de-France	Spontaneous Application	https://heex.notion.site/24c54af7e72280d58897c2a52aaaa009	+2 data science, +2 dataset	www.heex.io
-Autre	Jabu	B	Île-de-France	Se connecter	https://app.jabu-app.com	+2 GPU, +2 dataset	www.jabu-app.fr
+Autre	WeDiagnostiX	B	Île-de-France	Découvrir	https://wediagnostix.ai/telechargement	+2 deep learning, +2 annotation, +2 entraîné	https://wediagnostix.ai
+Autre	WeDiagnostiX	B	Île-de-France	Réserver une démo	https://calendly.com/nina-mestres-wediagnostix/30min	+2 deep learning, +2 annotation, +2 entraîné	https://wediagnostix.ai
+Management / Leadership	WeDiagnostiX	B	Île-de-France	Plugin WordPress Cookie par Real Cookie Banner	https://devowl.io/wordpress-real-cookie-banner/	+2 deep learning, +2 annotation, +2 entraîné	https://wediagnostix.ai
+Dev / Engineering	Outsight	B	Île-de-France	Algorithm EngineerAlgorithmsPermanentSophia Antipolis	https://jobs.lever.co/outsight/8b89b1c2-6d41-4384-a925-7d18af717bc4	+2 lidar, +2 LiDAR	www.outsight.ai
+Dev / Engineering	Outsight	B	Île-de-France	Algorithm EngineerAlgorithmsPermanentParis	https://jobs.lever.co/outsight/9006eaa9-9c8e-4c2d-8dd3-1e08e6065243	+2 lidar, +2 LiDAR	www.outsight.ai
+Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllSan Francisco	https://jobs.lever.co/outsight/14083967-fc44-4564-ab71-da8cd2378ea2	+2 lidar, +2 LiDAR	www.outsight.ai
+Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllParis - Sophia Antipolis	https://jobs.lever.co/outsight/552e966a-4382-45e9-8928-ed86f70724ed	+2 lidar, +2 LiDAR	www.outsight.ai
+Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllSingapore	https://jobs.lever.co/outsight/f720f338-0cbd-4aa7-85bf-ad1836390deb	+2 lidar, +2 LiDAR	www.outsight.ai
+IA / ML / Data Science	Outsight	B	Île-de-France	Senior AI & Agentic Backend EngineerApplications & DataPermanentParis	https://jobs.lever.co/outsight/4d7abe31-b57c-4c7c-b1f1-8d1decbbf41d	+2 lidar, +2 LiDAR	www.outsight.ai
+Data	Outsight	B	Île-de-France	Senior Data EngineerApplications & DataPermanentParis	https://jobs.lever.co/outsight/98c02b74-b4de-4bcb-942a-4d3d415df335	+2 lidar, +2 LiDAR	www.outsight.ai
+Dev / Engineering	Outsight	B	Île-de-France	Senior Frontend EngineerApplications & DataPermanentParis	https://jobs.lever.co/outsight/c5a39006-b745-440e-9f6b-715a368adf6b	+2 lidar, +2 LiDAR	www.outsight.ai
+Dev / Engineering	Outsight	B	Île-de-France	Field Deployment EngineerField EngineeringPermanentParis	https://jobs.lever.co/outsight/aa811f51-b8d4-4fa4-b879-afb20b95c076	+2 lidar, +2 LiDAR	www.outsight.ai
+Sales / Business	Outsight	B	Île-de-France	Business ControllerFinancePermanentParis	https://jobs.lever.co/outsight/bce6aeeb-b5c4-4b74-8de4-e0c94f2ed85a	+2 lidar, +2 LiDAR	www.outsight.ai
+Dev / Engineering	Outsight	B	Île-de-France	Senior Software Engineer - PerceptionPerceptionPermanentParis	https://jobs.lever.co/outsight/1e5fdfed-f6d0-4761-be8a-e4187507b7c4	+2 lidar, +2 LiDAR	www.outsight.ai
+Dev / Engineering	Outsight	B	Île-de-France	Application Operations EngineerService OperationsPermanentParis	https://jobs.lever.co/outsight/54d2e92e-b91d-472f-8e53-6e45dcff211c	+2 lidar, +2 LiDAR	www.outsight.ai
+Dev / Engineering	Outsight	B	Île-de-France	Unity Software EngineerSimulationPermanentParis	https://jobs.lever.co/outsight/a93f1fe9-8bf0-4908-8e9f-6ed53e5919bb	+2 lidar, +2 LiDAR	www.outsight.ai
+Ops / Infra / QA	Outsight	B	Île-de-France	Gender Equality Plan	https://www.outsight.ai/gender-equality-plan	+2 lidar, +2 LiDAR	www.outsight.ai
+Autre	MatchTune	B	Île-de-France	matchtune.com/company	https://www.matchtune.com/company	+2 GPU, +2 dataset	https://www.matchtune.com/
 Autre	Energiency	B	Bretagne	Your Challenges	https://www.energiency.com/your-industrys-challenges/	+2 data science, +2 dataset	www.energiency.com
 Autre	Energiency	B	Bretagne	Use cases	https://www.energiency.com/use-cases/	+2 data science, +2 dataset	www.energiency.com
 Autre	Energiency	B	Bretagne	Resources	https://www.energiency.com/resources/	+2 data science, +2 dataset	www.energiency.com
@@ -738,6 +690,44 @@ Autre	Energiency	B	Bretagne	Resources	https://www.energiency.com/resources/	+2 d
 Autre	Energiency	B	Bretagne	Legal Notice	https://www.energiency.com/legal-notice/	+2 data science, +2 dataset	www.energiency.com
 Autre	Energiency	B	Bretagne	Privacy Policy	https://www.energiency.com/privacy-policy/	+2 data science, +2 dataset	www.energiency.com
 Autre	Energiency	B	Bretagne	Haut de page	https://www.energiency.com/jobs/	+2 data science, +2 dataset	www.energiency.com
+Data	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Analytics	https://e-peakpeople-hr.com/peak-analytics/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+RH / People	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Talents	https://e-peakpeople-hr.com/peak-talents/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Recruitment	https://e-peakpeople-hr.com/peak-recruitment/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Relationship	https://e-peakpeople-hr.com/peak-relationship/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak DiligenceM&A Intelligence	https://e-peakpeople-hr.com/human-capital-diligence/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Méthodologie	https://e-peakpeople-hr.com/methodologie/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Société	https://e-peakpeople-hr.com/societe/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Contact	https://e-peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Demander une démo	https://e-peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Accueil	https://www.peakpeople-hr.com/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+RH / People	(E-)PEAK PEOPLE HR	B	Île-de-France	Demander une démo Talents	https://www.peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	LinkedIn	https://www.linkedin.com/company/e-peakpeople-hr	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Data	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Analytics	https://e-peakpeople-hr.com/peak-analytics/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+RH / People	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Talents	https://e-peakpeople-hr.com/peak-talents/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Recruitment	https://e-peakpeople-hr.com/peak-recruitment/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Relationship	https://e-peakpeople-hr.com/peak-relationship/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Diligence	https://e-peakpeople-hr.com/human-capital-diligence/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Société	https://e-peakpeople-hr.com/societe/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Méthodologie	https://e-peakpeople-hr.com/methodologie/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Demander une démo	https://e-peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Politique de confidentialité	https://e-peakpeople-hr.com/politique-de-confidentialite/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Mentions légales	https://e-peakpeople-hr.com/mentions-legales/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Confidentialité	https://e-peakpeople-hr.com/politique-de-confidentialite/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Mentions légales	https://e-peakpeople-hr.com/mentions-legales/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Management / Leadership	(E-)PEAK PEOPLE HR	B	Île-de-France	Cookies	https://www.peakpeople-hr.com/talents/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	En savoir plus	https://e-peakpeople-hr.com/politique-de-confidentialite/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
+Autre	Jabu	B	Île-de-France	Se connecter	https://app.jabu-app.com	+2 GPU, +2 dataset	www.jabu-app.fr
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	Cas d'application	https://www.delonix.energy/cas-application-top-energy-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	Contact	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	Contact	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	Réservez une démo de TOP-ENERGY®	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	Prendre rendez-vous	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	en savoir plus	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	en savoir plus	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	en savoir plus	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	cas d'utilisation	https://www.delonix.energy/cas-application-top-energy-delonix?hsLang=fr	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	Réservez une démo	https://meetings-eu1.hubspot.com/francky-saint-ange/rdv-delonix	+2 dataset, +2 transformer	www.delonixx.com
+Autre	DeloniX	B	Auvergne-Rhône-Alpes	premium HubSpot themes	https://www.fthemes.net/hubspot-themes/	+2 dataset, +2 transformer	www.delonixx.com
 Autre	Comand AI	B	Île-de-France	View all 42 employees	https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B91551649%255D&trk=org-employees_cta_face-pile-cta	+2 reinforcement learning, +2 open-source	https://comand.ai/
 Autre	Comand AI	B	Île-de-France	Theo Nazon	https://fr.linkedin.com/in/theo-nazon?trk=org-employees	+2 reinforcement learning, +2 open-source	https://comand.ai/
 Autre	Comand AI	B	Île-de-France	Loïc Mougeolle	https://fr.linkedin.com/in/lo%C3%AFc-mougeolle?trk=organization_guest_main-feed-card_feed-actor-name	+2 reinforcement learning, +2 open-source	https://comand.ai/
@@ -853,50 +843,18 @@ Autre	Deepki	B	Île-de-France	Who We Are	https://www.deepki.com/about/	+2 GPU, +
 Autre	Deepki	B	Île-de-France	Our Team	https://www.deepki.com/about/leadership-team/	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
 Autre	Deepki	B	Île-de-France	Press Releases	https://www.deepki.com/about/deepki-news/?filter=267#blog-grid-articles	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
 Dev / Engineering	Deepki	B	Île-de-France	Trust Center	https://www.deepki.com/trust-center/	+2 GPU, +2 PhD, +2 dataset	https://www.deepki.com/
-Dev / Engineering	Outsight	B	Île-de-France	Algorithm EngineerAlgorithmsPermanentSophia Antipolis	https://jobs.lever.co/outsight/8b89b1c2-6d41-4384-a925-7d18af717bc4	+2 lidar, +2 LiDAR	www.outsight.ai
-Dev / Engineering	Outsight	B	Île-de-France	Algorithm EngineerAlgorithmsPermanentParis	https://jobs.lever.co/outsight/9006eaa9-9c8e-4c2d-8dd3-1e08e6065243	+2 lidar, +2 LiDAR	www.outsight.ai
-Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllSan Francisco	https://jobs.lever.co/outsight/14083967-fc44-4564-ab71-da8cd2378ea2	+2 lidar, +2 LiDAR	www.outsight.ai
-Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllParis - Sophia Antipolis	https://jobs.lever.co/outsight/552e966a-4382-45e9-8928-ed86f70724ed	+2 lidar, +2 LiDAR	www.outsight.ai
-Autre	Outsight	B	Île-de-France	Spontaneous ApplicationAllSingapore	https://jobs.lever.co/outsight/f720f338-0cbd-4aa7-85bf-ad1836390deb	+2 lidar, +2 LiDAR	www.outsight.ai
-IA / ML / Data Science	Outsight	B	Île-de-France	Senior AI & Agentic Backend EngineerApplications & DataPermanentParis	https://jobs.lever.co/outsight/4d7abe31-b57c-4c7c-b1f1-8d1decbbf41d	+2 lidar, +2 LiDAR	www.outsight.ai
-Data	Outsight	B	Île-de-France	Senior Data EngineerApplications & DataPermanentParis	https://jobs.lever.co/outsight/98c02b74-b4de-4bcb-942a-4d3d415df335	+2 lidar, +2 LiDAR	www.outsight.ai
-Dev / Engineering	Outsight	B	Île-de-France	Senior Frontend EngineerApplications & DataPermanentParis	https://jobs.lever.co/outsight/c5a39006-b745-440e-9f6b-715a368adf6b	+2 lidar, +2 LiDAR	www.outsight.ai
-Dev / Engineering	Outsight	B	Île-de-France	Field Deployment EngineerField EngineeringPermanentParis	https://jobs.lever.co/outsight/aa811f51-b8d4-4fa4-b879-afb20b95c076	+2 lidar, +2 LiDAR	www.outsight.ai
-Sales / Business	Outsight	B	Île-de-France	Business ControllerFinancePermanentParis	https://jobs.lever.co/outsight/bce6aeeb-b5c4-4b74-8de4-e0c94f2ed85a	+2 lidar, +2 LiDAR	www.outsight.ai
-Dev / Engineering	Outsight	B	Île-de-France	Senior Software Engineer - PerceptionPerceptionPermanentParis	https://jobs.lever.co/outsight/1e5fdfed-f6d0-4761-be8a-e4187507b7c4	+2 lidar, +2 LiDAR	www.outsight.ai
-Dev / Engineering	Outsight	B	Île-de-France	Application Operations EngineerService OperationsPermanentParis	https://jobs.lever.co/outsight/54d2e92e-b91d-472f-8e53-6e45dcff211c	+2 lidar, +2 LiDAR	www.outsight.ai
-Dev / Engineering	Outsight	B	Île-de-France	Unity Software EngineerSimulationPermanentParis	https://jobs.lever.co/outsight/a93f1fe9-8bf0-4908-8e9f-6ed53e5919bb	+2 lidar, +2 LiDAR	www.outsight.ai
-Ops / Infra / QA	Outsight	B	Île-de-France	Gender Equality Plan	https://www.outsight.ai/gender-equality-plan	+2 lidar, +2 LiDAR	www.outsight.ai
-Autre	MatchTune	B	Île-de-France	matchtune.com/company	https://www.matchtune.com/company	+2 GPU, +2 dataset	https://www.matchtune.com/
-Data	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Analytics	https://e-peakpeople-hr.com/peak-analytics/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-RH / People	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Talents	https://e-peakpeople-hr.com/peak-talents/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Recruitment	https://e-peakpeople-hr.com/peak-recruitment/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Relationship	https://e-peakpeople-hr.com/peak-relationship/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak DiligenceM&A Intelligence	https://e-peakpeople-hr.com/human-capital-diligence/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Méthodologie	https://e-peakpeople-hr.com/methodologie/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Société	https://e-peakpeople-hr.com/societe/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Contact	https://e-peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Demander une démo	https://e-peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Accueil	https://www.peakpeople-hr.com/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-RH / People	(E-)PEAK PEOPLE HR	B	Île-de-France	Demander une démo Talents	https://www.peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	LinkedIn	https://www.linkedin.com/company/e-peakpeople-hr	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Data	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Analytics	https://e-peakpeople-hr.com/peak-analytics/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-RH / People	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Talents	https://e-peakpeople-hr.com/peak-talents/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Recruitment	https://e-peakpeople-hr.com/peak-recruitment/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Relationship	https://e-peakpeople-hr.com/peak-relationship/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Peak Diligence	https://e-peakpeople-hr.com/human-capital-diligence/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Société	https://e-peakpeople-hr.com/societe/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Méthodologie	https://e-peakpeople-hr.com/methodologie/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Demander une démo	https://e-peakpeople-hr.com/contact/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Politique de confidentialité	https://e-peakpeople-hr.com/politique-de-confidentialite/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Mentions légales	https://e-peakpeople-hr.com/mentions-legales/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Confidentialité	https://e-peakpeople-hr.com/politique-de-confidentialite/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	Mentions légales	https://e-peakpeople-hr.com/mentions-legales/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Management / Leadership	(E-)PEAK PEOPLE HR	B	Île-de-France	Cookies	https://www.peakpeople-hr.com/talents/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	(E-)PEAK PEOPLE HR	B	Île-de-France	En savoir plus	https://e-peakpeople-hr.com/politique-de-confidentialite/	+2 machine learning, +2 data science	https://www.peakpeople-hr.com/fr/
-Autre	WeDiagnostiX	B	Île-de-France	Découvrir	https://wediagnostix.ai/telechargement	+2 deep learning, +2 annotation, +2 entraîné	https://wediagnostix.ai
-Autre	WeDiagnostiX	B	Île-de-France	Réserver une démo	https://calendly.com/nina-mestres-wediagnostix/30min	+2 deep learning, +2 annotation, +2 entraîné	https://wediagnostix.ai
-Management / Leadership	WeDiagnostiX	B	Île-de-France	Plugin WordPress Cookie par Real Cookie Banner	https://devowl.io/wordpress-real-cookie-banner/	+2 deep learning, +2 annotation, +2 entraîné	https://wediagnostix.ai
+Autre	Resilience	B	Île-de-France	Oncology	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Psychiatry	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Gastroenterology	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Life Sciences	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Articles	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	White Papers	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Case Studies	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Scientific publications	https://resilience.care/scientifics-publications	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Publications	https://resilience.care/scientifics-publications	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Read more	https://resilience.care/resilience-resources/remote-monitoring-oncology-dr-ethan-basch	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	Read more	https://resilience.care/resilience-resources/resilience-care-acquires-recovery-cat	+2 researcher, +2 dataset	https://resilience.care
+Autre	Resilience	B	Île-de-France	User guide	https://telesurveillance.resilience.care/hubfs/User%20guide/IFU-ResiliencePRO_User_guide_Healthcare_Professional.pdf	+2 researcher, +2 dataset	https://resilience.care
 Product / Design	Tilkal	B	Île-de-France	Digital Product Passport	https://www.tilkal.com/digital-product-passports	+2 GPU, +2 dataset	www.tilkal.com
 Autre	Tilkal	B	Île-de-France	Digital Battery Passport	https://www.tilkal.com/digital-battery-passport	+2 GPU, +2 dataset	www.tilkal.com
 Autre	Tilkal	B	Île-de-France	Risk Assessment	https://www.tilkal.com/risk-assessment	+2 GPU, +2 dataset	www.tilkal.com
@@ -949,66 +907,6 @@ Autre	Tilkal	B	Île-de-France	Subscribe to our Newsletter	https://www.tilkal.com
 Autre	Tilkal	B	Île-de-France	Privacy Policy	https://www.tilkal.com/privacy-policy	+2 GPU, +2 dataset	www.tilkal.com
 Autre	Tilkal	B	Île-de-France	Terms of Use	https://www.tilkal.com/terms-of-use	+2 GPU, +2 dataset	www.tilkal.com
 Autre	Tilkal	B	Île-de-France	Legal Notice	https://www.tilkal.com/legal-notice	+2 GPU, +2 dataset	www.tilkal.com
-Autre	Resilience	B	Île-de-France	Oncology	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Psychiatry	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Gastroenterology	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Life Sciences	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Articles	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	White Papers	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Case Studies	https://resilience.care/library	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Scientific publications	https://resilience.care/scientifics-publications	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Publications	https://resilience.care/scientifics-publications	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Read more	https://resilience.care/resilience-resources/remote-monitoring-oncology-dr-ethan-basch	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	Read more	https://resilience.care/resilience-resources/resilience-care-acquires-recovery-cat	+2 researcher, +2 dataset	https://resilience.care
-Autre	Resilience	B	Île-de-France	User guide	https://telesurveillance.resilience.care/hubfs/User%20guide/IFU-ResiliencePRO_User_guide_Healthcare_Professional.pdf	+2 researcher, +2 dataset	https://resilience.care
-Autre	Naïo Technologies	B	Occitanie	frFrançais	https://www.naio-technologies.com/rejoindre-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	enEnglish	https://www.naio-technologies.com/en/join-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	OzL’ASSISTANT POUR SEMER ET DÉSHERBER EN MARAÎCHAGE ET CULTURES SPÉCIALISÉES	https://www.naio-technologies.com/oz/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	TedLE PREMIER ENJAMBEUR VITICOLE RÉELLEMENT AUTONOME ET POLYVALENT	https://www.naio-technologies.com/ted/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	SankaLE ROBOT PORTE-OUTILS AUTONOME SUR CHENILLES POUR LES CULTURES PÉRENNES	https://www.naio-technologies.com/sanka/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	OrioLE PORTE-OUTILS AUTONOME POUR CULTURES LÉGUMIÈRES ET PÉPINIÈRES	https://www.naio-technologies.com/orio/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	JoLE CHENILLARD AUTONOME POUR VIGNES ÉTROITES, PÉPINIÈRES ET PETITS FRUITS	https://www.naio-technologies.com/jo/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Contactez-nous	https://www.naio-technologies.com/contactez-nous/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Autonomie Augmentée	https://www.naio-technologies.com/autonomie-augmentee/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	L’App Naïo	https://www.naio-technologies.com/companion/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	OzL’ASSISTANT POUR SEMER ET DÉSHERBER EN MARAÎCHAGE ET CULTURES SPÉCIALISÉES	https://www.naio-technologies.com/oz/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	TedLE PREMIER ENJAMBEUR VITICOLE RÉELLEMENT AUTONOME ET POLYVALENT	https://www.naio-technologies.com/ted/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	SankaLE ROBOT PORTE-OUTILS AUTONOME SUR CHENILLES POUR LES CULTURES PÉRENNES	https://www.naio-technologies.com/sanka/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	OrioLE PORTE-OUTILS AUTONOME POUR CULTURES LÉGUMIÈRES ET PÉPINIÈRES	https://www.naio-technologies.com/orio/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	JoLE CHENILLARD AUTONOME POUR VIGNES ÉTROITES, PÉPINIÈRES ET PETITS FRUITS	https://www.naio-technologies.com/jo/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	À Propos	https://www.naio-technologies.com/a-propos/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Événements	https://www.naio-technologies.com/nos-evenements/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Actualités	https://www.naio-technologies.com/actualites/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Presse	https://www.naio-technologies.com/presse/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Formations	https://www.naio-technologies.com/actualite/formations-concernant-nos-robots/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Recrutement	https://www.naio-technologies.com/rejoindre-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Contactez-nous	https://www.naio-technologies.com/contactez-nous/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Facebook	https://www.facebook.com/NaioTechnologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Linkedin	https://www.linkedin.com/company/na-o-technologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Instagram	https://www.instagram.com/naiotech	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	YouTube	https://www.youtube.com/channel/UCsGYGQ--LELwM0br_dJztUw	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Accueil	https://www.naio-technologies.com/#jstop	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Nous contacter	https://www.naio-technologies.com/candidature/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	OZL’assistant pour le maraîchageet les cultures spécialisées.Préparation du sol, semis, désherbage.Découvrir Oz	https://www.naio-technologies.com/oz/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	TEDLe seul enjambeur viticole autonome.Entretien de l’inter-rang, désherbage sous le rang, gestion du feuillage.Découvrir Ted	https://www.naio-technologies.com/ted/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	JOLe chenillard des vignes étroites, pépinières & petits fruits.Entretien de l’inter-rang, désherbage sous le rang, gestion du feuillage.Découvrir Jo	https://www.naio-technologies.com/jo/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	ORIOLe porte-outils polyvalent pour les cultures légumières et la pépinière.Préparation du sol, semis, désherbage.Découvrir Orio	https://www.naio-technologies.com/orio/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Facebook	https://www.facebook.com/NaioTechnologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Linkedin	https://www.linkedin.com/company/na-o-technologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Instagram	https://www.instagram.com/naiotech	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	YouTube	https://www.youtube.com/channel/UCsGYGQ--LELwM0br_dJztUw	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Autonomie Augmentée	https://www.naio-technologies.com/autonomie-augmentee/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	L’App Naïo	https://www.naio-technologies.com/companion/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	À Propos	https://www.naio-technologies.com/a-propos/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Événements	https://www.naio-technologies.com/nos-evenements/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Actualités	https://www.naio-technologies.com/actualites/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Presse	https://www.naio-technologies.com/presse/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Formations	https://www.naio-technologies.com/actualite/formations-concernant-nos-robots/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Recrutement	https://www.naio-technologies.com/rejoindre-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Contactez-nous	https://www.naio-technologies.com/contactez-nous/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Agence SPKTR	https://spktr.fr	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Index d’égalité professionnelle	https://www.naio-technologies.com/index-degalite-professionnelle-homme-femme/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
-Autre	Naïo Technologies	B	Occitanie	Mentions légales	https://www.naio-technologies.com/mentions-legales/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
 Autre	Prof en Poche	B	Nouvelle-Aquitaine	Accueil	https://profenpoche.com/	+2 chercheur, +2 transformer	https://profenpoche.com
 Autre	Prof en Poche	B	Nouvelle-Aquitaine	Nos projets	https://profenpoche.com/nos-projets/	+2 chercheur, +2 transformer	https://profenpoche.com
 Autre	Prof en Poche	B	Nouvelle-Aquitaine	Le coworking	https://profenpoche.com/coworking-pau-bayonne/	+2 chercheur, +2 transformer	https://profenpoche.com
@@ -1065,6 +963,54 @@ Autre	Prof en Poche	B	Nouvelle-Aquitaine	{title}	https://profenpoche.com/careers
 Autre	Prof en Poche	B	Nouvelle-Aquitaine	{title}	https://profenpoche.com/careers	+2 chercheur, +2 transformer	https://profenpoche.com
 Dev / Engineering	One Biosciences	B	Île-de-France	One Biosciences and CHU Nantes advance precision medicine in multiple myeloma with real-time singlecell profiling	https://onebiosciences.fr/wp-content/uploads/2026/09/PR-CHU-Nantes-OBS-immunoMM-VF.pdf	+2 machine learning, +2 PhD	www.onebiosciences.fr
 Dev / Engineering	One Biosciences	B	Île-de-France	One Biosciences Presents Validation Data Supporting First Prospective Study of Real-Time Single-Cell Sequencing of Clinical FFPE Tumor Samples	https://onebiosciences.fr/wp-content/uploads/2026/09/OBS-ESMO-MAP-Release-CLB.pdf	+2 machine learning, +2 PhD	www.onebiosciences.fr
+Autre	Naïo Technologies	B	Occitanie	frFrançais	https://www.naio-technologies.com/rejoindre-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	enEnglish	https://www.naio-technologies.com/en/join-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	OzL’ASSISTANT POUR SEMER ET DÉSHERBER EN MARAÎCHAGE ET CULTURES SPÉCIALISÉES	https://www.naio-technologies.com/oz/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	TedLE PREMIER ENJAMBEUR VITICOLE RÉELLEMENT AUTONOME ET POLYVALENT	https://www.naio-technologies.com/ted/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	SankaLE ROBOT PORTE-OUTILS AUTONOME SUR CHENILLES POUR LES CULTURES PÉRENNES	https://www.naio-technologies.com/sanka/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	OrioLE PORTE-OUTILS AUTONOME POUR CULTURES LÉGUMIÈRES ET PÉPINIÈRES	https://www.naio-technologies.com/orio/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	JoLE CHENILLARD AUTONOME POUR VIGNES ÉTROITES, PÉPINIÈRES ET PETITS FRUITS	https://www.naio-technologies.com/jo/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Contactez-nous	https://www.naio-technologies.com/contactez-nous/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Autonomie Augmentée	https://www.naio-technologies.com/autonomie-augmentee/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	L’App Naïo	https://www.naio-technologies.com/companion/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	OzL’ASSISTANT POUR SEMER ET DÉSHERBER EN MARAÎCHAGE ET CULTURES SPÉCIALISÉES	https://www.naio-technologies.com/oz/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	TedLE PREMIER ENJAMBEUR VITICOLE RÉELLEMENT AUTONOME ET POLYVALENT	https://www.naio-technologies.com/ted/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	SankaLE ROBOT PORTE-OUTILS AUTONOME SUR CHENILLES POUR LES CULTURES PÉRENNES	https://www.naio-technologies.com/sanka/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	OrioLE PORTE-OUTILS AUTONOME POUR CULTURES LÉGUMIÈRES ET PÉPINIÈRES	https://www.naio-technologies.com/orio/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	JoLE CHENILLARD AUTONOME POUR VIGNES ÉTROITES, PÉPINIÈRES ET PETITS FRUITS	https://www.naio-technologies.com/jo/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	À Propos	https://www.naio-technologies.com/a-propos/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Événements	https://www.naio-technologies.com/nos-evenements/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Actualités	https://www.naio-technologies.com/actualites/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Presse	https://www.naio-technologies.com/presse/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Formations	https://www.naio-technologies.com/actualite/formations-concernant-nos-robots/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Recrutement	https://www.naio-technologies.com/rejoindre-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Contactez-nous	https://www.naio-technologies.com/contactez-nous/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Facebook	https://www.facebook.com/NaioTechnologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Linkedin	https://www.linkedin.com/company/na-o-technologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Instagram	https://www.instagram.com/naiotech	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	YouTube	https://www.youtube.com/channel/UCsGYGQ--LELwM0br_dJztUw	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Accueil	https://www.naio-technologies.com/#jstop	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Nous contacter	https://www.naio-technologies.com/candidature/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	OZL’assistant pour le maraîchageet les cultures spécialisées.Préparation du sol, semis, désherbage.Découvrir Oz	https://www.naio-technologies.com/oz/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	TEDLe seul enjambeur viticole autonome.Entretien de l’inter-rang, désherbage sous le rang, gestion du feuillage.Découvrir Ted	https://www.naio-technologies.com/ted/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	JOLe chenillard des vignes étroites, pépinières & petits fruits.Entretien de l’inter-rang, désherbage sous le rang, gestion du feuillage.Découvrir Jo	https://www.naio-technologies.com/jo/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	ORIOLe porte-outils polyvalent pour les cultures légumières et la pépinière.Préparation du sol, semis, désherbage.Découvrir Orio	https://www.naio-technologies.com/orio/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Facebook	https://www.facebook.com/NaioTechnologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Linkedin	https://www.linkedin.com/company/na-o-technologies	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Instagram	https://www.instagram.com/naiotech	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	YouTube	https://www.youtube.com/channel/UCsGYGQ--LELwM0br_dJztUw	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Autonomie Augmentée	https://www.naio-technologies.com/autonomie-augmentee/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	L’App Naïo	https://www.naio-technologies.com/companion/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	À Propos	https://www.naio-technologies.com/a-propos/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Événements	https://www.naio-technologies.com/nos-evenements/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Actualités	https://www.naio-technologies.com/actualites/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Presse	https://www.naio-technologies.com/presse/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Formations	https://www.naio-technologies.com/actualite/formations-concernant-nos-robots/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Recrutement	https://www.naio-technologies.com/rejoindre-naio-technologies/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Contactez-nous	https://www.naio-technologies.com/contactez-nous/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Agence SPKTR	https://spktr.fr	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Index d’égalité professionnelle	https://www.naio-technologies.com/index-degalite-professionnelle-homme-femme/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
+Autre	Naïo Technologies	B	Occitanie	Mentions légales	https://www.naio-technologies.com/mentions-legales/	+2 GPU, +2 PhD	https://www.naio-technologies.com/
 Product / Design	Aprex Solutions	B	Grand Est	CONTRÔLE DE PRODUCTION INDUSTRIELLEContrôle qualité, conformité, procédés : des applications et des dispositifs de vision installées  clés en main sur vos lignes.Lire plus	https://www.aprex-solutions.com/fr/solutions/6-controle-de-production-industrielle	+2 computer vision, +2 chercheur, +2 R&D	www.aprex-solutions.com
 IA / ML / Data Science	Aprex Solutions	B	Grand Est	COMPUTER VISION & ANALYSE D'IMAGESDes algorithmes à l'état de l'art, de détection, de suivi et de mesure pour vos images de R&D : microscopie, caméra rapide, hyperspectral...Lire plus	https://www.aprex-solutions.com/fr/solutions/7-computer-vision-analyse-d-images	+2 computer vision, +2 chercheur, +2 R&D	www.aprex-solutions.com
 Autre	Aprex Solutions	B	Grand Est	LOGICIELS DE VISION INDUSTRIELLEAX IA, AX VISION, et AX CENTER SUPERVISOR : contrôles sans code, modèles d'IA et pilotage qualité multi-lignes et multi-sites.Lire plus	https://www.aprex-solutions.com/fr/solutions/5-logiciels-de-vision-industrielle	+2 computer vision, +2 chercheur, +2 R&D	www.aprex-solutions.com
@@ -1096,4 +1042,12 @@ Autre	Aprex Solutions	B	Grand Est	Actualités & blog	https://www.aprex-solutions
 Autre	Aprex Solutions	B	Grand Est	Recrutement	https://www.aprex-solutions.com/fr/la-societe?scrollTo=company-join-us	+2 computer vision, +2 chercheur, +2 R&D	www.aprex-solutions.com
 Autre	Aprex Solutions	B	Grand Est	demander une démo	https://www.aprex-solutions.com/fr/contact	+2 computer vision, +2 chercheur, +2 R&D	www.aprex-solutions.com
 Autre	Aprex Solutions	B	Grand Est	LinkedIn	https://www.linkedin.com/company/aprex-solutions/?viewAsMember=true	+2 computer vision, +2 chercheur, +2 R&D	www.aprex-solutions.com
-Autre	Hiboo	B	Île-de-France	[email protected]	https://www.notion.so/cdn-cgi/l/email-protection#503a3f393e7d2523103839323f3f7e393f	+2 GPU, +2 PhD	https://www.hiboo.io/
+Autre	Hiboo	B	Île-de-France	[email protected]	https://www.notion.so/cdn-cgi/l/email-protection#98f2f7f1f6b5edebd8f0f1faf7f7b6f1f7	+2 GPU, +2 PhD	https://www.hiboo.io/
+Ops / Infra / QA	Lipstip	B	Nouvelle-Aquitaine	Security & Technology	https://www.lipstip.com/our-tech/	+2 researcher, +2 dataset	www.lipstip.com
+Autre	Lipstip	B	Nouvelle-Aquitaine	Careers	https://www.lipstip.com/the-crew/	+2 researcher, +2 dataset	www.lipstip.com
+Autre	Lipstip	B	Nouvelle-Aquitaine	Ressources	https://www.lipstip.com/ip-ressources/	+2 researcher, +2 dataset	www.lipstip.com
+Autre	Lipstip	B	Nouvelle-Aquitaine	BOOK A DEMO	https://www.lipstip.com/contact/	+2 researcher, +2 dataset	www.lipstip.com
+Autre	Lipstip	B	Nouvelle-Aquitaine	Legal notice	https://www.lipstip.com/the-crew/	+2 researcher, +2 dataset	www.lipstip.com
+Autre	Lipstip	B	Nouvelle-Aquitaine	Privacy policy	https://www.lipstip.com/the-crew/	+2 researcher, +2 dataset	www.lipstip.com
+Management / Leadership	Lipstip	B	Nouvelle-Aquitaine	Cookies notice	https://www.lipstip.com/the-crew/	+2 researcher, +2 dataset	www.lipstip.com
+Autre	Lipstip	B	Nouvelle-Aquitaine	Careers at lipstip	https://www.lipstip.com/the-crew/	+2 researcher, +2 dataset	www.lipstip.com
