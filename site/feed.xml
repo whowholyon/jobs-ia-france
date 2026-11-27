@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Thu, 26 Nov 2026 21:11:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 07:38:56 +0000</lastBuildDate>
 <item>
 <title>Documentation - Bioptimus</title>
 <link>https://docs.bioptimus.com/documentation/introduction</link>
@@ -26,108 +26,6 @@
 <title>Documentation - Bioptimus</title>
 <link>https://docs.bioptimus.com/documentation/introduction</link>
 <description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fxxii-group%2Fjobs</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - XXII</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - XXII</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Besoin d'aide ? - XXII</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - XXII</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
 <category>Autre</category>
 </item>
 <item>
@@ -278,6 +176,12 @@
 <title>Data Transfer Agreement - Flex.ai</title>
 <link>https://www.flex.ai/data-transfer-agreement</link>
 <description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
 <category>Autre</category>
 </item>
 <item>
@@ -497,112 +401,208 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Welcome to the jungle logo - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - Orakl Oncology</title>
+<title>Trouver un job - XXII</title>
 <link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Explorer les entreprises - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies</link>
+<title>Se connecter - XXII</title>
+<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fxxii-group%2Fjobs</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Ressources candidats - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/media</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Ressources recruteurs - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/resources</link>
-<description>RH / People | Île-de-France</description>
-<category>RH / People</category>
-</item>
-<item>
-<title>AI Candidate Coach - Orakl Oncology</title>
-<link>https://contact.welcometothejungle.com/candidate-coach</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Je recrute - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/?utm_source=welcometothejungle.com&amp;utm_medium=referral&amp;utm_campaign=cta_become_customer_header</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Forakl-oncology</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explorer les entreprises - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs en France - Orakl Oncology</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-emploi-par-metiers-villes</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - Orakl Oncology</title>
+<title>Jobs par type d’entreprise - XXII</title>
 <link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>AI Candidate Coach - Orakl Oncology</title>
-<link>https://contact.welcometothejungle.com/candidate-coach</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Masterclasses - Orakl Oncology</title>
-<link>https://landings.welcometothejungle.com/fr/masterclass</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Orakl Oncology</title>
+<title>Besoin d'aide ? - XXII</title>
 <link>https://help.welcometothejungle.com/je-suis-candidat</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>J’ai un compte : Connexion - Orakl Oncology</title>
+<title>J’ai un compte : Connexion - XXII</title>
 <link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
 <description>IA / ML / Data Science | Île-de-France</description>
 <category>IA / ML / Data Science</category>
 </item>
 <item>
-<title>Welcome Hiring Suite - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/</link>
+<title>Besoin d'aide ? - XXII</title>
+<link>https://help.welcometothejungle.com/je-suis-client</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Marque employeur - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/marque-employeur</link>
+<title>J’ai un compte : Connexion - XXII</title>
+<link>https://myaccount.welcometothejungle.com/signin</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>PRODUCTS - Alta Ares</title>
+<link>http://altaares.com/#products</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>PRESENCE - Alta Ares</title>
+<link>http://altaares.com/#presence</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
 </item>
 <item>
-<title>Nos tarifs - Orakl Oncology</title>
-<link>https://solutions.welcometothejungle.com/notre-offre</link>
+<title>CAREERS - Alta Ares</title>
+<link>http://altaares.com/careers</link>
 <description>Autre | Île-de-France</description>
 <category>Autre</category>
+</item>
+<item>
+<title>JOIN THE MISSION - Alta Ares</title>
+<link>http://altaares.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>DISCOVER OUR PRODUCTS - Alta Ares</title>
+<link>http://altaares.com/#products</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/x-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/x-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/black-bird</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/aquila</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/gamma-istar</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/pixel-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/cyclops</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/x-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/black-bird</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/aquila</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/gamma-istar</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/pixel-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/cyclops</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/x-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/black-bird</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/aquila</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/gamma-istar</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/pixel-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/cyclops</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Magasinier -StoresOperativeMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/51f30382-7fa3-4a32-9d17-3d3b4ad6c439</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AcheteurIndustrielMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2d8fb4d7-4af4-4518-ad8b-e3dd1ada11da</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>ValidationEngineerMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/ad850334-8586-47af-8b97-0db8a1a8c306</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
 </item>
 
 </channel>
