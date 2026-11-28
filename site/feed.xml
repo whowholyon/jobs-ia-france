@@ -3,7 +3,7 @@
 <channel>
 <title>Jobs IA France</title>
 <description>Offres d'emploi dans les startups IA francaises qui font de la vraie tech</description>
-<lastBuildDate>Fri, 27 Nov 2026 20:54:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 07:05:56 +0000</lastBuildDate>
 <item>
 <title>Documentation - Bioptimus</title>
 <link>https://docs.bioptimus.com/documentation/introduction</link>
@@ -26,12 +26,6 @@
 <title>Documentation - Bioptimus</title>
 <link>https://docs.bioptimus.com/documentation/introduction</link>
 <description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Spontaneous application - tchek</title>
-<link>https://www.tchek.ai/company/career#spontaneous-application</link>
-<description>Autre | Provence-Alpes-Côte d'Azur</description>
 <category>Autre</category>
 </item>
 <item>
@@ -185,6 +179,12 @@
 <category>Autre</category>
 </item>
 <item>
+<title>Spontaneous application - tchek</title>
+<link>https://www.tchek.ai/company/career#spontaneous-application</link>
+<description>Autre | Provence-Alpes-Côte d'Azur</description>
+<category>Autre</category>
+</item>
+<item>
 <title>Y aller maintenant / Go to RELEX - IDA</title>
 <link>https://relexsolutions.com</link>
 <description>Autre | Auvergne-Rhône-Alpes</description>
@@ -209,12 +209,6 @@
 <category>Autre</category>
 </item>
 <item>
-<title>Support - Pop Sink</title>
-<link>https://www.popsink.com/support</link>
-<description>Autre | Hauts-de-France</description>
-<category>Autre</category>
-</item>
-<item>
 <title>ORIAS no. 21002735 - Ai For Alpha</title>
 <link>https://www.orias.fr/</link>
 <description>Autre | Île-de-France</description>
@@ -233,255 +227,9 @@
 <category>Autre</category>
 </item>
 <item>
-<title>business intelligence - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/text-to-sql</link>
-<description>Data | Île-de-France</description>
-<category>Data</category>
-</item>
-<item>
-<title>customer support - Adaptive ML</title>
-<link>https://www.adaptive-ml.com/use-case/customer-support</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Welcome to the jungle logo - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Find a job - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/get-started/job-title</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explore companies - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Candidate resources - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/media</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Recruiter resources - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/resources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Candidate Coach - Heuritech</title>
-<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>I'm a recruiter - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/?utm_source=welcometothejungle.com&amp;utm_medium=referral&amp;utm_campaign=cta_become_customer_header</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Sign in - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signin?redirect=%2Fen%2Fcompanies%2Fluxurynsight</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Explore companies - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>AI Candidate Coach - Heuritech</title>
-<link>https://contact.welcometothejungle.com/candidate-coach-en</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Need help? - Heuritech</title>
-<link>https://help.welcometothejungle.com/en/im-a-candidate</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Have an account? Log in - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/authenticate/signin</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Welcome Hiring Suite - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Employer branding - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/employer-brand</link>
-<description>Marketing / Growth | Île-de-France</description>
-<category>Marketing / Growth</category>
-</item>
-<item>
-<title>Pricing - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/pricing</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Clients' testimonials - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/case-study</link>
-<description>Ops / Infra / QA | Île-de-France</description>
-<category>Ops / Infra / QA</category>
-</item>
-<item>
-<title>Resources - Heuritech</title>
-<link>https://solutions.welcometothejungle.com/en/resources</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Need help? - Heuritech</title>
-<link>https://help.welcometothejungle.com/en/im-a-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Have an account? Log in - Heuritech</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>Sales / Business | Île-de-France</description>
-<category>Sales / Business</category>
-</item>
-<item>
-<title>Our concept and story - Heuritech</title>
-<link>https://about.welcometothejungle.com/</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>We're hiring - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/companies/wttj</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Legal notice - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/pages/legal</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Terms of service - Heuritech</title>
-<link>https://www.welcometothejungle.com/en/pages/terms</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Legal center - Heuritech</title>
-<link>https://wttj.notion.site/legal-hub</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Trouver un job - XXII</title>
-<link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Fxxii-group%2Fjobs</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - XXII</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - XXII</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - XXII</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Besoin d'aide ? - XXII</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - XXII</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Trouver un job - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Se connecter - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin?redirect=%2Ffr%2Fcompanies%2Flucky-cart%2Fjobs</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Jobs par type d’entreprise - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/pages/offres-par-villes-metiers</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-candidat</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Besoin d'aide ? - Lucky cart</title>
-<link>https://help.welcometothejungle.com/je-suis-client</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>J’ai un compte : Connexion - Lucky cart</title>
-<link>https://myaccount.welcometothejungle.com/signin</link>
-<description>IA / ML / Data Science | Île-de-France</description>
-<category>IA / ML / Data Science</category>
-</item>
-<item>
-<title>Trouver un job - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/get-started/job-title</link>
-<description>Autre | Île-de-France</description>
-<category>Autre</category>
-</item>
-<item>
-<title>Découvrir mes matchs - Welcome to the Jungle</title>
-<link>https://www.welcometothejungle.com/fr/authenticate/signup?redirect=%2Ffr%2Fjobs-matches</link>
-<description>Autre | Île-de-France</description>
+<title>Support - Pop Sink</title>
+<link>https://www.popsink.com/support</link>
+<description>Autre | Hauts-de-France</description>
 <category>Autre</category>
 </item>
 <item>
@@ -603,6 +351,258 @@
 <link>http://altaares.com/products/black-bird</link>
 <description>Product / Design | Île-de-France</description>
 <category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/aquila</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/gamma-istar</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/pixel-lock</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>DISCOVER THE PRODUCT - Alta Ares</title>
+<link>http://altaares.com/products/cyclops</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Magasinier -StoresOperativeMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/51f30382-7fa3-4a32-9d17-3d3b4ad6c439</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AcheteurIndustrielMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2d8fb4d7-4af4-4518-ad8b-e3dd1ada11da</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>ValidationEngineerMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/ad850334-8586-47af-8b97-0db8a1a8c306</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>PMO(Manufacturing)H/FMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/a28216ab-2350-45ef-93e7-a0ada5e1f9df</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>TechnicienSupport IT L1SOFTWAREFULL-TIME · ON-SITEPARIS - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/32760ddb-9b07-45ed-bfa7-3ca732c446ab</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>QualityControl…(Production)MANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/a9dad07a-ce8a-4877-b5f4-f0261014531d</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>ERP ManagerSTRATEGY &amp; OPERATIONSFULL-TIME · ON-SITEPARIS - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/335171f8-ce28-4cd4-86ca-ed599f1d5e22</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>SupplierQualityEngineerMANUFACTURINGFULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/cd092553-63cf-4a82-895f-027a312879fb</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>Magasinier -StoresOperativeMANUFACTURINGFULL-TIME · ON-SITEPARIS - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/177c5462-b3d1-4fcd-9b62-b1dc35a33e2e</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>MORE OPENINGS - Alta Ares</title>
+<link>http://altaares.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Magasinier -StoresOperativeMANUFACTURING FULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/51f30382-7fa3-4a32-9d17-3d3b4ad6c439</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>AcheteurIndustrielMANUFACTURING FULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/2d8fb4d7-4af4-4518-ad8b-e3dd1ada11da</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>ValidationEngineerMANUFACTURING FULL-TIME · ON-SITETOULOUSE - Alta Ares</title>
+<link>https://jobs.ashbyhq.com/alta-ares/ad850334-8586-47af-8b97-0db8a1a8c306</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>MORE OPENINGS - Alta Ares</title>
+<link>http://altaares.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>READ THE FOUNDERS’ MEMO - Alta Ares</title>
+<link>http://altaares.com/docs/alta-ares-founders-memo.pdf</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>NOV 5, 2026Alta Ares wins six lots inNATO counter-droneframework contractALTA ARES’ BATTLE-TESTED HARD-KILL SYSTEMSENTER THE NATO COUNTER-DRONE CATALOGUE... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-nato-counter-drone-framework-contract</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>AUG 3, 2026Alta Ares and General CherrySign Strategic MoU toStrengthen Ukraine’s Next...THE AGREEMENT COMES AS THE EUROPEAN UNIONCONTINUES TO STRENGTHEN UKRAINE’S ... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-general-cherry-strategic-mou</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>JUNE 16, 2026MBDA x Alta Ares: anunprecedented partnership fora rapid and sovereign...MBDA AND ALTA ARES ARE JOINING FORCES UNDERELISA, A FRENCH DGA INNOVATION PARTNERSHIP... - Alta Ares</title>
+<link>http://altaares.com/blog/mbda-alta-ares-sovereign-response-drone-threat</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>JUNE 11, 2026Airbus and Alta Ares signpartnership to develop Europe’sair defence solutions...BERLIN, 11 JUNE 2026 - AIRBUS DEFENCE AND SPACEAND ALTA ARES, A EUROPEAN DEFENCE TECHNOLOGY... - Alta Ares</title>
+<link>http://altaares.com/blog/airbus-alta-ares-europe-air-defence</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>JUNE 22, 2026Alta Ares and Quantum SystemsJoin Forces to AdvanceEuropean Counter-Drone...STRATEGIC COOPERATION ANNOUNCED AT EUROSATORY2026 TO EXPLORE NEXT-GENERATION COUNTER-DRONE... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-quantum-systems-counter-drone</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>JUNE 9, 2026Alta Ares Raises €50M toBecome a Leading EuropeanPlayer in Air Defense...ALTA ARES, A DEFENSE TECHNOLOGY COMPANYSPECIALIZING IN AIR DEFENSE AND EDGE AI, TODAY... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-raises-50m</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>SEE MORE - Alta Ares</title>
+<link>http://altaares.com/blog</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>NOV 5, 2026Alta Ares wins six lots in NATO counter-drone framework contractALTA ARES’ BATTLE-TESTED HARD-KILL SYSTEMS ENTER THE NATO COUNTER-DRONE CATALOGUE... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-nato-counter-drone-framework-contract</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>AUG 3, 2026Alta Ares and General Cherry Sign Strategic MoU to Strengthen Ukraine’s Next...THE AGREEMENT COMES AS THE EUROPEAN UNION CONTINUES TO STRENGTHEN UKRAINE’S ... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-general-cherry-strategic-mou</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>JUNE 16, 2026MBDA x Alta Ares: an unprecedented partnership for a rapid and sovereign...MBDA AND ALTA ARES ARE JOINING FORCES UNDER ELISA, A FRENCH DGA INNOVATION PARTNERSHIP... - Alta Ares</title>
+<link>http://altaares.com/blog/mbda-alta-ares-sovereign-response-drone-threat</link>
+<description>Sales / Business | Île-de-France</description>
+<category>Sales / Business</category>
+</item>
+<item>
+<title>JUNE 11, 2026Airbus and Alta Ares sign partnership to develop Europe’s air defence solutions...BERLIN, 11 JUNE 2026 - AIRBUS DEFENCE AND SPACE AND ALTA ARES, A EUROPEAN DEFENCE TECHNOLOGY... - Alta Ares</title>
+<link>http://altaares.com/blog/airbus-alta-ares-europe-air-defence</link>
+<description>Dev / Engineering | Île-de-France</description>
+<category>Dev / Engineering</category>
+</item>
+<item>
+<title>JUNE 22, 2026Alta Ares and Quantum Systems Join Forces to Advance European Counter-Drone...STRATEGIC COOPERATION ANNOUNCED AT EUROSATORY 2026 TO EXPLORE NEXT-GENERATION COUNTER-DRONE... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-quantum-systems-counter-drone</link>
+<description>Management / Leadership | Île-de-France</description>
+<category>Management / Leadership</category>
+</item>
+<item>
+<title>JUNE 9, 2026Alta Ares Raises €50M to Become a Leading European Player in Air Defense...ALTA ARES, A DEFENSE TECHNOLOGY COMPANY SPECIALIZING IN AIR DEFENSE AND EDGE AI, TODAY... - Alta Ares</title>
+<link>http://altaares.com/blog/alta-ares-raises-50m</link>
+<description>IA / ML / Data Science | Île-de-France</description>
+<category>IA / ML / Data Science</category>
+</item>
+<item>
+<title>SEE MORE - Alta Ares</title>
+<link>http://altaares.com/blog</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>EXPLORE OUR PLATFORM - Alta Ares</title>
+<link>http://altaares.com/#products</link>
+<description>Ops / Infra / QA | Île-de-France</description>
+<category>Ops / Infra / QA</category>
+</item>
+<item>
+<title>JOIN THE MISSION - Alta Ares</title>
+<link>http://altaares.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>JOIN THE MISSION - Alta Ares</title>
+<link>http://altaares.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Products - Alta Ares</title>
+<link>http://altaares.com/#products</link>
+<description>Product / Design | Île-de-France</description>
+<category>Product / Design</category>
+</item>
+<item>
+<title>Presence - Alta Ares</title>
+<link>http://altaares.com/#presence</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Careers - Alta Ares</title>
+<link>http://altaares.com/careers</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>Legal Information - Alta Ares</title>
+<link>http://altaares.com/legal</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>LinkedIn - Alta Ares</title>
+<link>https://www.linkedin.com/company/alta-ares/</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
+</item>
+<item>
+<title>BACK TO TOP - Alta Ares</title>
+<link>http://altaares.com/#top</link>
+<description>Autre | Île-de-France</description>
+<category>Autre</category>
 </item>
 
 </channel>
